@@ -1,0 +1,1873 @@
+name,street,postcode,city,latitude,longitude,turnover,change in turnover,profit,operative profit,personnel
+Arkkitehtitoimisto Jari Hintsala,Leirintäalueentie 3,97700,Ranua,60.5822395,24.0718901,,,,,
+Arkkitehtitoimisto Juhani Aalto Oy,Iso Kylätie 43,04130,Sipoo,66.695766,27.562634999999997,,,17.0,,5.0
+Aihio Arkkitehdit Oy,Satakunnankatu 18 A,33210,Tampere,61.5010434,23.763256100000003,6413.0,"9,4%",1028.0,"19,8%",58.0
+Arkkitehtitoimisto Juha Tuhkanen Oy,Viipurinkatu 31 A 1,00520,Helsinki,60.19314059999999,24.934214,10.0,"-54,5%",-1.0,-10%,1.0
+Arkkitehtitoimisto Antti Heikkilä Oy,Äyritie 8 C,01510,Vantaa,60.29277695,24.96973014440453,394.0,"-13,6%",5.0,"1,3%",6.0
+Suunnittelutoimisto Insar Oy,Torikatu 1,38200,Sastamala,40.88161525,29.368958198461943,82.0,"-2,4%",-1.0,"-1,2%",2.0
+Arkkitehtisuunnittelu Arkilla Oy,Käsityöläiskatu 4,45100,Kouvola,60.4488936,22.2585192,183.0,"5,2%",13.0,"8,7%",
+Arkkitehtuuritoimisto Vihanto & Co Oy,Satakunnankatu 33 b,33210,Tampere,61.5010434,23.763256100000003,673.0,"-8,2%",1.0,"0,1%",9.0
+Arkkitehtuuritoimisto Ossi Sarkoranta Ky,Vallinkallionkuja 7 a 3,23600,Kalanti,60.823188,21.536445699999998,,,,,
+KVA Arkkitehdit Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,2579.0,"10,6%",8.0,"-1,5%",32.0
+Arktika Suunnittelutoimisto,Puolikkotie 8 ,(Regus,"Iso Omena Business Center), 02230 Espoo",60.1631868,24.73904374851527,,,,,
+Suunnittelutoimisto Pauli Nuutinen Ky,Jokikatu 7,80220,Joensuu,62.59576945,29.76977961387928,,,,,
+K-Suunnittelu Savonlinna / EL Palsa,Olavinkatu 52,57100,Savonlinna,61.870172700000005,28.877041600000002,,,,,
+HMT Arkkitehdit Oy,Hämeentie 155,00560,Helsinki,60.45859720000001,22.3083146,387.0,"-26,3%",-47.0,"-11,8%",8.0
+Lakeuden Alk-Rakennus Oy,60200 Seinäjoki,,,62.73112337203681,22.859740421803398,48.0,"4,3%",-1.0,"-2,1%",1.0
+LPR-arkkitehdit Oy,Kauppiaskatu 5 A,20100,Turku,60.4537174,22.2656557,1707.0,"30,8%",225.0,"16,3%",14.0
+ArkVisio Oy,Puustellinpolku 12,00410,Helsinki,60.24527165,24.860982906668287,,,,,
+Arkkitehtitoimisto Hyvärinen & Co Oy,Vattuniemenkatu 15 A,00210,Helsinki,60.1543916,24.884773499999998,,,,,
+Arkkitehtuuritoimisto Arsatek Oy,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,1100.0,"39,9%",117.0,"13,5%",10.0
+Kakadu,Kaikukatu 2 C,00530,Helsinki,60.1829064,24.959174899999997,883.0,"-16,7%",25.0,"3,3%",15.0
+Arkkitehtuuritoimisto Jaakko Nieminen Oy,Alinenkatu 43,37100,Nokia,61.1231846,21.510432,262.0,11%,11.0,"4,4%",
+Suunnittelu- ja Piirustuspalvelu A Heikkinen Oy,Kintastie 4,87700,Kajaani,65.0257632,25.529754699999998,,,11.0,,1.0
+Arkyhtymä Oy,Viipurintie 45,15150,Lahti,60.9750275,25.69596826462241,218.0,"-12,1%",-19.0,"-8,3%",3.0
+Ajan Arkkitehdit Oy,Raatihuoneenkatu 19 B,00210,"kerros, 13100 Hämeenlinna",62.384322,21.2233462,815.0,"34,9%",259.0,"38,2%",8.0
+Suunnittelutalo PPG Oy,Virtaintie 17,34800,Virrat,62.258184,24.431699,1530.0,"15,5%",327.0,"26,6%",12.0
+Arkkitehtitoimisto Jari Hintsala,Leirintäalueentie 3,97700,Ranua,60.5822395,24.0718901,,,,,
+Arkkitehtitoimisto Juhani Aalto Oy,Iso Kylätie 43,04130,Sipoo,66.695766,27.562634999999997,,,17.0,,5.0
+Aihio Arkkitehdit Oy,Satakunnankatu 18 A,33210,Tampere,61.5010434,23.763256100000003,6413.0,"9,4%",1028.0,"19,8%",58.0
+Arkkitehtitoimisto Juha Tuhkanen Oy,Viipurinkatu 31 A 1,00520,Helsinki,60.19314059999999,24.934214,10.0,"-54,5%",-1.0,-10%,1.0
+Arkkitehtitoimisto Antti Heikkilä Oy,Äyritie 8 C,01510,Vantaa,60.29277695,24.96973014440453,394.0,"-13,6%",5.0,"1,3%",6.0
+Suunnittelutoimisto Insar Oy,Torikatu 1,38200,Sastamala,40.88161525,29.368958198461943,82.0,"-2,4%",-1.0,"-1,2%",2.0
+Arkkitehtisuunnittelu Arkilla Oy,Käsityöläiskatu 4,45100,Kouvola,60.4488936,22.2585192,183.0,"5,2%",13.0,"8,7%",
+Arkkitehtuuritoimisto Vihanto & Co Oy,Satakunnankatu 33 b,33210,Tampere,61.5010434,23.763256100000003,673.0,"-8,2%",1.0,"0,1%",9.0
+Arkkitehtuuritoimisto Ossi Sarkoranta Ky,Vallinkallionkuja 7 a 3,23600,Kalanti,60.823188,21.536445699999998,,,,,
+KVA Arkkitehdit Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,2579.0,"10,6%",8.0,"-1,5%",32.0
+Arktika Suunnittelutoimisto,Puolikkotie 8 ,(Regus,"Iso Omena Business Center), 02230 Espoo",60.1631868,24.73904374851527,,,,,
+Suunnittelutoimisto Pauli Nuutinen Ky,Jokikatu 7,80220,Joensuu,62.59576945,29.76977961387928,,,,,
+K-Suunnittelu Savonlinna / EL Palsa,Olavinkatu 52,57100,Savonlinna,61.870172700000005,28.877041600000002,,,,,
+HMT Arkkitehdit Oy,Hämeentie 155,00560,Helsinki,60.45859720000001,22.3083146,387.0,"-26,3%",-47.0,"-11,8%",8.0
+Lakeuden Alk-Rakennus Oy,60200 Seinäjoki,,,62.73112337203681,22.859740421803398,48.0,"4,3%",-1.0,"-2,1%",1.0
+LPR-arkkitehdit Oy,Kauppiaskatu 5 A,20100,Turku,60.4537174,22.2656557,1707.0,"30,8%",225.0,"16,3%",14.0
+ArkVisio Oy,Puustellinpolku 12,00410,Helsinki,60.24527165,24.860982906668287,,,,,
+Arkkitehtitoimisto Hyvärinen & Co Oy,Vattuniemenkatu 15 A,00210,Helsinki,60.1543916,24.884773499999998,,,,,
+Arkkitehtuuritoimisto Arsatek Oy,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,1100.0,"39,9%",117.0,"13,5%",10.0
+Kakadu,Kaikukatu 2 C,00530,Helsinki,60.1829064,24.959174899999997,883.0,"-16,7%",25.0,"3,3%",15.0
+Arkkitehtuuritoimisto Jaakko Nieminen Oy,Alinenkatu 43,37100,Nokia,61.1231846,21.510432,262.0,11%,11.0,"4,4%",
+Suunnittelu- ja Piirustuspalvelu A Heikkinen Oy,Kintastie 4,87700,Kajaani,65.0257632,25.529754699999998,,,11.0,,1.0
+Arkyhtymä Oy,Viipurintie 45,15150,Lahti,60.9750275,25.69596826462241,218.0,"-12,1%",-19.0,"-8,3%",3.0
+Ajan Arkkitehdit Oy,Raatihuoneenkatu 19 B,00210,"kerros, 13100 Hämeenlinna",62.384322,21.2233462,815.0,"34,9%",259.0,"38,2%",8.0
+Suunnittelutalo PPG Oy,Virtaintie 17,34800,Virrat,62.258184,24.431699,1530.0,"15,5%",327.0,"26,6%",12.0
+Arkitektbyrå R. Wingren Ab,Villavägen 8,68580,Larsmo,55.83673149999999,13.300955300000002,243.0,"14,1%",19.0,"8,2%",3.0
+Arkkitehtitoimisto Vapaavuori Oy,Itäinen Rantakatu 64,20810,Turku,60.43912025,22.24769048528368,76.0,"-38,7%",-21.0,"-26,3%",1.0
+ark.in Arkkitehtuuritoimisto Ky,Sammonkatu 8-10 F,33540,Tampere,62.5906047,29.7762076,,,,,
+Sigge Arkkitehdit Oy,Läntinen Rantakatu 53,20100,Turku,60.44117765,22.24626016886528,5415.0,"15,9%",1214.0,"27,6%",53.0
+Sigge Arkkitehdit Oy,Perämiehenkatu 12 e,00150,Helsinki,60.157712800000006,24.935277199999998,5415.0,"15,9%",1214.0,"27,6%",53.0
+Arkkitehtitoimisto Tähti-Set Oy,Pyhäjärvenkatu 1 A,33200,Tampere,61.4923998,23.7511607,3320.0,"7,4%",579.0,"21,3%",32.0
+Arrak Arkkitehdit Kiiskilä Rautiola Rautiola Oy,Pursimiehenkatu 6 C,00150,Helsinki,63.1085944,21.595792899999996,1009.0,"61,7%",121.0,"11,8%",10.0
+Arkkitehtuuri Oy Lehtinen Miettunen,Viipurintie 4,13200,Hämeenlinna,60.973240399999995,25.7020904,625.0,"1,3%",277.0,"55,3%",
+Arkkitehtitoimisto Kronlöf Pauliina ja Juha Oy,Sepänkatu 17 F,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Jorma Paloranta Oy,Kyöstintie 29,84100,Ylivieska,60.771537699999996,26.795267,,,,,
+Arkkitehtitoimisto Lindqvist Marjut,Simpukkatie 28,48310,Kotka,61.4987764,21.823795899999997,,,,,
+Plaana Oy,Tyrnäväntie 12,90400,Oulu,64.99515210000001,25.458692000000003,3140.0,3%,294.0,"8,9%",34.0
+Arkkitehtitoimisto Haroma & Partners Oy,Itäinen Rantakatu 74 D 169,20810,Turku,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Sintonen-Rahunen-Karjalainen Lahti,Rauhankatu 17 B,15110,Lahti,63.095088,21.626063000000002,136.0,3%,8.0,"7,4%",2.0
+Arkkitehtitoimisto AR-Vastamäki Oy,Satakunnankatu 13 B,33100,Tampere,61.50086339999999,23.76357028778697,,,,,
+Arkkitehtitoimisto Ad.Ce Suunnittelu Oy,Puutarhakatu 49,20100,Turku,62.899345600000004,27.677740399999998,166.0,"-10,3%",45.0,"34,3%",1.0
+Arkkitehtitoimisto Ilkka Ridanpää Oy,Rautatienkatu 19 A 43,15110,Lahti,0.0,0.0,,,,,
+Arkkitehtitoimisto Kekkonen & Vuorento Oy,Kauppalankatu 2 B,05800,Hyvinkää,60.86908680000001,26.703750205732288,211.0,"6,6%",7.0,"3,3%",3.0
+Leppänen Arkkitehdit Oy,Klaneettitie 6-8 B,00420,Helsinki,60.23814795,24.875825086130465,522.0,"-5,6%",27.0,"6,9%",6.0
+Tiina Elina Toivonen Consulting Kommandiittiyhtiö,Pohjoisranta 11,28100,Pori,61.492723100000006,21.798102552987636,,,,,
+Arkkitehtitoimisto Vesa Näsi,Kuntalantie 8 B,03850,Pusula,60.470563399999996,23.984876899999996,,,,,
+Saraco D&M Oy,Annankatu 27, 00100, Helsinki,60.1675711,24.9361326,3914.0,"1,8%",560.0,"16,6%",22.0
+Rakennus- ja Arkkitehtipalvelu Pertti Ahola Oy,Loukkukatu 22,40630,Jyväskylä,60.627852000000004,23.9363212,48.0,"-17,2%",28.0,"64,6%",
+Arkkitehtiryhmä A6 Oy,Pursimiehenkatu 29 A,00150,Helsinki,60.1605623,24.9411704,1506.0,1%,180.0,"14,9%",22.0
+Arkkitehtitoimisto Arkture Oy,Kauppakatu 15,95400,Tornio,62.598453799999994,29.758523600000004,234.0,"0,4%",108.0,"57,4%",2.0
+Arkkitehtitoimisto Lilja Oy,Munkinmäentie 19 ,02400,Kirkkonummi,0.0,0.0,,,,,
+Arkkitehtitoimisto Tilatakomo Oy,Pyhäjärvenkatu 6,33200,Tampere,61.473659700000006,23.666195899999998,423.0,"-4,7%",172.0,"49,2%",
+Arkkitehtuuritoimisto J-P Husso,Paavo Kolin katu 4 B 10,33720,Tampere,0.0,0.0,,,,,
+Arkman Arkkitehtuuri Oy,Pitkänsillankatu 1-3 3.krs,67100,Kokkola,0.0,0.0,,,,,
+Konsultointi Karhulat Oy,Hallituskatu 13 - 17 c 20,90100,Oulu,0.0,0.0,,,,,
+Studio Puisto Arkkitehdit Oy,Mariankatu 7 A 4,00170,Helsinki,60.455437399999994,26.230037100000004,1085.0,-4%,7.0,"0,9%",
+Arkkitehtitoimisto HMV Oy,Töölönkatu 4,00100,Helsinki,60.1774274,24.928369500000002,1519.0,"-8,3%",167.0,"13,9%",13.0
+Arkkitehtitoimisto Hedman & Matomäki Oy - Arkitektbyrå Hedman & Matomäki Ab,Suolakivenkatu 16 Lt 1,00810,Helsinki,60.1891791,25.0264303,,,37.0,,6.0
+Arkkitehtitoimisto Jussi Tervaoja Oy,Klyyvari 3 A,90510,Oulu,65.0379692,25.421320899999998,228.0,"8,1%",97.0,"53,3%",3.0
+Arkkitehtitoimisto Käppi Oy,Pallokentäntie 4,45700,Kuusankoski,60.90591625,26.621633830424763,487.0,"2,3%",3.0,"0,8%",5.0
+Arkkitehtitoimisto Ulla Hovi Oy,Ruukinkatu 11 A,48100,Kotka,60.453325899999996,22.301838399999998,208.0,"7,2%",-3.0,"0,5%",5.0
+Arkkitehtuurisuunnittelu P. Pylkkönen-Palm,Puuvillakatu 4,30100,Forssa,59.4523879,24.701062,,,,,
+Arkkitehtuuritoimisto Kari Järvinen,Lohikuja 2,17200,Vääksy,61.8637946,28.83559353272859,,,,,
+Liike Oy Arkkitehtistudio,Malminkatu 28,00100,Helsinki,60.1676941,24.9281904,400.0,"4,7%",83.0,"26,1%",4.0
+Suunnittelumikkonen Ky,Takalontie 810,90910,Kontio,65.15106949999999,25.640005300000002,,,,,
+Tilatoive Oy,Kuuselantie 11 b,90800,Oulu,65.0772972,25.397946700000002,96.0,"-10,3%",-15.0,-14%,1.0
+arkkitehdit MV oy,Otsolahdentie 7 A,02110,Espoo,60.1777897,24.818955351908308,573.0,"8,7%",94.0,"20,4%",5.0
+Arkkitehtuuritoimisto Ovaskainen Oy,Satamatie 25,53900,Lappeenranta,61.0685784,28.179645084177213,,,,,
+Arkkitehtitoimisto Rosberg Ikävalko Oy,Möysänkatu 3,15150,Lahti,60.97973295,25.68187505,1522.0,"-4,9%",395.0,31%,10.0
+Arkera Oy,Ali-Huikkaantie 33 A,33560,Tampere,61.4974003,23.8387179,291.0,"-2,7%",5.0,"2,4%",4.0
+Arkkitehtuuritoimisto Erkka Ruusunen Oy,Valtakatu 6,26100,Rauma,61.05753085,28.174110355848807,,,,,
+Insinööritoimisto Laaksonen Oy,Perttulankatu 21,05900,Hyvinkää,60.6370904,24.83854575941286,,,,,
+Talopiirtopalvelu Kari Mäntylä Tmi,Kauppakatu 10,43100,Saarijärvi,61.1900808,28.77044664896959,,,,,
+V-S Tekniikkatalo Oy,Maariankatu 4 A,20100,Turku,60.567201000000004,27.194795199999998,241.0,"-1,6%",35.0,"18,3%",3.0
+Arkkitehdit Davidsson Tarkela Oy,Kasarmikatu 36,00130,Helsinki,60.16521120000001,24.9469241,1869.0,"5,4%",-76.0,"-4,1%",13.0
+NAC Arkkitehdit Oy,Vaasanpuistikko 18,65100,Vaasa,60.18797985,24.96074215420701,,,,,
+Arkkitehtitoimisto Ark'Aboa Oy,Nahkurinkatu 8,20100,Turku,60.45475195,22.272427216126104,503.0,"13,3%",1.0,"0,2%",
+Arkkitehtitoimisto HKP,Bulevardi 44 , 00120, Helsinki,60.161864,24.9314657,2544.0,"3,8%",299.0,"14,7%",18.0
+Arkkitehtitoimisto Planssi Oy,Hakuntie 6,45610,Koria,60.85069615000001,26.60507834991488,220.0,"11,9%",54.0,"30,5%",2.0
+Arkkitehtitomisto Schauman Arkkitehdit Oy,Linnankatu 9 D kattokrs,20100,Turku,0.0,0.0,,,,,
+Insinööritoimisto Savolainen Oy,Microkatu 1,70210,Kuopio,62.8888517,27.628521632078325,,,,,
+Arkkitehdit P & R Oy,Veturikuja 7,01300,Vantaa,60.29806315,25.04434007285181,912.0,"26,7%",5.0,"2,8%",11.0
+Arkkitehtitoimisto Yrjö J. Warvas Oy,Kalevankatu 4,08100,Lohja,61.06239415,28.25957245,,,,,
+N.e.o Ark Oy,Kuusistontie 6,33480,Ylöjärvi,60.34993475,24.89565908693843,200.0,"9,9%",-42.0,"-20,5%",
+Oopeaa,Kauppakatu 19 A,60100,Seinäjoki,62.891366000000005,27.6732691,1408.0,"14,9%",105.0,"9,3%",14.0
+Rockplan,Kellosilta 5 B 3.krs,00520,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Jaakkola Hannu Oy,Tallbergin puistotie 1,00200,Helsinki,60.1580519,24.881248384619397,3067.0,"23,6%",440.0,18%,19.0
+Insinööritoimisto Tilatek Oy,Ruokojärvenkatu 7,38700,Kankaanpää,61.8010461,22.395740600000003,472.0,"-2,5%",30.0,"10,2%",6.0
+Arkkitehtuuritoimisto Pekka Hornamo Ky,Vuorikatu 4 B 45,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtimo Oy,Gallen-Kallelankatu 8,28100,Pori,61.486808200000006,21.7944786,169.0,47%,38.0,"27,8%",1.0
+Insinööritoimisto Oikarainen Oy,Torangintaival 1,93600,Kuusamo,65.9429728,29.2167875,479.0,"-12,1%",139.0,"35,9%",4.0
+ARK Vahtera Oy,Pitkämäenkatu 11 A,20250,Turku,60.45656170000001,22.2365147,,,,,
+Lukkaroinen Arkkitehdit Oy,Kauppurienkatu 12,90100,Oulu,65.01094570000001,25.473292899999997,6542.0,44%,686.0,"13,2%",61.0
+Jeskanen-Repo-Teränne Arkkitehdit Oy,Pursimiehenkatu 29-31 B,00150,Helsinki,60.1585667,24.9334431,1616.0,"39,4%",378.0,"29,1%",
+Arkkitehtitoimisto Päivi Vuori,Mikkolankuja 30,31700,Urjala as,60.9562395,24.496350699999997,,,,,
+Arkkitehtitoimisto Virkkunen & Co,Tallberginkatu 9,00180,Helsinki,60.16377070000001,24.902885100000002,1259.0,-19%,164.0,"16,4%",11.0
+Insinööri- ja arkkitehtitoimisto Oy Palola & Piispanen,Elektroniikkatie 3,90590,Oulu,65.0584849,25.4399524,773.0,"10,1%",105.0,17%,12.0
+Polyplan Oy Ab,Raastuvankatu 18 B,65100,Vaasa,63.0957081,21.6126092,,,,,
+Arkkitehtitoimisto Lasse Kosunen Oy,Aleksis Kiven katu 11 B,33100,Tampere,60.1956262,24.936538600000002,1283.0,"25,7%",242.0,"23,2%",
+Arkkitehtitoimisto Arto Mattila Oy,Sepänkatu 9,70100,Kuopio,60.1591331,24.9394421,86.0,"-11,3%",6.0,7%,
+Arkitekttjänst Johan Ångerman,Frilundsvägen 2,65170,Vasa,63.092361600000004,21.559872199999997,93.0,"8,1%",6.0,"8,5%",1.0
+Arkkitehtitoimisto H&M Arkkitehdit,Rautatienkatu 19 A,15110,Lahti,65.0000605,25.4688456,473.0,"18,5%",82.0,"19,8%",
+Arkkitehtitoimisto Hannu,Kalevalankatu 11 A,32200,Loimaa,62.9008035,27.6966477,,,,,
+Arkkitehtitoimisto Huvila Oy,Sturenkatu 4,00510,Helsinki,60.193187300000005,24.9544127,237.0,"10,7%",24.0,"13,1%",3.0
+Arkkitehtitoimisto RCo Oy,Hallituskatu 19,13100,Hämeenlinna,61.0716515,28.257620199999998,394.0,"9,1%",22.0,"7,1%",4.0
+Arosuo Arkkitehdit Oy,Itäinen Pitkäkatu 21 A,20700,Turku,60.4393711,22.261936600000002,545.0,"-17,5%",37.0,"4,9%",
+Suunnittelutoimisto Jalkanen Oy,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,184.0,"11,5%",0.0,"-5,4%",3.0
+Zaner Arkkitehdit Oy,Säterinkulma 7 B 13,42100,Jämsä,0.0,0.0,,,,,
+VPL Arkkitehdit Oy,Pursimiehenkatu 29-31 B,00150,Helsinki,60.1585667,24.9334431,1318.0,"25,2%",246.0,"23,3%",10.0
+AK-Plan Oy,Rantakatu 13 C 45,65100,Vaasa,20.9331551,-89.596046,355.0,"1,4%",170.0,"55,8%",3.0
+Arkkitehdit K H Ky,Paciuksenkuja 1,00270,Helsinki,60.196535600000004,24.8973914,,,,,
+Arkkitehtitoimisto Jorma Teppo Oy,Nummikatu 10,90100,Oulu,60.455721700000005,22.3083806,760.0,"73,1%",142.0,"32,6%",7.0
+Arkkitehtitoimisto L-N Oy,Henry Fordin katu 5 K,00150,Helsinki,60.1530291,24.9250917,424.0,"33,8%",183.0,"54,2%",1.0
+Arkkitehtitoimisto Rantakokko Oy,Pohjolankatu 4,96100,Rovaniemi,61.86383395,28.93885081545663,271.0,"-19,3%",5.0,"2,6%",4.0
+Oopeaa,Eteläinen Hesperiankatu 8,00100,Helsinki,60.177020299999995,24.9267388,1408.0,"14,9%",105.0,"9,3%",14.0
+ARK Takala Oy,Henrikinkatu 9,20500,Turku,60.45286425000001,22.27978735246093,1554.0,"-9,9%",9.0,"0,9%",19.0
+Arcadia Oy Arkkitehtitoimisto,Niskakatu 16 B,80100,Joensuu,62.6043239,29.754946,799.0,"-19,4%",100.0,"15,9%",9.0
+Arkkitehtitoimisto Amazon,Karjaportintie 27,90140,Oulu,65.0003853,25.498299,,,,,
+Arkkitehtitoimisto Ark Plan Oy,Kalevankatu 6-8,60100,Seinäjoki,64.26759670000001,24.8266633,76.0,"13,4%",0.0,0%,
+Arkkitehtitoimisto JVK-Arkkitehdit Ky,Isokatu 27 B 16,90100,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Marja-Terttu Mäki,08200 Lohja,,,60.25260359999999,24.0684575,,,,,
+Arkkitehtitoimisto Merja Eskola,Uudenmaankatu 2 K 3,00120,Helsinki,60.45174720000001,22.2755401,,,,,
+Arkkitehtitoimisto Rahola Ulla,Karlax Vartiosaari,00830,Helsinki,60.18845110000001,25.07909695852067,,,,,
+Arkkitehtitoimisto Sarpaneva Oy Ab,Itälahdenkatu 18 C,00210,Helsinki,60.1474753,24.8825265,,,,,
+Arkkitehtuuritoimisto Jari Miettunen,Kuussaarentie 7 D,95220,Simoniemi,62.7489361,29.8082593,,,,,
+BST-Arkkitehdit Oy,Finlaysoninkatu 5,33210,Tampere,61.501971999999995,23.758177,2821.0,-2%,425.0,"18,9%",35.0
+Hila Arkkitehdit Oy,Hämeenkatu 22,20500,Turku,60.56653085,27.2275601,,,32.0,,3.0
+Insinööritoimisto Kujanpää Samuli Tmi,Auerkatu 5,20900,Turku,46.3465946,11.298633500000001,,,,,
+Kirsti Sivén & Asko Takala Arkkitehdit Oy,Korkeavuorenkatu 25 A 5,00130,Helsinki,60.160218799999996,24.9465659,1337.0,"-18,2%",140.0,"12,8%",17.0
+Suunnittelupiste Oy,Yliopistonkatu 44,40100,Jyväskylä,62.24540020000001,25.749107719038463,17.0,"6,3%",7.0,"35,3%",1.0
+Vauhtiviiva Oy,Kirkkokatu 20 A 20,90100,Oulu,64.2265402,27.7308892,315.0,"19,8%",-6.0,"-1,9%",
+Arkkitehdit Tommila Oy,Kuusiniementie 5,00340,Helsinki,60.1880786,24.8681008,661.0,,139.0,"26,3%",14.0
+Arkkitehdit NRT Oy,Kalevankatu 31,00100,Helsinki,62.6036001,29.7561053,2811.0,"-5,4%",338.0,15%,34.0
+Arkkitehtitoimisto A-Konsultit Oy / Arkitektbyrå A-Konsult Ab,Ratakatu 19,00120,Helsinki,42.0352799,21.037494600000002,1585.0,"39,4%",138.0,"9,1%",16.0
+Arkkitehtitoimisto Lpv Jyväskylä Oy,Gummeruksenkatu 7 A 1,40100,Jyväskylä,62.2410899,25.7409844,1057.0,"12,7%",201.0,"24,2%",
+Arkkitehdit Kontukoski Oy,Finlaysoninkuja 9,33210,Tampere,61.502081499999996,23.7588401,1533.0,"35,9%",303.0,"24,8%",15.0
+STYR Suunnittelu,Salakkakatu 3,70820,Kuopio,62.8168825,27.674326500000003,,,,,
+Gravicon Oy,Sturenkatu 4,00510,Helsinki,60.193187300000005,24.9544127,2608.0,"22,2%",52.0,"2,1%",24.0
+Arkki J. Murtosaari Ky,Lapamutka 18,41120,Puuppola,0.0,0.0,,,,,
+Korjausrakentaminen Vanhoo Ossoo / Maria Luostarinen,Asikkalantie 21,58900,Rantasalmi,61.179079099999996,25.5240383,,,,,
+Arkkitehdit Lång-Kivilinna & Larikka Arkitekter Oy Ab,Yliopistonranta 8 rakennus F2,65200,Vaasa,0.0,0.0,,,,,
+Arkkitehdit MY Oy,Aleksis Kiven katu 10 E 60,33210,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Antti Voutilainen Oy,Laivurinkatu 33 C 54,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Arto Klemetti Oy,Pohjolankatu 28 B 4,87100,Kajaani,63.559855799999994,27.1900755,143.0,"60,7%",33.0,"29,4%",1.0
+Arkkitehtitoimisto Kareoja-Herranen,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,94.0,-13%,8.0,"10,6%",2.0
+Arkkitehtitoimisto V.Sairanen,Kalustetie 1,01720,Vantaa,60.27665210000001,24.8187266,,,,,
+Arkkitehtuuritoimisto Ava,Holstilantie 1 a,71570,Syvänniemi,62.845266099999996,27.3117756,,,,,
+Rakennusvalvonta ja Rakennussuunnittelu Tero Kontiainen,Yhdystie 4,66400,Laihia,61.70336045000001,27.20574839761318,,,,,
+Ark-House Arkkitehdit Oy,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,1188.0,"12,2%",78.0,"8,3%",10.0
+Arkkitehtuuritoimisto Pirjo Huhtakangas,Linnankoskenkatu 59 A 1,06100,Porvoo,60.392141200000005,25.6704609,,,,,
+"martens arkkitehdit, ateljé",Tanotorventie 19 A,00420,Helsinki,60.24143929999999,24.8924439,,,,,
+Arkkitehtuuritoimisto Juha Pekka Mikkonen,Tarkka-ampujankatu 14,90120,Oulu,65.00363829999999,25.454382422341236,,,,,
+Laaja Arkitekter Ab,Runebergsgatan 8,68600,Jakobstad,63.840436399999994,23.14715285000001,299.0,"1,7%",-8.0,"-2,3%",
+Rakennussuunnittelu Markku Syväluoma Oy,Joentaustantie 810,64720,Perälä,60.8937502,21.7003074,,,20.0,,
+Suunnittelu Penark Oy,Kuninkaankatu 39 B,33200,Tampere,62.892050399999995,27.6850985,433.0,"16,7%",73.0,"19,2%",4.0
+Hellevi Saarinen,Yliopistonkatu 44,40100,Jyväskylä,62.24540020000001,25.749107719038463,,,,,
+Ismo Blomqvist,Ali-Huikkaantie 33 A,33560,Tampere,61.4974003,23.8387179,,,,,
+Paula Markkula,Puutarhakatu 49,20100,Turku,62.899345600000004,27.677740399999998,,,,,
+Tapani Penttilä,Maariankatu 4 C VI krs.,20100,Turku,0.0,0.0,,,,,
+Jarkko Lukander,Maariankatu 4 C VI krs.,20100,Turku,0.0,0.0,,,,,
+Johan Helmisaari,Maariankatu 4 C VI krs.,20100,Turku,0.0,0.0,,,,,
+Asiakaspalvelu,Maariankatu 4 C VI krs.,20100,Turku,0.0,0.0,,,,,
+ Kari Harju,Satakunnankatu 33 b,33210,Tampere,61.5010434,23.763256100000003,,,,,
+Anneli Hellsten,Rautatienkatu 19 A,15110,Lahti,65.0000605,25.4688456,,,,,
+Anssi Lassila,Hakalankatu 10 B,60100,Seinäjoki,62.78507420000001,22.851659299999998,,,,,
+Ari Heikkinen,Kintastie 4,87700,Kajaani,65.0257632,25.529754699999998,,,,,
+Arto Mattila,Kidekatu 15,70840,Kuopio,46.977483,23.6006827,,,,,
+Barbro Holmberg,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Hannu Kiiskilä,Pursimiehenkatu 6 C,00150,Helsinki,63.1085944,21.595792899999996,,,,,
+Heidi Mäkeläinen,Paciuksenkuja 1,00270,Helsinki,60.196535600000004,24.8973914,,,,,
+Hilkka Maija Antila,Vaasanpuistikko 18,65100,Vaasa,60.18797985,24.96074215420701,,,,,
+Janne Helin,Linnankatu 9 D kattokrs,20100,Turku,0.0,0.0,,,,,
+Jari Hintsala,Leirintäalueentie 3,97700,Ranua,60.5822395,24.0718901,,,,,
+Jarmo Järventausta,Torikatu 1,38200,Sastamala,40.88161525,29.368958198461943,,,,,
+Johan Ångerman,Frilundintie 2,65170,Vaasa,63.092361600000004,21.559872199999997,,,,,
+Johanna Vihikangas,Kolmihaarankatu 6,33330,Tampere,61.5028899,23.577530399999997,,,,,
+Juha Heinämäki,Virtaintie 17,34800,Virrat,62.258184,24.431699,,,,,
+Juha Laine,Halituskatu 19,13100,Hämeenlinna,0.0,0.0,,,,,
+Juhani Aalto,Iso Kylätie 43,04130,Sipoo,66.695766,27.562634999999997,,,,,
+Jukka Laamanen,Puustellinpolku 12,00410,Helsinki,60.24527165,24.860982906668287,,,,,
+Jussi Mansikkamäki,Pitkänsillankatu 1-3 3.krs,67100,Kokkola,0.0,0.0,,,,,
+Jyrki Iso-Aho,Ratakatu 19,00120,Helsinki,42.0352799,21.037494600000002,,,,,
+Kari Leppänen,Klaneettitie 6-8 B,00420,Helsinki,60.23814795,24.875825086130465,,,,,
+Kari Palaste,Pursimiehenkatu 29-31 B,00150,Helsinki,60.1585667,24.9334431,,,,,
+Kari Tuominen,Viipurintie 45,15150,Lahti,60.9750275,25.69596826462241,,,,,
+Katja Maununaho,Töölöntorinkatu 2 B,00260,Helsinki,60.179153299999996,24.9251165,,,,,
+Kirsti Sintonen,Rauhankatu 17 B,15110,Lahti,63.095088,21.626063000000002,,,,,
+Marjo Kekkonen,Kauppalankatu 2 B,05800,Hyvinkää,60.86908680000001,26.703750205732288,,,,,
+Marko Aitio,Satakunnankatu 13 B,33100,Tampere,61.50086339999999,23.76357028778697,,,,,
+Matti Karhula,Hallituskatu 13 - 17 c 20,90100,Oulu,0.0,0.0,,,,,
+Matti Terho,Kauppakatu 15,95400,Tornio,62.598453799999994,29.758523600000004,,,,,
+Mikko Lukkaroinen,Kauppurienkatu 12,90100,Oulu,65.01094570000001,25.473292899999997,,,,,
+Mikko Suvisto,Bulevardi 44, 00120, Helsinki,60.161864,24.9314657,,,,,
+Pekka Hornamo,Vuorikatu 4 B 45,00100,Helsinki,0.0,0.0,,,,,
+Pekka Mäki,Läntinen Rantakatu 53,20100,Turku,60.44117765,22.24626016886528,,,,,
+Päivi Kasurinen,Hakuntie 6,45610,Koria,60.85069615000001,26.60507834991488,,,,,
+Päivi Vuori,Mikkolankuja 30,31700,Urjala as,60.9562395,24.496350699999997,,,,,
+Rauno Lehtinen,Perämiehenkatu 12 e,00150,Helsinki,60.157712800000006,24.935277199999998,,,,,
+Renni Haroma,Itäinen Rantakatu 74 D 169,20810,Turku,0.0,0.0,,,,,
+Roger Wingren VD,Villavägen 8,68580,Larsmo,55.83673149999999,13.300955300000002,,,,,
+Roland Björkqvist,Raastuvankatu 18 B,65100,Vaasa,63.0957081,21.6126092,,,,,
+Sakari Miettunen,Viipurintie 4,13200,Hämeenlinna,60.973240399999995,25.7020904,,,,,
+Sauli Lind,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,,,,,
+Taina Anttila,Raatihuoneenkatu 19B,5.,"kerros, 13100 Hämeenlinna",61.686805500000006,27.2756838,,,,,
+Taina Väisänen,Kuusistontie 6,33480,Ylöjärvi,60.34993475,24.89565908693843,,,,,
+Tapio Saarelainen,Pursimiehenkatu 29 A,00150,Helsinki,60.1605623,24.9411704,,,,,
+Teppo Pietarinen,Veturikuja 7,01300,Vantaa,60.29806315,25.04434007285181,,,,,
+Timo Hyvärinen,Vattuniemenkatu 15 A,00210,Helsinki,60.1543916,24.884773499999998,,,,,
+Timo Lähteenmäki,Gallen-Kallelankatu 8,28100,Pori,61.486808200000006,21.7944786,,,,,
+Veera Rautaheimo,Kauppiaskatu 5 A 4 krs,20100,Turku,0.0,0.0,,,,,
+Vesa Arosuo,Itäinen Pitkäkatu 21 A,20700,Turku,60.4393711,22.261936600000002,,,,,
+Vesa Laukkanen,Henry Fordin katu 5 K,00150,Helsinki,60.1530291,24.9250917,,,,,
+ Markku Mäki-Opas,Satakunnankatu 33 b,33210,Tampere,61.5010434,23.763256100000003,,,,,
+Ann-Marie Niskanen,Henry Fordin katu 5 K,00150,Helsinki,60.1530291,24.9250917,,,,,
+Antti Konola,Raatihuoneenkatu 19B,5.,"kerros, 13100 Hämeenlinna",61.686805500000006,27.2756838,,,,,
+Ari Pusa,Läntinen Rantakatu 53,20100,Turku,60.44117765,22.24626016886528,,,,,
+Arja Hyvärinen,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Arto Peltokangas,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,,,,,
+Esko Rautiola,Pursimiehenkatu 6 C,00150,Helsinki,63.1085944,21.595792899999996,,,,,
+Frank Schauman,Linnankatu 9 D kattokrs,20100,Turku,0.0,0.0,,,,,
+Gustav Simons arkitekt SAFA,Villavägen 8,68580,Larsmo,55.83673149999999,13.300955300000002,,,,,
+Ismo Rellman,Satakunnankatu 13 B,33100,Tampere,61.50086339999999,23.76357028778697,,,,,
+Juhani Puukka,Torikatu 1,38200,Sastamala,40.88161525,29.368958198461943,,,,,
+Lasse Lehtinen,Viipurintie 4,13200,Hämeenlinna,60.973240399999995,25.7020904,,,,,
+Minna Pirinen,Kolmihaarankatu 6,33330,Tampere,61.5028899,23.577530399999997,,,,,
+Patrick Holmström,Itäinen Pitkäkatu 21 A,20700,Turku,60.4393711,22.261936600000002,,,,,
+Pauno Narjus,Kauppiaskatu 5 A 4 krs,20100,Turku,0.0,0.0,,,,,
+Pekka Vapaavuori,Itäinen Rantakatu 64,20810,Turku,60.43912025,22.24769048528368,,,,,
+Riikka Ahonen,Vattuniemenkatu 15 A,00210,Helsinki,60.1543916,24.884773499999998,,,,,
+Risto Nissilä,Raastuvankatu 18 B,65100,Vaasa,63.0957081,21.6126092,,,,,
+Seppo Markku,Rautatienkatu 19 A,15110,Lahti,65.0000605,25.4688456,,,,,
+Sirpa Kekkonen,Kauppalankatu 2 B,05800,Hyvinkää,60.86908680000001,26.703750205732288,,,,,
+Taina Karjalainen,Rauhankatu 17 B,15110,Lahti,63.095088,21.626063000000002,,,,,
+Teemu Saari,Virtaintie 17,34800,Virrat,62.258184,24.431699,,,,,
+Tiina Heikkilä,Vaasanpuistikko 18 12,65100,Vaasa,60.18797985,24.96074215420701,,,,,
+Tove Hagman,Vanha Hämeenlinnantie 3A,06100,Porvoo,60.3697543,24.805322699999998,,,,,
+"Dang Phi Thanh, arkitekt SAFA",Villavägen 8,68580,Larsmo,55.83673149999999,13.300955300000002,,,,,
+Harri Verälä,Itäinen Pitkäkatu 21 A,20700,Turku,60.4393711,22.261936600000002,,,,,
+Heidi Kulla,Raastuvankatu 18 B,65100,Vaasa,63.0957081,21.6126092,,,,,
+Jarmo Maunula,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Juha Kuokkanen,Läntinen Rantakatu 53,20100,Turku,60.44117765,22.24626016886528,,,,,
+Juha Mikkola,Raatihuoneenkatu 19B,00210,"kerros, 13100 Hämeenlinna",61.686805500000006,27.2756838,,,,,
+Kai Heimala,Kauppalankatu 2 B,05800,Hyvinkää,60.86908680000001,26.703750205732288,,,,,
+Matias Topi,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,,,,,
+Matti Rautiola,Pursimiehenkatu 6 C,00150,Helsinki,63.1085944,21.595792899999996,,,,,
+Petri Koivisto,Kolmihaarankatu 6,33330,Tampere,61.5028899,23.577530399999997,,,,,
+Sami Heinämäki,Virtaintie 17,34800,Virrat,62.258184,24.431699,,,,,
+Sari Tuovinen,Satakunnankatu 13 B,33100,Tampere,61.50086339999999,23.76357028778697,,,,,
+Seija Kuusinen,Sarvijaakonkatu 32,33540,Tampere,60.455517500000006,22.169846399999997,,,,,
+Tiitta Itkonen,Kauppiaskatu 5 A,20100,Turku,60.4537174,22.2656557,,,,,
+Jaakko Kiukkanen,Kuusistontie 6,33480,Ylöjärvi,60.34993475,24.89565908693843,,,,,
+Jonni Lampinen,Kauppiaskatu 5 A 4 krs,20100,Turku,0.0,0.0,,,,,
+Krista Järvinen,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,,,,,
+Markku Taskinen,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Eevi Peltokangas,Possijärvenkatu 1,33400,Tampere,61.51734855,23.664015344288988,,,,,
+Jarmo Seppä,Sarvijaakonkatu 32,33540,Tampere,60.455517500000006,22.169846399999997,,,,,
+Jukka Sallinen,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Mikko Mannberg,Kauppiaskatu 5 A 4 krs,20100,Turku,0.0,0.0,,,,,
+Aleksi Myyryläinen,Kauppiaskatu 5 A 4 krs,20100,Turku,0.0,0.0,,,,,
+Winni Ekelund,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Hannu Tenho,Kauppiaskatu 5 A,20100,Turku,60.4537174,22.2656557,,,,,
+Milja Nuorkivi,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Leena Tuovinen,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Hanna Staaf,Hämeentie 155 C,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Rosenberg Kati graafinen suunnittelija,Elsankuja 2 F 59,02230,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Helander-Leiviskä,Ratakatu 19,00120,Helsinki,42.0352799,21.037494600000002,,,,,
+A. K. E. Studio Oy Arkkitehtuuritoimisto,Kilpijärventie 140,04740,Sälinkää,61.47091120000001,27.2290081,28.0,,6.0,"28,6%",
+ARC-VIVA Arkkitehtitoimisto,Sepänkuja 8,86600,Haapavesi,60.478846700000005,22.200507878761066,4.0,-20%,2.0,50%,
+ARK Miettinen Oy,Runeberginkatu 40 B 43,00260,Helsinki,0.0,0.0,,,,,
+ARKdot Oy,Merikatu 1,26200,Rauma,60.1559946,24.9490883,129.0,,42.0,"41,1%",1.0
+AW2-Arkkitehdit,Köydenpunojankatu 2 F,00180,Helsinki,60.4557899,22.2498858,7454.0,"78,1%",1005.0,"17,1%",
+Apsis Arkkitehtitoimisto,Alexandersgatan 50 A 8,00100,Helsingfors,0.0,0.0,,,,,
+Ark Heinonen  arkkitehtitoimisto,Panimokatu 23 C 55,15140,Lahti,0.0,0.0,,,,,
+Arkadi Arkkitehdit,Voudintie 4,90400,Oulu,60.21936510000001,24.96462896484704,,,,,
+Arkion Oy,Pyynikintori 3,33230,Tampere,61.49729549999999,23.740683800000003,294.0,"4,6%",4.0,"1,7%",
+Arkitek Oy Ab,Viasvägen 97,66140,Övermalax,56.91290060000001,12.4863619,454.0,"27,2%",11.0,4%,4.0
+Arkkitehdit D4 Oy,Otsonkallio 2,02110,Espoo,60.18008390000001,24.818263899999998,518.0,,38.0,"9,5%",7.0
+Arkkitehdit Rintamäki Viljanen+J Oy,Rantalinna Rantakatu 65100,65100,Vaasa,63.0922242,21.605530337766105,387.0,"-8,7%",38.0,"9,8%",3.0
+Arkkitehdit Rudanko + Kankkunen Oy,Köydenpunojankatu 2aD,00180,Helsinki,60.1616927,24.9270889,2190.0,28%,148.0,"8,2%",12.0
+Arkkitehdit Sivula & Sivula Oy,Perämiehenkatu 12 E 528,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Soini & Horto Oy,Malminkatu 30,00100,Helsinki,60.16785720000001,24.927173800000002,7557.0,"1,4%",645.0,"10,7%",49.0
+Arkkitehtipalvelu Maija Outinen Ky,Vuoritie 13,04400,Järvenpää,60.16333475,24.65296576471957,,,,,
+Arkkitehtistudio H,Ruolankatu 18,15150,Lahti,60.976543299999996,25.688212998785676,,,2.0,,1.0
+Arkkitehtitoimisto Heikki Kirjalainen Oy,Porrassalmenkatu 21 A 3. krs,50100,Mikkeli,0.0,0.0,,,,,
+Arkkitehtitoimisto Joel Kyyrö Oy,Lönnrotinkatu 32 C 32,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Kooska,Kaiturinkatu 8,33820,Tampere,61.471082499999994,23.8209522,1.0,"-83,3%",-2.0,-100%,
+Arkkitehtitoimisto Lehto Peltonen Valkama Oy,Lastenkodinkuja 2,00180,Helsinki,60.166142,24.925008300000002,1396.0,7%,186.0,"16,6%",14.0
+Arkkitehtitoimisto Liisa Kock,Ulvilantie 11 a C 5,00350,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Majamaa Oy,Hämeenkatu 25 B,33200,Tampere,61.49790279999999,23.7631422,65.0,"-8,5%",-7.0,"-10,8%",
+Arkkitehtitoimisto Park Oy,Kolumäki 1 B 28,67100,Kokkola,0.0,0.0,,,,,
+Arkkitehtitoimisto Petäjä Oy,Luoteisväylä 23 C,00200,Helsinki,60.1660353,24.8598608,154.0,"43,9%",35.0,"27,9%",
+Arkkitehtitoimisto Planko,Torstintie 5,14500,Iittala,61.0882189,24.1547018,,,,,
+Arkkitehtitoimisto Ranki Teuvo,Kalloistenkatu 6,20540,Turku,60.4663034,22.3099676,,,,,
+Arkkitehtitoimisto Skoot Oy,Kaivokatu 37,06100,Porvoo,61.4733218,23.4802575,,,,,
+Arkkitehtitoimisto Suunnittelu Kärki Oy,Laitakatu 1 c 22,15150,Lahti,0.0,0.0,,,,,
+Arkkitehtitoimisto Timo Vuori Oy,Valtakatu 20B As 3,53600,Lappeenranta,0.0,0.0,,,,,
+Arkkitehtitoimisto Zeven Oy,Tunturikatu 15 B 25,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuri- ja Sis.tsto Tilaidea,Lukiokatu 10,95400,Tornio,65.84492925,24.14990560718373,,,,,
+Arkkitehtuuritoimisto Pekka Hornamo Ky,Kirkkotori 4,06100,Porvoo,60.39764399999999,25.658109399999997,,,,,
+Avario Oy,Torikatu 19,90100,Oulu,63.8386337,23.136201899999996,1771.0,32%,66.0,"4,7%",22.0
+Bellarc Oy,Ailostenkatu 9 A 4,21100,Naantali,0.0,0.0,,,,,
+Finpers,Korkeakoulunkatu 7,33720,Tampere,61.449739799999996,23.8575794,,,,,
+Flow architects Oy,Tehtaankatu 32 E,00150,Helsinki,60.158012600000006,24.9405634,,,-6.0,,1.0
+Garden Miracle,Viinitilantie 28 as. 2,14610,Lepaa,0.0,0.0,,,,,
+"Honka, Uudenmaankatu 8, 20500 Turku",Tommilankatu 21,20300,Turku,60.466483,22.2481422,,,,,
+Ingenjörsbyrå Mathias Smeds Ab Oy Insinööritoimisto,Asemakatu 48,65100,Vaasa,7.116667,8.966667,,,,,
+Insinööritoimisto AIB,Pihatörmä 1 D,02240,Espoo,60.1648073,24.7314154,,,,,
+Kajasviita Arkkitehtuuri,Melkonkatu 22 A,00210,Helsinki,60.152095200000005,24.8822615,,,,,
+Koivuniemi Juha Tmi Rakennusarkkitehtitoimisto,Helttakatu 4,37130,Nokia,61.487157700000004,23.4791343,,,,,
+Kolu Arkkitehdit Oy,Malmin lentoasema 1,00700,Helsinki,60.246475399999994,25.0454945,214.0,"-0,9%",2.0,"1,4%",
+L Arkkitehdit Oy,Kalevankatu 6,00100,Helsinki,61.0625245,28.25998215000001,5401.0,"-4,8%",1025.0,"23,4%",46.0
+Lindroos Architects Oy,Köydenpunojankatu 7A10,00180,Helsinki,0.0,0.0,,,,,
+Makron Engineering Oy,Vanha Messiläntie 4,15860,Hollola,60.99048489999999,25.540246600000003,1511.0,"26,5%",1.0,"15,7%",18.0
+Mäki Design Oy,Kalliotie 5 A 1,32740,Sastamala,61.88193760000001,28.810230400000002,,,,,
+PLM Solution Design Oy,Matintie 4,21250,Masku,60.38857539999999,25.829793399999996,336.0,"12,4%",201.0,"47,6%",2.0
+Partanen & Lamusuo Oy,Melankatu 30,70500,Kuopio,41.6549196,20.4645851,,,,,
+RA-Studio Raimo Ahonen,Kivikuja 5,90140,Oulu,60.2039431,24.687663277611943,,,,,
+Rakennus ja saneeraus Puvera,Riistapolku 5,57230,Savonlinna,61.66590255,27.201102202467126,,,,,
+Rakennussuunnittelu Rahkala,Kärrinkaari 10 A,25360,Pertteli,60.45790279999999,23.2367302,,,,,
+Rakennussuunnittelu ja -palvelu J. Piikkilä,Vesitornintie 111,60800,Ilmajoki,65.1324877,25.7716643,,,,,
+Reveal Finland,Tekijäntie 4,60100,Seinäjoki,61.913795900000004,25.1426634,32.0,,-1.0,"-3,1%",
+Saatsi Arkkitehdit Oy,Bysmedsintie 56,06500,Porvoo,60.4220289,25.5843326,900.0,"19,8%",13.0,"1,7%",13.0
+Studio AN,Munkkiluodonkuja 3A4,02160,Espoo,0.0,0.0,,,,,
+Talosuunnittelu P. Viitasalo,Parkanontie 58,39700,Parkano,62.0038688,23.0210991,,,,,
+Tengbom Oy,Salomonkatu 17 A,00100,Helsinki,60.1678988,24.927812399999997,2139.0,"14,9%",151.0,"7,5%",
+Arkkitehtiruutu Oy Lahti,Askonkatu 9 B,15100,Lahti,61.476937,23.873972,,,,,
+Arkkitehtisuunnittelu Niskanen,Kansankatu 53,90100,Oulu,11.0071888,-9.168169,,,,,
+2P Arch Oy,Mäntytie 3,00270,Helsinki,61.64737555,27.082013728699593,,,,,
+3 D Tilaihme Oy,Pallaskatu 8 B,15900,Lahti,60.9891324,25.627706600000003,,,,,
+3d Consulting H&E Oy,Harjalinnunkuja 7,01450,Vantaa,60.3592752,25.073602800000003,84.0,-16%,16.0,"23,5%",
+3design Oy,Kehrontie 383,37420,Vesilahti,61.1571066,23.4504193,,,,,
+A Ja K Inzonic Tmi,Paciuksenkaari 19 Toimitila 1,00270,Helsinki,0.0,0.0,,,,,
+A&M-valvonta,Määrlytie 1,40530,Jyväskylä,62.17562615,25.71524475452599,,,,,
+A-Build Oy,Hämeenkatu 26 A 401,33200,Tampere,0.0,0.0,,,,,
+A-Factor Oy,Oikokatu 5 F 46,00170,Helsinki,0.0,0.0,,,,,
+AFAE Atelier for Architectural Explorations Oy,Näsijärvenkatu 1 D 33,33210,Tampere,61.50257220000001,23.748233499999998,59.0,,23.0,"49,2%",
+AFOark-konsultit,Patalantie 13,90410,Oulu,-6.948632099999999,111.4359902,,,,,
+AK-RA talosuunnittelu,Latotie 9,67600,Kokkola,60.1634425,24.718249735498155,,,,,
+AR-palvelu,Rautatienkatu 26 A 13,33100,Tampere,0.0,0.0,,,,,
+ARCCI -Rauma,Savilankatu 13 as. 4,26100,Rauma,0.0,0.0,,,,,
+ARK EK Konsultointi,Katajanokanranta 19 D 47,00160,Helsinki,0.0,0.0,,,,,
+ARK Group Oy,Halkokorvenkatu 16,15240,Lahti,61.023666500000004,25.6531388,98.0,"0,4%",3.0,"4,1%",
+ARK Hintikka Oy,Sumeliuksenkatu 18 B,33100,Tampere,61.4959554,23.7770665,126.0,"147,1%",-95.0,"29,4%",
+ARK-Cardio Oy,Suistamonkatu 102,74120,Iisalmi,62.5916297,29.7910685,31.0,55%,6.0,"22,6%",
+ARK-Palvelu M. Heikkinen,Papinojantie 10,36200,Kangasala,61.483549100000005,24.0328562,,,,,
+ARK-Studio Vakkilainen,Hakarinne 6 K 130,02120,Espoo,0.0,0.0,,,,,
+ARK-Suunnittelu Ari Reunanen,Ketunpesäntie 10,21350,Ilmarinen,62.577399,29.872670799999998,,,,,
+ARK-Y Oy,Valkonauhantie 9,02700,Kauniainen,60.220779099999994,24.710621600000003,49.0,"-65,2%",0.0,0%,1.0
+ARK-suunnittelu Aimo Suuronen,Kehruukatu 7,20660,Littoinen,60.4423667,22.39439074007198,,,,,
+ARK-suval Oy,Itäinentie 48 B 5 c/o Petri Isokoski,06100,Porvoo,0.0,0.0,,,,,
+ARKCons Oy,Nelikkokuja 5 D,02230,Espoo,60.249437,24.8974399,,,,,
+ARKH arkkitehdit Oy,Meritullinkatu 11 C,00170,Helsinki,60.1749514,24.958122699999997,322.0,"91,7%",42.0,"16,5%",3.0
+ARKK Sarapää Oy,Ratakatu 1b A,00120,Helsinki,65.00987959999999,25.485612300000003,308.0,,23.0,"7,5%",
+ARS-Suunnittelu,Riihitie 9,87830,Nakertaja,60.974030500000005,25.66497598678541,,,,,
+Aamar,00120 Helsinki,,,60.1674098,24.9425769,,,,,
+Aarni Arkkitehtuuri Oy,Kauppatie 2,04300,Tuusula,61.67516005,27.20900991049557,8.0,,8.0,100%,
+Aarti Ollila Ristola Arkkitehdit Oy,Liisankatu 27 F 26,00170,Helsinki,0.0,0.0,,,,,
+Aartmax Architecture,Vaneritori 3 A 10,40100,Jyväskylä,0.0,0.0,,,,,
+Aavabau Oy,Raisiontie 11 A 4,00280,Helsinki,63.05884079999999,24.561214800000002,,,-3.0,,
+Ab Christer Holm Architecture Oy,Wolffskavägen 36,65200,Vasa,63.1054255,21.5953293,34.0,"126,7%",13.0,"38,2%",
+Acid Design Oy,Kuoppatie 2 a,00730,Helsinki,65.1402162,25.3786107,6.0,"-53,8%",3.0,"66,7%",2.0
+Aedes Oy,Krenatöörintie 25,02680,Espoo,60.2397586,24.832276800000002,3.0,"-57,1%",-5.0,"-166,7%",1.0
+Aibeo Tmi,Viipurinkatu 8,00510,Helsinki,60.190912899999994,24.9442365,,,,,
+Aika Arkkitehdit Oy,Tenholantie 4 A 3,00280,Helsinki,63.122906900000004,25.0720956,0.0,-100%,-5.0,,
+Airas Arkkitehdit Ky,Pohjoisniementie 3 C,00200,Helsinki,62.335789600000005,27.893886300000002,,,,,
+Aivan Oy,Laivakatu 3,00150,Helsinki,65.81585820000001,24.0284087,3378.0,"-9,3%",335.0,"11,8%",
+Akseli Leinonen,Näätätie 18 A 6,00800,Helsinki,0.0,0.0,,,,,
+Aksila Tomi Tmi,Etelänkyläntie 12 A,85100,Kalajoki,64.2329886,23.9984641,,,,,
+Alark Oy,Laivalahdenkaari 30,00810,Helsinki,60.186383,25.034209399999998,68.0,"-57,6%",-1.0,"-1,5%",2.0
+Alt Arkkitehdit Oy,Hallituskatu 13-17 D,90100,Oulu,65.0117811,25.478475800000002,,,149.0,,
+Alzwei Consulting,Magnus Hagelstamin tie 3 A 2,02700,Kauniainen,60.2097272,24.6962088,,,,,
+Amfi Arkkitehdit Oy,Kalevankatu 6,00100,Helsinki,61.0625245,28.25998215000001,107.0,"-4,4%",-6.0,"-6,5%",1.0
+Angelarch,Raatteentie 1 A 2,57710,Savonlinna,64.8156267,29.6394076,,,,,
+Anna Oksanen oy,Äestie 5,10470,Fiskari,60.45690179999999,22.329597800000002,1.0,,-1.0,0%,
+Antti Paavali Rautio,Kaarretie 7 C 21,90500,Oulu,0.0,0.0,,,,,
+Anttinen Oiva Arkkitehdit Oy,Annankatu 31-33 E 64,00100,Helsinki,0.0,0.0,,,,,
+Anu Frantti,Tehtaankatu 24 A 15,00140,Helsinki,0.0,0.0,,,,,
+Ar-Ke Invest Oy,Luotipussi 16,40630,Jyväskylä,62.24686735,25.69125290252391,76.0,90%,4.0,"6,6%",1.0
+Arch. Wood Ky,Markankatu 14,15240,Lahti,65.3535419,16.1320552,,,,,
+Architect Anni Laurila,Pietarinkatu 15 C 106,00140,Helsinki,0.0,0.0,,,,,
+Architect Office Sakari Talonen,Niilonkatu 24,20810,Turku,60.4333814,22.244888267959933,,,,,
+Architectural Office Walter Oliver Oy,Myllypadontie 14 F,00920,Helsinki,60.2212769,25.057918899999997,,,11.0,,1.0
+Archivolta Oy,Kuortaneenkatu 5 A,00520,Helsinki,60.196399,24.9472285,9.0,650%,7.0,"77,8%",
+Archonplan Oy,Pitkäjärvenranta 19 B,02730,Espoo,60.2527363,24.760823199999997,,,,,
+Arcing Tmi,Linnankatu 9 D 71,20100,Turku,0.0,0.0,,,,,
+"Arcteam, Risto Kaakko, Arkkitehti & Co",Kappelitie 6 D,02200,Espoo,61.24699150000001,26.0606346,,,,,
+Arcwell Oy,Komeetankuja 4 A,02210,Espoo,60.16702829999999,24.7339525,12.0,"-42,9%",0.0,0%,
+Aretas,Mikonkatu 15,33900,Tampere,60.171339399999994,24.9454997,,,,,
+Arja Renell',Mikkolantie 3 as. 1,00640,Helsinki,0.0,0.0,,,,,
+Ark 5 Oy,Höylätie 3,60550,Nurmo,60.2587341,24.82253243609077,2.0,,1.0,50%,
+Ark Brut,Siirintie 28,20300,Turku,60.4700424,22.28399407888897,,,,,
+Ark Niemi,Uudentuvankatu 1 A 16,20740,Turku,0.0,0.0,,,,,
+Ark Renew Oy,Kukkastie 24,15560,Nastola,60.948269499999995,25.931659699999997,137.0,"-1,4%",21.0,"18,2%",1.0
+Ark-Bau Oy,Hämeenkatu 24-26,11100,Riihimäki,61.49790279999999,23.7631422,152.0,"-9,5%",30.0,"25,7%",2.0
+Ark-Light,Metsästäjänkatu 2 G 54,33580,Tampere,0.0,0.0,,,,,
+Ark-Suunnittelu Liisa Sainio,Kiviportintie 6 A 2,00950,Helsinki,60.22415129999999,25.093992899999996,,,,,
+Ark7 Oy,Punavuorenkatu 5 B 5,00120,Helsinki,60.160095299999995,24.933938100000002,993.0,"3,7%",183.0,"23,8%",8.0
+ArkJMH arkkitehtitoimisto,Linnankatu 26,20100,Turku,61.86502875,28.890185499999998,,,,,
+ArkOpen Oy,Töölönkatu 6,00100,Helsinki,60.1777132,24.9280501,430.0,"-7,1%",6.0,"1,8%",4.0
+ArkWire Oy,Käköläntie 161,21100,Naantali,60.44480260000001,22.022919899999998,,,,,
+Arka Suunnittelu,Merimiehenkatu 32 A 5,00150,Helsinki,0.0,0.0,,,,,
+Arkab Oy,Jokikatu 10 as. 4,06100,Porvoo,60.393374300000005,25.6586064,18.0,50%,2.0,"11,1%",
+Arkaden arkitekt & bygg,Vedbergsvägen 100,22240,Hammarland,60.28448220000001,19.7591722,,,,,
+Arkdesign,Vanhatie 73,90310,Oulu,7.6127194000000005,-9.3000326,,,,,
+Arkdi Plan Oy,Frans Emilin katu 13,33870,Tampere,61.438162899999995,23.816141553961128,6.0,,11.0,100%,
+Arkdrufva Oy,Katajanokankatu 8 D 24,00160,Helsinki,0.0,0.0,,,,,
+Arkest Arkkitehdit Ky,Hallituskatu 13-17 D,90100,Oulu,65.0117811,25.478475800000002,,,,,
+Arket,Sailonkuja 10,02700,Kauniainen,60.22258539999999,24.7149478,38.0,"-42,4%",27.0,"89,5%",
+Arkhe Oy,Askonkatu 9 A,15100,Lahti,61.476937,23.873972,184.0,"-10,2%",45.0,"30,4%",1.0
+Arkite D,Ketunlenkki 29,90540,Oulu,65.0818876,25.4686558,,,,,
+Arkitekt Ab / Arkkitehti Oy Rajaniemi,Hämeenkatu 14,68600,Pietarsaari,60.7368377,24.77052973560767,,,9.0,,3.0
+Arkitekt Jeanette Skinnars,Torpvägen 66,22240,Hammarland,59.309995900000004,12.682857499999999,,,,,
+Arkitektbyrå Ebba Michelsson Arkem Ab,Emsalövägen 696,06950,Emsalö,0.0,0.0,,,,,
+Arkitektbyrå Kasper Järnefelt Ab,Solbergvägen 491,10140,Solberg,61.669151600000006,17.1856412,195.0,"-34,6%",44.0,"28,7%",1.0
+Arkitektbyrå Tiina Holmberg Ab,Torggatan 47,22100,Mariehamn,57.003868999999995,32.6629473,168.0,"-3,4%",1.0,"0,6%",1.0
+Arkitektbyrå Ursula Koponen,Dalkarbyvägen 125,22150,Jomala,60.18605600000001,22.722783800000002,,,,,
+Arkitupa Oy,Saarijärventie,40200,Jyväskylä,63.1352433,29.5322193,185.0,"-0,5%",32.0,"21,6%",3.0
+Arkjaatiset Oy,Hatanpään Valtatie 30 A,33100,Tampere,61.474755099999996,23.764384399999997,136.0,"-12,3%",-37.0,"-27,2%",2.0
+Arkk M. Kangas Oy,Atraintie 2,90550,Oulu,65.0436004,25.5067354,,,,,
+Arkkan Oy,Kaunismäenrinne 12,70870,Hiltulanlahti,62.8161302,27.5965065,157.0,"-14,2%",-16.0,"-8,3%",2.0
+Arkki Oy,Neitsytpolku 8 F 32,00140,Helsinki,0.0,0.0,,,,,
+ArkkiT Helena,Sateentie 4 A 38,02100,Espoo,0.0,0.0,,,,,
+Arkkiaines Jarmo Ranto Tmi,Paloniityntie 28 a,33610,Tampere,61.51193000000001,23.937863,,,,,
+Arkkijussi Oy,Hallituskatu 11 B 24,90100,Oulu,0.0,0.0,,,,,
+Arkkiline Oy,Hirvelänpääntie 261,64770,Äystö,62.5333777,21.9671712,10.0,,18.0,-24%,
+Arkkimer Oy,Kanttiinitie 1 F,02680,Espoo,60.2374468,24.8342875,97.0,-1%,-2.0,-1%,
+Arkkitalo Rintala,Kalkkinokantie 29 B 11,94720,Kemi,0.0,0.0,,,,,
+Arkkited Oy,Susitie 10 B,00800,Helsinki,60.695293799999995,26.800369399999997,,,,,
+Arkkitehdit .618 Oy,Kolohaavantie 27,40320,Jyväskylä,62.25899505,25.787219321692827,17.0,"-77,6%",2.0,"21,1%",
+Arkkitehdit 1:1 Oy,Messitytönkatu 10 B 37,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehdit A3 Oy,Ilmarinkatu 47,33500,Tampere,61.50228620000001,23.80020221136977,487.0,"-15,5%",5.0,"1,4%",7.0
+Arkkitehdit Ahlström Oy,Pereentie 43,33950,Pirkkala,64.666957,24.4987957,397.0,"-1,2%",56.0,"18,3%",
+Arkkitehdit Ali-Kovero,Puhurinpolku 1 A,02120,Espoo,60.174178299999994,24.7893079,71.0,"-29,7%",4.0,"29,2%",2.0
+Arkkitehdit Anttila & Rusanen Oy,Mechelininkatu 1a,00180,Helsinki,60.164118200000004,24.921726899999996,1088.0,"-20,6%",27.0,"3,3%",11.0
+Arkkitehdit Archeus,Hintantie 18,90500,Oulu,65.02392309999999,25.49842643187021,1198.0,"-23,5%",603.0,"-5,9%",17.0
+"Arkkitehdit Asta Björklund, Risto Iivonen Oy",Kuortaneenkatu 5,00520,Helsinki,60.1963936,24.945206699999996,8.0,"-16,2%",-5.0,"-44,4%",1.0
+Arkkitehdit Auer & Sandås Oy,Kadetintie 12,00330,Helsinki,60.1961115,24.880214600000002,307.0,"2,7%",69.0,"29,6%",
+Arkkitehdit Casagrande Oy,Kauppiaskatu 16 C,20100,Turku,60.4537174,22.2656557,,,,,
+Arkkitehdit Frondelius+ Keppo+ Salmenperä Oy,Kalevankatu 39,00180,Helsinki,61.0619696,28.258792699999997,2158.0,"33,5%",172.0,"10,7%",12.0
+Arkkitehdit Groop & Tiensuu Oy,Laidunrinne 7b,02330,Espoo,60.168242500000005,24.6705962,77.0,-45%,10.0,"18,2%",2.0
+"Arkkitehdit Gullichsen, Vormala Ky",Pursimiehenkatu 29 A 201,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Gylling-Vikström Oy,Uudenmaankatu 2 K 3,00120,Helsinki,60.45174720000001,22.2755401,126.0,"8,6%",2.0,"1,6%",
+Arkkitehdit Hannunkari & Mäkipaja Oy,Eiranranta 7,00150,Helsinki,60.1547502,24.93170010457288,,,,,
+Arkkitehdit Ingervo Consulting Oy,Pajamäentie 8 C,00360,Helsinki,60.4344517,24.103344399999997,350.0,"-6,9%",78.0,"27,7%",5.0
+Arkkitehdit Kanerva Oy,Vuorineuvoksentie 4,00570,Helsinki,60.184974,24.998952,,,,,
+Arkkitehdit Kirsi Korhonen ja Mika Penttinen Oy,Meritullintori 3 A,00170,Helsinki,60.1687642,24.9581168,965.0,"-2,1%",81.0,"10,6%",8.0
+Arkkitehdit Korolainen & Heino Oy,Tinasepäntie 45,00620,Helsinki,60.22423620000001,24.9425228,,,,,
+Arkkitehdit LSV Oy,Kuninkaankatu 21,33210,Tampere,62.8946505,27.6763494,919.0,"15,3%",25.0,"3,5%",9.0
+Arkkitehdit Lehtonen Oy,Kalevankatu 18 D 1,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Maija Niemelä ja Pentti Myllymäki,Murrontie 2 B,91800,Tyrnävä,60.811747200000006,23.591272500000002,,,,,
+Arkkitehdit Mauno Huurre & Kari Vaara Oy,Petäjäniementie 17 B,88350,Kivesjärvi,63.1290955,28.328857899999996,12.0,"9,1%",-1.0,"-8,3%",0.0
+Arkkitehdit Mustonen Oy,Vilhonvuorenkatu 11 B 10,00500,Helsinki,60.1866333,24.9664958,738.0,"5,9%",184.0,"16,1%",
+Arkkitehdit OK Oy,Kirkkokatu 8,80110,Joensuu,61.86902735,28.87975755392744,330.0,"-30,2%",70.0,"26,7%",4.0
+Arkkitehdit Osara Oy,Huvilakatu 4 A 1,00150,Helsinki,60.1553265,24.944070899999996,300.0,-31%,4.0,"1,3%",
+Arkkitehdit Oy Janne Lehtipalo,Kansankatu 22,96200,Rovaniemi,61.69627355,27.274032106273907,,,22.0,"65,5%",
+Arkkitehdit Oy Latva ja Vaara,Mariankatu 14 B 12,15110,Lahti,0.0,0.0,,,,,
+Arkkitehdit Oy Vaara,Pakaantie 1,16300,Orimattila,60.661373,25.701853600000003,11.0,"-73,2%",2.0,"18,2%",
+Arkkitehdit P. I. Oy,Fredrikinkatu 47 lh. 6,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Paunila & Rautamäki Ky,Teijontie 99,25570,Teijo,60.254792599999995,22.966256,,,,,
+Arkkitehdit Päivärinne Oy,Vattuniemenkuja 6 A 27,00210,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Q4 Oy,Sentnerikuja 3,00440,Helsinki,60.2277969,24.8789647,955.0,"2,1%",87.0,"11,6%",12.0
+Arkkitehdit Sankari Osakeyhtiö,Pursimiehenkatu 27 lh. 2,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehdit Sarlin+Sopanen Oy,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,280.0,"1,8%",16.0,"6,9%",
+Arkkitehdit Soini & Horto / Inter-Arch Oy,Mäntykalliontie 2 C,02270,Espoo,60.1626328,24.6883875,,,-2.0,,1.0
+Arkkitehdit Stenman Oy,Killivuorenkatu 25 A,20900,Turku,60.4181348,22.2332339,14.0,"-33,3%",-5.0,"-31,3%",
+Arkkitehdit a-live Osuuskunta,Menninkäisentie 5 C,02110,Espoo,60.17927915,24.810355515319014,183.0,"33,6%",10.0,6%,
+Arkkitehdit m3 Oy,Kauppurienkatu 23,90100,Oulu,65.01094570000001,25.473292899999997,333.0,"-10,2%",3.0,"1,5%",
+Arkkitehdit o2 Oy,Merituulentie 38 A 67,02200,Espoo,0.0,0.0,,,,,
+Arkkitehdit von Boehm - Renell Oy,Kapteeninkatu 16 A 2,00140,Helsinki,60.1558968,24.9456889,1068.0,"27,9%",202.0,"23,7%",10.0
+Arkkitehdit-Niiranen Oy,Lepolantie 92 A,00660,Helsinki,60.24020920000001,24.938537699999998,,,,,
+Arkkitehti Antti Varkemaa,Hallainvuorentie 16 B 4,00920,Helsinki,60.228494999999995,25.0560493,,,,,
+Arkkitehti Hannu Tylli,Kankaronkatu 2-4 E,45120,Kouvola,0.0,0.0,,,,,
+Arkkitehti Heikki Toivanen,Nousialantie 1,59800,Kesälahti,61.809257900000006,29.0011317,,,,,
+Arkkitehti Irene Hinttala,Koreankatu 2 B 15,00560,Helsinki,0.0,0.0,,,,,
+Arkkitehti Johanna Brummer,Maakaari 5 C 6,00790,Helsinki,59.432275,24.758874399999996,,,,,
+Arkkitehti Jukka Ollikainen,Limingantie 82,00560,Helsinki,64.9888784,25.4693913,,,,,
+Arkkitehti Jussi Ukkonen,Toinen linja 9 B 33,00530,Helsinki,0.0,0.0,,,,,
+Arkkitehti Olli Aalto,Lasaretinkuja 10,13130,Hämeenlinna,60.99227835,24.431050436962515,,,,,
+Arkkitehti Oy Asmala,Länsipuisto 17,28100,Pori,61.48616460000001,21.7878998,,,125.0,,1.0
+Arkkitehti Oy Jouko Poskiparta,Lastenkodinkuja 2,00180,Helsinki,60.166142,24.925008300000002,81.0,-10%,5.0,"8,6%",1.0
+Arkkitehti Oy Reijo Lahtinen,Suomenlinna C 21,00190,Helsinki,60.1457064,24.9888603,22.0,"-47,6%",5.0,"22,7%",
+Arkkitehti Seppo Mäntylä,Laivapojankatu 3 C,00180,Helsinki,60.160645499999994,24.919843,176.0,"50,4%",4.0,"2,8%",1.0
+Arkkitehti Simo Kaarsalo,Petsamonkatu 14 A 16,33500,Tampere,61.500843599999996,23.7911604,,,,,
+Arkkitehti TT,Vihurinkatu 11 A 3,33900,Tampere,61.473237899999994,23.7302767,,,,,
+Arkkitehti Tanninen Orvokki,Koivukyläntie 46,01350,Vantaa,60.3140858,25.032012594050318,,,,,
+Arkkitehti Tomi Laine,Sirkkalankatu 16a B 23,20500,Turku,0.0,0.0,,,,,
+Arkkitehti Turkki Antero,Mustavaarantie 6,81235,Lehtoi,62.5936238,30.172023100000004,,,,,
+Arkkitehti Valtonen,Luukkaanrinne 16-18 as. 7,53300,Lappeenranta,0.0,0.0,,,,,
+Arkkitehti ja kynä Oy,Heinlammintie 48 B 1,15210,Lahti,61.003282299999995,25.7026568,,,1.0,,1.0
+Arkkitehti- ja Rakennesuunnittelu Tarvainen Oy,Salmensillantie 47,41340,Laukaa,62.38307,25.9260677,,,-2.0,,0.0
+Arkkitehti- ja Rakennuspalvelu TN Oy,Viipurintie 34 A 3,13210,Hämeenlinna,60.998416399999996,24.4757479,22.0,"-31,3%",0.0,0%,1.0
+Arkkitehti- ja Suunnittelukonttori Liimatta & Kosola,Kauppatie 41,82900,Ilomantsi,65.36285050000001,27.0093577574497,,,,,
+Arkkitehti- ja Ympäristösuunnittelu Hentilä & Lindborg Oy,Koskitie 54,90500,Oulu,60.653050199999996,23.1406187,274.0,"-5,8%",127.0,"61,3%",
+Arkkitehti- ja insinööriosuuskunta Suhde,Tehtaankatu 4 B 6,00140,Helsinki,62.392223,25.656378600000004,1.0,,1.0,50%,0.0
+Arkkitehti- ja insinööritoimisto Airi ja Keijo Kentala,Lakkimestarintie 4,61310,Panttila,62.6630397,22.4059505,,,,,
+Arkkitehti- ja insinööritoimisto Motiivi Oy,Koulukatu 48,60100,Seinäjoki,65.00895679999999,25.4767439,,,113.0,,
+Arkkitehti- ja konsulttitoimisto 2HPO,Valhallankuja 1 F 6,01200,Vantaa,0.0,0.0,,,,,
+Arkkitehti- ja suunnittelutoimisto Martin Wolff,Eteläranta 8,28100,Pori,60.164601100000006,24.9524287,,,,,
+Arkkitehti-Cadpalvelu Päivi Mäntylä,Vajamäki 10 F,33960,Pirkkala,61.4599782,23.6640712,,,,,
+Arkkitehtiasema Oy,Karjakatu 12,90130,Oulu,60.57506085,27.19488175502048,23.0,"-28,1%",-16.0,"-69,6%",1.0
+Arkkitehtiateljee Johan Pfeifer Oy,Linnankatu 16 D,06100,Porvoo,60.16624010000001,24.9675914,55.0,"61,8%",34.0,60%,
+Arkkitehtidea,Tuomalantie 85,15340,Lahti,61.0090512,25.8356302,,,,,
+Arkkitehtikaveri Oy,Hakakatu 9 B 16,90140,Oulu,0.0,0.0,,,,,
+Arkkitehtikolmio Oy,Sammonkatu 19,33540,Tampere,60.87656189999999,26.718699550399013,,,,,
+Arkkitehtikonttori Petri Pussinen Oy,Väinö Linnan aukio 15 6.krs,33210,Tampere,0.0,0.0,,,,,
+Arkkitehtikonttori Ritva-Maija Saarinen,Villenkatu 22,18100,Heinola,50.787811600000005,5.964383799999999,,,,,
+Arkkitehtikuutio Oy Kubkontor Ab,Runeberginkatu 34 A 3,06100,Porvoo,60.180478799999996,24.9243229,,,,,
+Arkkitehtikuvat HELSINKI,Vihervarpusentie 12,00730,Helsinki,60.266898399999995,25.01135974161841,,,,,
+Arkkitehtikuvio Oy,Halsuantie 2,00420,Helsinki,60.23722579999999,24.886979699999998,15.0,"-65,1%",12.0,40%,
+Arkkitehtikuvio Oy Helsinki,Halsuantie 2,00420,Helsinki,60.23722579999999,24.886979699999998,340.0,"56,7%",44.0,"16,2%",3.0
+Arkkitehtipaja Kynä ja Vasara,Santalahti,37200,Siuro,61.5057669,23.713831600000002,,,,,
+Arkkitehtipalvelu Hilkka Ahola Ky,Poroelontie 3 D 4,96100,Rovaniemi,66.5056783,25.684752,,,,,
+Arkkitehtipalvelu Korhonen Outi,Hiekkaranta 3,50130,Mikkeli,61.67352220000001,27.23912964078068,,,,,
+Arkkitehtipalvelu Oy,Keskussairaalantie 2,40600,Jyväskylä,62.2346887,25.73067276465634,,,,,
+Arkkitehtipalvelu Päivärinne SP,Rautellinkatu 9 C,15140,Lahti,60.984794900000004,25.6763513,,,,,
+Arkkitehtipalvelu Säkkinen Esa,Lampintie 5,69300,Toholampi,63.774646999999995,24.2480068,,,,,
+Arkkitehtiruutu Oy Tampere,Viinikankatu 47,33800,Tampere,61.48055585,23.783529717277702,1154.0,"9,5%",19.0,"3,4%",
+Arkkitehtiryhmä Reino Koivula Oy,Taivalmäki 11,02200,Espoo,60.1684286,24.77268555,1715.0,"9,2%",90.0,"6,8%",15.0
+Arkkitehtistudio 24,Kotisaarenkatu 3 H 74,00560,Helsinki,0.0,0.0,,,,,
+Arkkitehtistudio Alli Perttunen,Lahnaruohontie 6 B 21,00200,Helsinki,0.0,0.0,,,,,
+"Arkkitehtistudio E & M, Erkki Pitkäranta Ky",Sepänkatu 17 F,00150,Helsinki,61.6988,27.297424,,,,,
+Arkkitehtistudio EMP Oy,Heikkilänsaarentie 41 d,90310,Oulu,64.9696065,25.625154300000002,,,5.0,"-8,3%",1.0
+Arkkitehtistudio Kipinä,Sallinkatu 1 A 17,00250,Helsinki,0.0,0.0,,,,,
+Arkkitehtistudio Tuomas Niemi Oy,Fransuntie 10,62200,Kauhava,63.1013797,23.037843300000002,84.0,-16%,-1.0,0%,1.0
+Arkkitehtistudio Vuorinen Oy,Tyysterniemenranta 5,53920,Lappeenranta,61.0692787,28.155231699999998,89.0,"-16,2%",0.0,"3,4%",
+Arkkitehtistudio m10,Eläintarhantie 18,00530,Helsinki,60.1831584,24.939277530891093,,,,,
+Arkkitehtisuunnittelu Adalbert Aapola,Paciuksenkaari 19 työtila 1,00270,Helsinki,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Anniina Savisalo Tmi,Läntinen Pitkäkatu 15 D 14,20100,Turku,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Grete Laukkanen,Juutinraumankatu 9 B 45,00220,Helsinki,0.0,0.0,,,,,
+Arkkitehtisuunnittelu HETK,Tilhirinne 12,90420,Oulu,64.96363000000001,25.5647259,,,,,
+Arkkitehtisuunnittelu Hannu Vaisto,Sillankorvantie 23 A,21380,Aura,64.9706716,25.596196,,,,,
+Arkkitehtisuunnittelu Hiilivirta Oy,Hallituskatu 16 A 23,96100,Rovaniemi,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Katja Jämsä,Haapaniemenkatu 29 A 29,70110,Kuopio,60.1814049,24.9576326,,,,,
+Arkkitehtisuunnittelu Kemppinen Petri Oy,Kasarmikatu 22 as 1,53900,Lappeenranta,60.1665365,24.947703399999998,143.0,"83,3%",2.0,"1,4%",
+Arkkitehtisuunnittelu Matti Tölö Oy,Ulvilantie 16 C,00350,Helsinki,61.4641379,21.828989899999996,8.0,"-27,3%",3.0,30%,
+Arkkitehtisuunnittelu Mika Lang,Kanervatie 7,18200,Heinola,60.26691835,25.02917609280857,,,,,
+Arkkitehtisuunnittelu Mikko Uotila Oy,Pätsiniementie 1,37800,Akaa,61.175576899999996,23.846889800000003,909.0,"32,5%",182.0,"25,5%",8.0
+Arkkitehtisuunnittelu Myart Oy,Keskustie 22 A 4,40100,Jyväskylä,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Nieminen Oy,Ruorimiehentie 13,00850,Helsinki,60.16457495,25.05861823641305,4.0,0%,0.0,0%,
+Arkkitehtisuunnittelu Niskanen Oy,Savarinväylä 2,84100,Ylivieska,64.06345060000001,24.548499600000003,465.0,"-2,9%",110.0,"6,8%",
+Arkkitehtisuunnittelu Oy,Ruomelantie 12 D,02210,Espoo,60.17491410000001,24.7363814,23.0,15%,0.0,0%,1.0
+Arkkitehtisuunnittelu Pakkanen Oy,Halmeniementie 311,52850,Halmeniemi,62.9181626,27.145181400000002,71.0,"47,9%",1.0,"1,4%",
+Arkkitehtisuunnittelu Pauli Lindström Oy,Kellotapulintie 8,15560,Nastola,60.94908960000001,25.9290208,,,,,
+Arkkitehtisuunnittelu Pekka Pekkala,Välimerenkatu 24 A 11,00220,Helsinki,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Rakennusmiljöö Oy,Ruiskukantie 5,00950,Helsinki,60.21934805,25.09595264089211,46.0,"-39,5%",-17.0,"-41,3%",
+Arkkitehtisuunnittelu Rukko,Oravannahkatori 1,02120,Espoo,60.17564045,24.79240887677539,9.0,125%,2.0,"22,2%",0.0
+Arkkitehtisuunnittelu Siilin Ra-toimisto Oy,Kasurilantie 6 A 4,71800,Siilinjärvi,63.07522170000001,27.6595947,70.0,"29,6%",3.0,"8,6%",
+Arkkitehtisuunnittelu Tamminen,Uudensillantie 26 D 19,04130,Sipoo,0.0,0.0,,,,,
+Arkkitehtisuunnittelu Tikkanen Jukka Oy,Schaumanin puistotie 1,40100,Jyväskylä,62.24378805,25.763163642459308,156.0,"-16,1%",-43.0,"-9,7%",2.0
+Arkkitehtitoimi Leino Oy,Piispankatu 6,20500,Turku,60.45590735,22.280626443446213,292.0,"-2,3%",19.0,"7,2%",3.0
+Arkkitehtitoiminta A4,Yrjänäisenranta 10,90650,Oulu,65.02171650000001,25.5289453,,,,,
+Arkkitehtitoimisto 4P Oy,Meri-Haarlantie 27,20900,Turku,60.38525265,22.2192004,,,-2.0,,0.0
+Arkkitehtitoimisto A-Studio Oy,Iinatintie 15,90240,Oulu,64.9679274,25.5860711,96.0,"-17,2%",-59.0,"-56,3%",
+Arkkitehtitoimisto A1 Arkkitehdit Oy,Laiturikatu 2,15140,Lahti,63.18489350000001,22.843241100000004,891.0,"-2,9%",18.0,"2,5%",8.0
+Arkkitehtitoimisto AHO Oy,Sturenkatu 37-41 E 43,00550,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto AJK Oy Arkkitehtuuri-järjestelmät-kaavoitus,Äijäntie 20,33470,Ylöjärvi,60.7605432,26.800707399999997,,,0.0,,
+Arkkitehtitoimisto ALW-ark Oy,Kirkkopuistikko 22 A 10,65100,Vaasa,0.0,0.0,,,,,
+Arkkitehtitoimisto ARK Helsinki Oy,Tehtaankatu 27-29 A,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto ARX Oy,Pursimiehenkatu 29 D 410,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto AWA - Anneli Vehkaniemi,Salmentakasentie 308,42850,Pohjaslahti,65.5906164,27.651836699999997,,,,,
+Arkkitehtitoimisto Aalto Markku Oy,Puuskaniementie 1,00850,Helsinki,60.1651167,25.07606280136789,1.0,"-92,9%",2.0,"28,6%",
+Arkkitehtitoimisto Aaro Söderlund Oy,Lahdentie 7 B,21660,Nauvo,60.8769625,26.6672559,80.0,"-20,8%",-8.0,-10%,2.0
+Arkkitehtitoimisto Aaron Rantala Oy,Keskuskatu 17 A 5,60100,Seinäjoki,0.0,0.0,,,,,
+Arkkitehtitoimisto Aatos,Koelaitoksenkatu 2 A 36,33180,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Adarte Design,Aurinkotuulenkatu 19 A 20,00990,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Ahlman Stefan,Kalevagatan 18 C,00100,Helsingfors,60.16369649999999,24.9276121,,,,,
+Arkkitehtitoimisto Ahonen & Kangasvieri Oy,Finlaysoninkuja 9,33210,Tampere,61.502081499999996,23.7588401,617.0,,20.0,"5,7%",7.0
+Arkkitehtitoimisto AiA,Månvikintie 34 B,02480,Kirkkonummi,60.03687729999999,24.4942456,,,,,
+Arkkitehtitoimisto Aija Paakkala,Välskärinkatu 7 A,00260,Helsinki,60.425744900000005,22.309793399999997,,,,,
+Arkkitehtitoimisto Aina Oy,Untamontie 15 F 47,00610,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Aitio,Katajatie 65 as 29,36200,Kangasala,0.0,0.0,,,,,
+Arkkitehtitoimisto Ajak Oy,Paciuksenkaari 19 työtila 1,00270,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Aki Korhonen Oy,Teknologiantie 1 A 201,90590,Oulu,60.3052851,25.5082475,73.0,"-3,9%",-8.0,"-9,6%",1.0
+Arkkitehtitoimisto Akkuna,Alikyläntie 14,36600,Pälkäne,60.40426329999999,23.905841100000004,,,,,
+Arkkitehtitoimisto Amberla,Isokaari 3,00200,Helsinki,62.5861125,23.60118495,,,,,
+Arkkitehtitoimisto Ami Oja Tmi,Bulevardi 44,00180,Helsinki,60.161864,24.9314657,,,,,
+Arkkitehtitoimisto Anna-Liisa Nisu,Väinö Auerin katu 7 D,00560,Helsinki,60.208715100000006,24.967332,,,,,
+Arkkitehtitoimisto Anna-Maija Kaihari Ky,Välisalonkuja 9,33400,Tampere,61.527455,23.669718399999997,,,,,
+Arkkitehtitoimisto Antti Iskala Oy,Alppitie 12,02700,Kauniainen,65.0346199,25.460129300000002,,,,,
+Arkkitehtitoimisto Antti Pihkala,Kaarikatu 8 B 123,20760,Piispanristi,0.0,0.0,,,,,
+Arkkitehtitoimisto Antti Talvitie,Kauppakatu 7,60100,Seinäjoki,62.8924239,27.692280100000005,,,,,
+Arkkitehtitoimisto Antti Vainio,Siuntionkatu 2 A 8,00510,Helsinki,60.2398892,24.0857601,,,,,
+Arkkitehtitoimisto Aragon Oy,Rantatie 11 c/o VeroTarja,31900,Punkalaidun,0.0,0.0,,,,,
+Arkkitehtitoimisto Arcare Oy,Sibeliuksenkatu 5 C,13100,Hämeenlinna,60.180401399999994,24.9158129,191.0,"23,2%",32.0,"17,8%",3.0
+Arkkitehtitoimisto Ark Tao Lauronen Harri,Pihkaniityntie 9,04230,Kerava,60.4164774,25.108969242459608,,,,,
+Arkkitehtitoimisto Ark'idea Oy,Kaivokatu 5 F2-43,2.,"krs, 53100 Lappeenranta",0.0,0.0,,,,,
+Arkkitehtitoimisto Ark'idea Oy Helsinki,Leppäsuonkatu 9 C,00100,Helsinki,60.1692906,24.9245397,325.0,,24.0,"9,5%",2.0
+Arkkitehtitoimisto Ark-Kantonen Oy,Sepänkatu 14 A,40720,Jyväskylä,60.1589548,24.939141,,,,,
+Arkkitehtitoimisto Ark-Zone Oy,Ilmarinkatu 41 A 10,33500,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Arkantti Oy,Muurahaisentie 20,02770,Espoo,60.2132625,24.62474195528449,,,3.0,,
+Arkkitehtitoimisto Arkas Oy,Pappilankatu 43,05800,Hyvinkää,63.0810703,21.7157118,,,,,
+Arkkitehtitoimisto Arkkigraf Oy,Annankatu 2,00120,Helsinki,60.1627157,24.942207500000002,361.0,"9,1%",75.0,"25,8%",5.0
+Arkkitehtitoimisto Arkkitekta Oy,Puolalankatu 9,20100,Turku,60.45314615,22.26115353140618,15.0,"-6,3%",7.0,"47,1%",0.0
+Arkkitehtitoimisto Arkkon Olli Nurminen Ky,Tervalankatu 4 A 32,40500,Jyväskylä,0.0,0.0,,,,,
+Arkkitehtitoimisto Arktiimi Oy,Kiilakiventie 1,90250,Oulu,64.9849929,25.514497199999997,82.0,"-1,2%",10.0,"14,6%",1.0
+Arkkitehtitoimisto Arkviiri Oy,Mariankatu 14 B 12,15110,Lahti,0.0,0.0,,,,,
+Arkkitehtitoimisto Arponen Ky,Eteläpuisto 11 C 73,28100,Pori,0.0,0.0,,,,,
+Arkkitehtitoimisto Art Michael Oy,Savontie 5,76100,Pieksämäki,62.3008852,27.15758559927577,251.0,"-38,9%",-30.0,"-10,4%",3.0
+Arkkitehtitoimisto Arte,Kelohongankatu,33820,Tampere,61.4620063,23.8291452,,,,,
+Arkkitehtitoimisto Atm-Studio Oy,Hillapolku 6 C 20,96500,Rovaniemi,0.0,0.0,,,,,
+Arkkitehtitoimisto Avaruus,Pursimiehenkatu 3,00150,Helsinki,60.1606554,24.9411403,215.0,"-26,6%",43.0,"21,7%",1.0
+Arkkitehtitoimisto Axoi Oy,Kuninkaankatu 40 A 15,33200,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Björkman Calle/Arkitektbyrå Björkman Calle,Ehrensvärdsvägen 4-6 C,00150,Helsingfors,60.1576066,24.936383499999998,,,,,
+Arkkitehtitoimisto Bror Söderman Oy,Itäranta 7,02110,Espoo,60.1750754,24.82445886643086,,,-31.0,-400%,
+Arkkitehtitoimisto Bäckman & Dunseath Oy,Kyrkoesplanaden 20 D 1,65100,Vasa,56.743888399999996,15.9165013,,,,,
+Arkkitehtitoimisto C & Co Oy,Linnankatu 3 A,20100,Turku,61.492861700000006,23.8584115,45.0,"-33,8%",-11.0,"-24,4%",1.0
+Arkkitehtitoimisto CJN Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,1859.0,"1,5%",104.0,"17,4%",14.0
+Arkkitehtitoimisto Creative Turku,Halisojantie 3,21270,Nousiainen,60.5968392,22.1538957,,,,,
+Arkkitehtitoimisto DPI Arkkitehdit,Mäkeläntie 9,14200,Turenki,60.47526729999999,26.87345042151329,,,,,
+Arkkitehtitoimisto Design Team Oy,Pohjoinen Hesperiankatu 7,00260,Helsinki,60.1777466,24.926972699999997,452.0,"-8,7%",33.0,"9,1%",
+Arkkitehtitoimisto ERAT Oy,Porintie 1 lh. 1,00350,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto ETT,Vuorimiehenkatu 35 C 13,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Eero Korhonen Oy,Leikosaarentie 11,00980,Helsinki,60.202367599999995,25.14052263990428,,,,,
+Arkkitehtitoimisto Eero Lahti Oy,Tampellan Esplanadi 6 D 4,33100,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Eeva Hakola,Kuikankatu 51,33100,Tampere,61.488912,23.800962,,,,,
+Arkkitehtitoimisto Eeva Valla Ky,Lyökkikuja 1 B,02160,Espoo,60.16260129999999,24.8069435,,,,,
+Arkkitehtitoimisto Eija Teivas,Valkamankatu 9,37100,Nokia,61.443611499999996,23.760469399999998,,,,,
+Arkkitehtitoimisto Elina Ipatti Oy,Jokiniementie 4 A,00650,Helsinki,62.3684371,26.3812618,,,1.0,,1.0
+Arkkitehtitoimisto Elo,Kartanontie 28,27100,Eurajoki,60.195437600000005,24.8793035,,,,,
+Arkkitehtitoimisto Erholtz Markku,Ramsiontie 2,02380,Espoo,60.11301140000001,24.69803010618727,,,,,
+Arkkitehtitoimisto Erkki Salmi Oy,Hämeenkatu 22,20500,Turku,60.56653085,27.2275601,,,19.0,,
+Arkkitehtitoimisto Esa Laaksonen Oy,Takaniityntie 12,00780,Helsinki,60.5309618,21.836607,10.0,"-16,7%",-5.0,-40%,
+Arkkitehtitoimisto Esa Ojanlatva Ky,Sepänkuja 8,86600,Haapavesi,60.478846700000005,22.200507878761066,,,,,
+Arkkitehtitoimisto Esa Piirainen Oy,Niskakatu 18 B,80100,Joensuu,62.6043239,29.754946,232.0,"-4,9%",4.0,"2,2%",4.0
+Arkkitehtitoimisto Esko Miettinen,Museokatu 25 C 37,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Esko Ryhänen Oy,Ylä-Fallin kuja 10,00690,Helsinki,60.26432405,24.950077299823114,46.0,"-30,3%",-9.0,"-19,6%",2.0
+Arkkitehtitoimisto Ettala Palomeras Oy,Solvikinkatu 10 B,00990,Helsinki,60.2020314,25.1528622,,,,,
+Arkkitehtitoimisto Filipsson Rune,Bredantie 64,02700,Kauniainen,60.207948800000004,24.6978356,10.0,,8.0,80%,
+Arkkitehtitoimisto Fogel-Michael Oy,Jokimaantie 26 C,05510,Hyvinkää,60.33196949999999,24.759162600000003,,,-2.0,,3.0
+Arkkitehtitoimisto Forma-Futura Oy,Vihertie 44 A,01620,Vantaa,62.85610500000001,27.154125099999998,133.0,"195,6%",297.0,"-117,3%",1.0
+Arkkitehtitoimisto Frank Oy,Ruusulankatu 3,00260,Helsinki,60.181647899999994,24.925435600000004,62.0,,-1.0,"-1,6%",
+Arkkitehtitoimisto Freese Oy,Väinämöisenkatu 29 A 14,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Gerd Hytönen,Koulukatu 7,65100,Vaasa,62.594839799999995,29.7504027,,,-7.0,,0.0
+Arkkitehtitoimisto H-P Arkkitehdit Oy,Jyrhämänranta 7-9 B,96100,Rovaniemi,66.4951831,25.7341398,22.0,"-35,3%",-11.0,-18%,0.0
+Arkkitehtitoimisto HML Oy,Kasarmintie 11 A,90130,Oulu,65.0165157,25.5296783,607.0,"-2,4%",20.0,"3,9%",
+Arkkitehtitoimisto HP Partners Oy,Taavetti Laitisen katu 9 A 9,00300,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Hanna Lyytinen Oy,Hämeenkatu 13b,33100,Tampere,61.49790279999999,23.7631422,447.0,"-12,5%",96.0,"27,1%",
+Arkkitehtitoimisto Hanna Routa,Jääskeläntie 8,02660,Espoo,60.2408842,24.8154193,,,,,
+Arkkitehtitoimisto Hannes Häkkinen Oy,Vanha Hämeenkyläntie 25 A,00390,Helsinki,60.2503434,24.833273100000003,,,,,
+Arkkitehtitoimisto Hannu Hiltula,Nuottatie 1,93600,Kuusamo,60.1476011,24.74107652956515,38.0,"-34,5%",-2.0,"-5,3%",
+Arkkitehtitoimisto Hannu Puurunen Oy,Kangaslahdentie 6,73100,Lapinlahti,62.2962813,28.9919703,,,-10.0,,
+Arkkitehtitoimisto Hannula & Salonen Ky,Pyörörinne 3b,00830,Helsinki,60.1882269,25.060219600000003,,,,,
+Arkkitehtitoimisto Harri Hagan,Pursimiehenkatu 29 D 410,00150,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Harris ja Kjisik Oy,Fredrikinkatu 34 A 14,00100,Helsinki,0.0,0.0,1887.0,"-11,3%",3.0,"0,3%",
+Arkkitehtitoimisto Heikki Viiri Oy,Fredrikinkatu 47 A 6,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Heikkilä & Kauppinen Oy,Franzeninkatu 10 A 20,00500,Helsinki,60.186184600000004,24.9574488,35.0,"1066,7%",30.0,"55,6%",2.0
+Arkkitehtitoimisto Helamaa & Heiskanen Oy,Häkiläpolku 3,33100,Tampere,61.502922,23.763617,2413.0,"-22,7%",148.0,"7,5%",32.0
+Arkkitehtitoimisto Helena Hirviniemi,Rautiontie 11,90660,Oulu,60.2325198,24.9658223,,,,,
+Arkkitehtitoimisto Helena Väisänen,Jokipolventie 15,37130,Nokia,61.5537978,24.079912,,,,,
+Arkkitehtitoimisto Hellen Pentti,Kouvolankatu 30 B 11,45100,Kouvola,0.0,0.0,,,,,
+Arkkitehtitoimisto Hilkka Maija Antila Ky,Kauppakatu 1,62100,Lapua,62.704703599999995,25.2613553,,,,,
+Arkkitehtitoimisto Hirvilammi Oy,Honkakuja 16,60100,Seinäjoki,60.45701825,22.312766749999994,84.0,"86,7%",5.0,"16,7%",1.0
+Arkkitehtitoimisto Hormia Oy,Kadetintie 12,00330,Helsinki,60.1961115,24.880214600000002,334.0,"-4,3%",11.0,"3,3%",8.0
+Arkkitehtitoimisto Horn Stephan Arkitektbyrå,Jääkärinkatu 5 B,00150,Helsinki,60.9598084,25.6067293,9.0,80%,-4.0,-15%,
+Arkkitehtitoimisto Hovi Oy arkkitehti SAFA Tuomo Hovi,Tornatorintie 3,48100,Kotka,60.4654785,26.9303687,24.0,100%,17.0,"70,8%",1.0
+Arkkitehtitoimisto Huhtiniemi,Lepolantie 90,00660,Helsinki,60.23827005,24.924382199387768,4.0,"-84,6%",-4.0,-80%,1.0
+Arkkitehtitoimisto Huittinen A Oy,Tehtaankatu 7 D 27,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Humus Ky,Kajanuksenkatu 10 A,00250,Helsinki,60.184463199999996,24.914326899999995,,,,,
+Arkkitehtitoimisto Huttunen Hannu Oy,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,19.0,"5,6%",14.0,"57,7%",
+Arkkitehtitoimisto Hyvärinen Kari,Töölöntorinkatu 2 B,00260,Helsinki,60.179153299999996,24.9251165,891.0,"35,2%",-16.0,"2,6%",11.0
+Arkkitehtitoimisto Häkli Ky,Damaskuksentie 4,00560,Helsinki,60.20943455,24.973310345456337,,,,,
+Arkkitehtitoimisto Hänninen Tapio,Taavetti Laitisen katu 7 B 27,00300,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Härö Arkkitehti Oy,Paasivaaranpolku 4 A 19,00810,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto I & M Pyykkö Oy,Elisenvaarankuja 5 a,02140,Espoo,60.20468,24.809654199999997,48.0,,-3.0,"-6,3%",1.0
+Arkkitehtitoimisto Iarc Oy,Haukisenraitti 4,33820,Tampere,61.468712,23.8017637,32.0,,20.0,"81,3%",
+Arkkitehtitoimisto Ideark Oy,Tuulaspolku 5 B,00330,Helsinki,60.199197600000005,24.8646669,,,-5.0,"-163,6%",2.0
+Arkkitehtitoimisto Ihanne,Isokaari 4 B 42,00200,Helsinki,60.2847468,25.052672899999997,,,,,
+Arkkitehtitoimisto Iiro Mikkola Oy,Puistokatu 3 C,00140,Helsinki,61.68883470000001,27.260851399999996,225.0,"12,5%",18.0,"8,4%",
+Arkkitehtitoimisto Ilkka Laitinen Oy,Mannerheimintie 65,00250,Helsinki,60.1909209,24.9143764,,,,,
+Arkkitehtitoimisto Ilkka Vainiomäki,Masonrinne 24,40520,Jyväskylä,62.21216210000001,25.766256394519885,,,,,
+Arkkitehtitoimisto Ilona Palmunen,Pietarinkatu 14,00140,Helsinki,60.1569439,24.94694725022677,,,,,
+Arkkitehtitoimisto Ilpo Väisänen Oy,Virmantie 7 as. 1,90830,Haukipudas,0.0,0.0,,,,,
+Arkkitehtitoimisto Immo Teperi Oy,Valkjärventie 557,01860,Perttula,60.1894547,24.800241800000002,75.0,"-26,5%",-17.0,"-22,7%",
+Arkkitehtitoimisto Inkeri Makkonen,Satamakatu 4 A 20,00160,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto J & J Ky,Katinhäntä 9 A,21100,Naantali,60.8514122,21.9354687,,,,,
+Arkkitehtitoimisto J Palmqvist Oy,Rajaniitynkatu 1,04420,Järvenpää,63.139625699999996,21.557831,135.0,"7,1%",15.0,"14,1%",1.0
+Arkkitehtitoimisto J. Laiho Arkplan Ky,Levonmäenkatu 11,33710,Tampere,61.46704835,23.903081674691798,,,,,
+Arkkitehtitoimisto J. Salokannel Oy,Puutarhakatu 10 as1,90130,Oulu,54.04986565,13.446049368345205,23.0,"4,5%",-2.0,"-8,7%",1.0
+Arkkitehtitoimisto J10 Oy,Anna Liljan katu 1,33240,Tampere,61.4952845,23.7132146,,,1.0,,1.0
+Arkkitehtitoimisto JOARC,Itälahdenkatu 25,00210,Helsinki,60.1474753,24.8825265,,,,,
+Arkkitehtitoimisto Jaakko Eskelinen Oy,Asemalammentie 57,41370,Kuusa,62.46518929999999,25.950553399999997,,,,,
+Arkkitehtitoimisto Jaatinen Satu,Gyldenintie 4 D 32,00200,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Jalo Läspä Oy ,Männistönkatu 6,08150,Lohja,61.05502679999999,28.215190500000002,96.0,"21,5%",18.0,"21,9%",
+Arkkitehtitoimisto Jani Hämäläinen Oy,Pähkinäkuja 8 as. 8,15520,Lahti,0.0,0.0,,,,,
+Arkkitehtitoimisto Jari Haapalahti,Tuppelantie 20b,90650,Oulu,64.99603929999999,25.5799234,,,,,
+Arkkitehtitoimisto Jari Holopainen Oy,Käpyläntie 4 C,00610,Helsinki,60.683474100000005,26.854288,56.0,180%,9.0,"21,4%",1.0
+Arkkitehtitoimisto Jari Tamminen Oy,Torikatu 2,05800,Hyvinkää,0.0,0.0,,,,,
+Arkkitehtitoimisto Jarmo Inkinen Oy,Aurorankatu 7 A 1b,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Jarmo Lokio Oy,Kauppakatu 15,95400,Tornio,62.598453799999994,29.758523600000004,56.0,"10,2%",-1.0,0%,
+Arkkitehtitoimisto Jarmo Saarinen Oy,Käsityöläiskatu 5 B,20100,Turku,63.10838149999999,21.5999922,,,,,
+Arkkitehtitoimisto Jarmo Sulonen Oy,Hahmajärventie 78,16500,Herrala,61.52974920000001,22.9645707,105.0,"-31,4%",-7.0,"-7,6%",3.0
+Arkkitehtitoimisto Johannes Laiho,Ruoholahdenkatu 10 A 10,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Johansson Ky,Brahenkatu 24 B 5,87100,Kajaani,61.0566654,28.1914859,,,,,
+Arkkitehtitoimisto Jokela Olli Pekka,Henrik Sohlbergin tie 8,00640,Helsinki,60.23749255,24.968354076325554,31.0,"-8,9%",2.0,"6,5%",1.0
+Arkkitehtitoimisto Jorma Toivonen Oy,Teljotie 11 B,02360,Espoo,65.0486595,25.448316199999997,15.0,"-58,3%",-20.0,"-117,6%",0.0
+Arkkitehtitoimisto Jouko Mäkinen Ky,Tuomiokirkonkatu 34 B 30,33100,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Jouko Seppänen,Sudenkatu 2 B 10,33530,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Jouni Pitkäranta,Ketojenkatu 8,60320,Seinäjoki,62.79120820000001,22.804525559651193,192.0,"17,8%",13.0,"8,9%",
+Arkkitehtitoimisto Jouni Saarinen Oy,Harjumäentie 3 A,02730,Espoo,60.25516379999999,24.7688642,92.0,"16,5%",3.0,"3,3%",1.0
+Arkkitehtitoimisto Juha Klemetti Oy,Kuurinniityntie 10,02750,Espoo,60.19676915,24.709412281923857,45.0,"4,7%",1.0,"2,2%",1.0
+Arkkitehtitoimisto Juha Koskela Oy,Pyynikintie 25,33230,Tampere,61.49300815,23.723918220574287,,,,,
+Arkkitehtitoimisto Juha Mutanen Oy,Mannerheimintie 40 D 80,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Juhana Heikonen,Freesenkatu 3 A 10,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Juhani Junttila,Puutarhakatu 6,90130,Oulu,65.84711180000001,24.14897143859268,,,,,
+Arkkitehtitoimisto Juhani Katainen kommandiittiyhtiö,Töölönkatu 12 A 14,00100,Helsinki,60.1776585,24.928115100000003,,,,,
+Arkkitehtitoimisto Juhani Pallasmaa Ky,Tehtaankatu 13 B 28,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Juhani Utriainen Oy,Haiharankatu 3 C 17,33710,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Jukka Koivula,Pappilankatu 35,26100,Rauma,61.4902941,23.8578748,,,,,
+Arkkitehtitoimisto Jukka Peltoniemi Tmi,Lahdenkankaantie 250,63230,Lentilä,62.7171522,23.5309902,,,,,
+Arkkitehtitoimisto Jukka Turtiainen Oy,Tammasaarenkatu 5,00180,Helsinki,60.16135345,24.905832646453515,2033.0,"-14,5%",304.0,"18,9%",14.0
+Arkkitehtitoimisto Jussi Aittoniemi Kommandiittiyhtiö,Aittoniementie 50,61600,Jalasjärvi,62.6888921,27.7993631,,,,,
+Arkkitehtitoimisto Jussi Laitinen Oy,Kuninkaantie 39,02940,Espoo,60.29341555000001,24.863482993353372,,,-3.0,,
+Arkkitehtitoimisto Jutila,Veitikantie 35 B 1,96100,Rovaniemi,66.49592170000001,25.7176966,,,,,
+Arkkitehtitoimisto Järvi M Oy,Hollantilaisentie 32,00330,Helsinki,60.195231400000004,24.8732874,43.0,,1.0,"2,2%",
+Arkkitehtitoimisto Järvinen & Kuorelahti Oy,Pikisaarentie 17,90100,Oulu,60.4286289,22.2153618,191.0,"-26,3%",1.0,1%,
+Arkkitehtitoimisto Jääskeläinen Oy,Keskustori 4,60100,Seinäjoki,61.49882855,23.76214209817441,965.0,"13,1%",22.0,"3,5%",6.0
+Arkkitehtitoimisto K2S Oy,Pohjoinen Hesperiankatu 15 A 1,00260,Helsinki,60.1765049,24.9157051,1050.0,"2,5%",345.0,"39,6%",
+Arkkitehtitoimisto KDM,Ulvilantie 20 D 49,00350,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto KIA,Perustie 24 A 6,00330,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto KKR Oy,Pitkäjärvenranta 6,02730,Espoo,60.24937190000001,24.75388450847509,,,,,
+Arkkitehtitoimisto Kaarlo Rohola Oy,Pilvitie 1,37600,Valkeakoski,60.2763375,24.8780496,86.0,"-24,6%",-8.0,"-12,8%",1.0
+Arkkitehtitoimisto Kaija ja Petri Eerikäinen,Suolakivenkatu 18 A 28,00810,Helsinki,60.1891791,25.0264303,,,,,
+Arkkitehtitoimisto Kaikkonen Oy,Typpitie 1,90620,Oulu,65.02724690000001,25.5098568,,,,,
+Arkkitehtitoimisto Kaivo-oja,Mansikkaviita 27 B 6,60150,Seinäjoki,0.0,0.0,,,,,
+Arkkitehtitoimisto Kallio-Koski Oy,Torpankatu 17 E 12,90230,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Kallis Eeva ja Sten,Nukarintie 2,00730,Helsinki,60.26834545,25.023131352829598,,,,,
+Arkkitehtitoimisto Kanerva Kirsti Ky,Timperintie 7 B,28600,Pori,64.21741750000001,27.761998100000003,,,,,
+Arkkitehtitoimisto Kanttia 2 Oy,Nahkatehtaankatu 2,90130,Oulu,61.50896525,23.661988396812234,,,,,
+Arkkitehtitoimisto Kara-Consult,Vuolutie 17,01650,Vantaa,60.2663087,24.830810532558132,5.0,"-37,5%",1.0,20%,
+Arkkitehtitoimisto Kari Huotari Oy,Metsäkatajankuja 3,90230,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Kari Sipilä Oy,Ahotie 15,90440,Kempele,60.25627275,24.73056665847373,152.0,"65,2%",14.0,"12,5%",
+Arkkitehtitoimisto Karin Krokfors Oy,Hämeentie 133 A,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Arkkitehtitoimisto Karlsson Kristina,Tallberginkatu 2 B,00180,Helsinki,60.1623093,24.9039015,,,,,
+Arkkitehtitoimisto Karsikas Oy,Haapanatie 32 B,90150,Oulu,64.9929932,25.502168,150.0,"-58,3%",5.0,"4,7%",
+Arkkitehtitoimisto Kaupunkikehitys Oy,Välimerenkatu 4 A 17,00220,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Keijo Tolppa,Savonniemenkatu 3 B,57100,Savonlinna,61.866545200000004,28.878888699999997,,,,,
+Arkkitehtitoimisto Kimmo Lehtola,Lohjantie 23,03100,Nummela,61.5730168,27.5312256,47.0,"23,7%",4.0,"16,2%",
+Arkkitehtitoimisto Kimmo Linnovaara,Piiponraitti 1,37500,Lempäälä,61.31584590000001,23.757450600000002,,,,,
+"Arkkitehtitoimisto Klemola & Co, avoin yhtiö",Tampellan esplanadi,33100,Tampere,61.5069272,23.7663057,,,,,
+Arkkitehtitoimisto Komulainen Arkkitehdit Oy,Kirkkokatu 8 A 8,90100,Oulu,62.60477579999999,29.7621945,525.0,"-3,8%",61.0,"14,5%",4.0
+Arkkitehtitoimisto Kontuniemi Oy,Pohjoiskaari 10 A 12,00200,Helsinki,60.111973600000006,23.533756600000004,,,,,
+Arkkitehtitoimisto Korosuo Eero Ky,Kivenhakkaajankuja 3 A 6,02650,Espoo,60.2227762,24.8101883,,,,,
+Arkkitehtitoimisto Kristian Forsberg,Lauttasaarentie 47 A 18,00200,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Kristiina Mäntynen,Eerikinkatu 29,00180,Helsinki,60.1651502,24.929033999999998,,,,,
+Arkkitehtitoimisto Kristiina Timonen,Pursimiehenkatu 16,00150,Helsinki,60.159230900000004,24.937691100000002,,,,,
+Arkkitehtitoimisto Kuhmonen Tutsa Oy,Pietarinkatu 7 A,00140,Helsinki,60.157107999999994,24.9462356,,,-3.0,,
+Arkkitehtitoimisto Kuismanen Kimmo,Hoikantie 9 A,90500,Oulu,65.0247042,25.5021068,,,,,
+Arkkitehtitoimisto Küttner Ky,Hallituskatu 7,28100,Pori,65.8445966,24.149032300000002,,,,,
+Arkkitehtitoimisto L2,Kauppiaskatu 10 C 38,20100,Turku,0.0,0.0,,,,,
+Arkkitehtitoimisto Laatio Oy,Isokatu 19 B 16,90100,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Lahti & Marttila Oy,Mechelininkatu,00100,Helsinki,60.165064799999996,24.9213385,15.0,"445,3%",7.0,60%,
+Arkkitehtitoimisto Lahtinen,Hulda Koskisen tie 10,36270,Kangasala,0.0,0.0,,,,,
+Arkkitehtitoimisto Lappalainen & Korjonen Oy,Rantakatu 30,80100,Joensuu,62.603618000000004,29.7683798,305.0,"-10,6%",93.0,"32,3%",3.0
+Arkkitehtitoimisto Larkas Oy,Kiviaidankatu 3 A 26,00210,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Lassila A.,Alajärventie 17,63800,Soini,66.5869885,27.161193199999996,,,,,
+Arkkitehtitoimisto Lehmuskoski,Kumiantie 539,15560,Nastola,61.03521920000001,25.887602100000002,,,,,
+Arkkitehtitoimisto Lehti,Yhteiskouluntie 5 A,04400,Järvenpää,60.2130071,24.887936,,,,,
+Arkkitehtitoimisto Lehtiluoto Pentti Ky,Klaarantie 3 B 12,00200,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Lindholm Oy,Tervalepiköntie 1 AS. 5,36600,Pälkäne,0.0,0.0,,,,,
+Arkkitehtitoimisto Linja Arkkitehdit Oy,Kansankatu 49,90100,Oulu,11.0071888,-9.168169,5115.0,"23,7%",934.0,"22,9%",55.0
+Arkkitehtitoimisto Livady,Hämeentie 4 C 11,00530,Helsinki,60.18512809999999,24.960641,718.0,"12,5%",57.0,"10,3%",
+Arkkitehtitoimisto Louekari Oy,Koskitie 32 C,90500,Oulu,61.0974863,24.0409295,18.0,"5,9%",1.0,"5,6%",1.0
+Arkkitehtitoimisto Lunkka Oy,Malminkatu 5 B 8. krs,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Löfström Kaarina Oy,Kapteeninkatu 20-22 F 60,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Lönnqvist Sebastian Oy,Villa Linnais Kilonrinne 1,02610,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Maisa Luhtasela,Tervalammentie 689 D,03220,Tervalampi,61.11185450000001,25.9295552,,,,,
+Arkkitehtitoimisto Malmio Oy,Laurintie 14,02180,Espoo,60.18975085,24.757132281555823,9.0,"-47,1%",3.0,"22,2%",2.0
+Arkkitehtitoimisto Manark Oy,Jääkärinkatu 2 E 57,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Manner P & P Oy,Vironkatu 7 E 12,00170,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Marcus Upmeier Oy,Kaistareenkatu 17,20900,Turku,60.39965805,22.26168575,9.0,"-81,6%",-10.0,-100%,1.0
+Arkkitehtitoimisto Maria Ailio,Hiiralantie 15 A,02160,Espoo,60.164168599999996,24.796103600000002,,,,,
+Arkkitehtitoimisto Marianne Lehtimäki,Hämeentie 125 c/o Bokvillan,00560,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Marja Utriainen,Hämeentie 133,00560,Helsinki,60.45859720000001,22.3083146,,,,,
+Arkkitehtitoimisto Marja-Riitta Norri Oy,Urho Kekkosen katu 3 B,00100,Helsinki,60.1684759,24.9323458,89.0,"-24,6%",3.0,"4,5%",1.0
+Arkkitehtitoimisto Marjaana Kinnermä,Mariankatu 13b B 35,00170,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Marjut Kauppinen Oy,Museokatu 34 A 13,00100,Helsinki,60.1745436,24.9305486,46.0,"-16,4%",4.0,"8,7%",
+Arkkitehtitoimisto Markku Kurki Oy,Pyrytie 4 A,00700,Helsinki,60.681417700000004,26.8210462,,,,,
+Arkkitehtitoimisto Markku Mäki-Opas,Kiuruntie 31,36200,Kangasala,62.9117017,27.681736600000004,,,,,
+Arkkitehtitoimisto Markus Kuusela,Kärrbyntie 77,10160,Degerby,58.571009499999995,12.230903199999998,,,,,
+Arkkitehtitoimisto Mars,Telluksentie 4,01480,Vantaa,60.343684700000004,25.0899247,,,,,
+Arkkitehtitoimisto Martti Uksila Ky,Hollantilaisentie 3,00330,Helsinki,60.19375545,24.874338158116487,,,,,
+Arkkitehtitoimisto Matti Happonen Oy,Suksitie 10,01280,Vantaa,60.2452799,25.093096564472084,,,-5.0,,1.0
+Arkkitehtitoimisto Matti Huusari Ky,Lehmustie 4,39500,Ikaalinen,60.25296795,24.98852354365183,,,,,
+Arkkitehtitoimisto Matti Iiramo,Kirkkokalliontie 6,01740,Vantaa,62.9750659,22.4797467,,,,,
+Arkkitehtitoimisto Matti Kärkkäinen Oy,Kaj Franckin katu 5 A 6,00560,Helsinki,60.208143799999995,24.980455399999997,93.0,"-16,2%",11.0,"15,1%",
+Arkkitehtitoimisto Mattiveikko Salo Oy,Brahenkatu 8,92100,Raahe,61.6828062,27.266067053235034,,,,,
+Arkkitehtitoimisto Medark Oy,Wittenberginkatu 14,06100,Porvoo,60.3943079,25.6791008,73.0,"-31,1%",5.0,"9,6%",
+Arkkitehtitoimisto Merenmies Oy,Porrassalmenkatu 11 B 30,50100,Mikkeli,0.0,0.0,,,,,
+Arkkitehtitoimisto Meri Oy,Paciuksenkaari 13,00270,Helsinki,60.196436399999996,24.896525399999998,110.0,"71,9%",21.0,23%,1.0
+Arkkitehtitoimisto Miikkulainen & Savolainen Oy,Kannunvalajantie 7 b,00620,Helsinki,60.22401899999999,24.942297500000002,8.0,"14,3%",5.0,50%,
+Arkkitehtitoimisto Mika Hietala,Simonniityntie 67,49220,Siltakylä,60.488170600000004,26.715125399999994,,,,,
+Arkkitehtitoimisto Mika Hiltunen Oy,Kuusipolku 21,37150,Nokia,59.4884637,25.3329431,67.0,"25,3%",7.0,"11,9%",1.0
+Arkkitehtitoimisto Mika Päivärinne Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,895.0,-30%,27.0,4%,8.0
+Arkkitehtitoimisto Minkkinen Oy,Isokiskontie 10,10470,Fiskari,60.1323012,23.5412245,107.0,"-45,1%",-56.0,"-52,3%",2.0
+Arkkitehtitoimisto Mirja Puoskari,Iso Roobertinkatu 26 A 12,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Mirja ja Pekka Koski-Lammi Oy,Mannerheimintie 93 L 267,00270,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Murtomäki Aimo,Huhtalahdentie 6 D 15,40520,Jyväskylä,0.0,0.0,,,,,
+Arkkitehtitoimisto NOAN Oy,Satakunnankatu 14,33100,Tampere,60.56658235,27.229771282162584,,,,,
+Arkkitehtitoimisto NVø Ky,Aleksis Kiven tie 19 A,01900,Nurmijärvi,60.4630042,24.797496300000002,,,,,
+Arkkitehtitoimisto Neva Oy,Kyttälänkatu 1,33100,Tampere,61.499392900000004,23.7684689,1950.0,"8,6%",167.0,"10,7%",22.0
+Arkkitehtitoimisto Nicoletti,Holmankorpi 1 D 58,02210,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto ON Oy,Snellmaninkatu 2 a,70100,Kuopio,60.1741519,24.953063500000003,426.0,"21,4%",12.0,4%,6.0
+Arkkitehtitoimisto Ohoj,Vähäniityntie 16 C,00570,Helsinki,60.18466970000001,25.015862600000002,,,,,
+Arkkitehtitoimisto Oikarinen Risto Oy,Schaumanin Puistotie 7 A 6,40100,Jyväskylä,62.243536399999996,25.761705300000003,155.0,"-22,9%",-25.0,"-16,1%",3.0
+Arkkitehtitoimisto Okulus Oy,Vanha Saunalahdentie 20,02330,Espoo,60.163231200000006,24.6111818547173,225.0,"-36,8%",-11.0,"-4,9%",
+Arkkitehtitoimisto Olli Heininen Oy,Sannaistenkatu 9,06100,Porvoo,60.3972473,25.6848466,28.0,"-26,3%",1.0,"3,6%",1.0
+Arkkitehtitoimisto Olli Kumpulainen,Torpantie 7 A,04430,Järvenpää,60.3001973,25.3213118,,,,,
+Arkkitehtitoimisto Olympia,Ratavartijankatu 4 C 58,00520,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Oona Masso,Ylistörmä 5 A 2,02210,Espoo,60.1771642,24.738032999999998,,,,,
+Arkkitehtitoimisto Opus Oy,Töölönkatu 7,00100,Helsinki,60.176208499999994,24.929687,359.0,"18,9%",84.0,"29,2%",4.0
+Arkkitehtitoimisto PSM Oy,Selkämerenkatu 6 C 48,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Paalimäki & Pollock Oy,Välimerenkatu 13 A 21,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Paatela & Co Oy,Tapiontori 3 C,02100,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Pasi Siistonen Oy,Itäinen Kuninkaantie 193b,02580,Siuntio,60.1147074,24.3177601,2.0,"-83,3%",1.0,100%,
+Arkkitehtitoimisto Paukkunen,Mestarinkatu 15 as. 27,20810,Turku,0.0,0.0,,,,,
+Arkkitehtitoimisto Paula Leiwo Oy,Kapteeninkatu 5 lh. 4,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Pauli Sonninen,Simpukankatu 6,70840,Kuopio,62.8527493,27.7066061,,,,,
+Arkkitehtitoimisto Pekka Ilveskoski Oy,Loukonlahdentie 12 A,33950,Pirkkala,61.475448,23.684319100000003,,,,,
+Arkkitehtitoimisto Pekka Jämsä Ky,Iivisniementie 2 B 87,02260,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Pekka Mäenpää,Houkantie 7,37560,Lempäälä,24.355,120.66194399999999,,,,,
+Arkkitehtitoimisto Pekka Ojalammi,Lehtotie 12,00630,Helsinki,60.9210877,24.6299282,,,,,
+Arkkitehtitoimisto Pekka Paavola Oy,Väinönkatu 15 H 24,40100,Jyväskylä,0.0,0.0,,,,,
+Arkkitehtitoimisto Pekka Salmi,Keskuspuistokatu 2,94100,Kemi,65.7356018,24.5660961,,,,,
+Arkkitehtitoimisto Pentti Värälä Oy,Maustetehtaankatu 6 C 24,00990,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Perko Oy,Sturenkatu 13,00510,Helsinki,60.193187300000005,24.9544127,1746.0,"-12,3%",320.0,23%,
+Arkkitehtitoimisto Pertti Mertaoja,Maaherrankatu 5 D 34,50100,Mikkeli,0.0,0.0,,,,,
+Arkkitehtitoimisto Pertti Nousiainen Oy,Tellervonkatu 15 A 1,40200,Jyväskylä,61.476996299999996,21.807266000000002,127.0,"-30,6%",-15.0,"-11,8%",2.0
+Arkkitehtitoimisto Pet Michael Oy,Komeetankuja 1 B,02210,Espoo,60.16702829999999,24.7339525,1121.0,"35,7%",449.0,"52,3%",
+Arkkitehtitoimisto Petteri Nisunen Oy,Merimiehenkatu 32 VA 2,00150,Helsinki,60.437554399999996,22.246665399999998,142.0,"77,5%",37.0,"27,8%",
+Arkkitehtitoimisto Petteri Patolinna,Vaapukantie 3,05810,Hyvinkää,60.616660100000004,24.903375699999998,,,,,
+Arkkitehtitoimisto Piirta Oy,Suvikuja 4,02120,Espoo,60.1727797,24.79074521968693,,,,,
+Arkkitehtitoimisto Ponkala Oy,Pälkäneentie 19 B 11,00510,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Pook Oy,Snettansintie 15,02740,Espoo,60.2852619,24.677928717585694,310.0,"-9,6%",-10.0,"2,6%",
+Arkkitehtitoimisto Projektiarkkitehdit U.T. Ky,Kivikkokuja 6,40520,Jyväskylä,60.797933900000004,25.7338293,,,,,
+Arkkitehtitoimisto Prokkola & Mäkikyrö,Haulitie 4 B,90250,Oulu,64.98876949999999,25.5128393,,,,,
+Arkkitehtitoimisto Päätalo Oy,Ruokosenraitti 1,33680,Tampere,61.5438556,23.8859548,,,,,
+Arkkitehtitoimisto Pöytäniemi Ky,Onnelantie 30 A 4,15150,Lahti,65.0029746,25.5511642,,,,,
+Arkkitehtitoimisto Q'Ark Oy,Aleksanterinkatu 23 A 15,33100,Tampere,60.9823288,25.6652863,539.0,-9%,24.0,"6,5%",4.0
+Arkkitehtitoimisto Qvim Arkkitehdit Oy,Microkatu 1 M,70210,Kuopio,62.88867320000001,27.628621999999996,1351.0,"1,6%",125.0,"7,4%",14.0
+Arkkitehtitoimisto R-H. Laakso Oy,Hilda Flodinin aukio 2 A 1,00300,Helsinki,60.201225300000004,24.895712200000002,22.0,"15,8%",1.0,"4,5%",
+Arkkitehtitoimisto R. Schnitzler,Ratakatu 19,00120,Helsinki,42.0352799,21.037494600000002,,,,,
+Arkkitehtitoimisto Raila ja Tapio Rönkönharju Oy,Torikatu 44-46,90100,Oulu,62.892198300000004,27.6731726,35.0,-30%,-4.0,"-7,1%",
+Arkkitehtitoimisto Raimo Halonen Ky,Puistokatu 11 A 24,40100,Jyväskylä,0.0,0.0,,,,,
+Arkkitehtitoimisto Rajamäki & Co Oy,Peilikuja 9 A,02780,Espoo,60.1831379,24.576985500000003,1.0,"-80,2%",-3.0,-100%,1.0
+Arkkitehtitoimisto Ranto Oy,Ilkantie 11,60800,Ilmajoki,60.2232657,24.901316102396105,28.0,,-1.0,"-17,9%",
+Arkkitehtitoimisto Raudasoja Oy,Mikkolantie 1-3,33470,Ylöjärvi,64.9532235,25.668082000000002,191.0,"5,5%",11.0,"7,9%",3.0
+Arkkitehtitoimisto Rauhalammi Oy,Tuomarilantie 4,02760,Espoo,60.205708200000004,24.681625699999998,401.0,"-0,5%",126.0,"40,9%",3.0
+Arkkitehtitoimisto Rauno Leinus Oy,Vivastenintie 32,02420,Jorvas,60.0917704,24.6063823,29.0,"31,8%",4.0,"12,9%",
+Arkkitehtitoimisto Rauno Ruonansuu Oy,Keskuspuistokatu 9,94100,Kemi,65.7356018,24.5660961,102.0,"-17,7%",-1.0,-1%,2.0
+Arkkitehtitoimisto Reijo Seppänen Oy,Mannerheimintie 18,50100,Mikkeli,60.57312065,27.186361400000006,,,1.0,,
+Arkkitehtitoimisto Reino Vester,Kyminkatu 6 as 8,44150,Äänekoski,0.0,0.0,,,,,
+Arkkitehtitoimisto Reponen Jari Oy,Kummeltie 10 B,00830,Helsinki,60.190510100000004,25.050151500000002,10.0,"66,7%",3.0,40%,
+Arkkitehtitoimisto Risto Kostia Oy,Sarvimäentie 32 B,04200,Kerava,60.403786399999994,25.093396300000002,20.0,"33,3%",3.0,19%,1.0
+Arkkitehtitoimisto Risto Rönkä,Veijolantie 28,08150,Lohja,60.244837100000005,24.0975622,,,,,
+Arkkitehtitoimisto Risto Suikkari,Puistokatu 15 As 16,90120,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Risto Syväniemi,Iso-Heikkiläntie 8,20200,Turku,60.45129865,22.239427179492694,,,,,
+Arkkitehtitoimisto Roiha Sari,Kapteeninkatu 11 B,00140,Helsinki,63.108059600000004,21.5942977,,,,,
+Arkkitehtitoimisto Rombi,Halkosuontie 57 as. 7,00660,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Rurik Wasastjerna,Alvar Aallon katu 2 D 39,48900,Kotka,0.0,0.0,,,,,
+Arkkitehtitoimisto Ruuskanen Oy,Albertinkatu 27b,00180,Helsinki,60.1634335,24.9345174,,,,,
+Arkkitehtitoimisto S-H Hägerström Arkitektbyrå Oy Ab,Autioniityntie 92,02420,Jorvas,60.140904500000005,24.510616100000004,,,,,
+Arkkitehtitoimisto Saanilahti ja Voipio Oy,Vanha Turun maantie 9 C 31,00320,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Saanisto Mari ja Tero,Urheilukatu 24 B 29,00250,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Sabelström Arkitektkontor Oy,Linnankatu 49 lh. 3,20100,Turku,0.0,0.0,,,,,
+Arkkitehtitoimisto Sajaniemi Oy,Graanintie 5,50190,Mikkeli,61.6846495,27.295099600000004,242.0,"-16,9%",0.0,"0,8%",4.0
+Arkkitehtitoimisto Sakari Heikkinen ,Kuninkaantie 18,02400,Kirkkonummi,60.293442399999996,24.864637100000003,,,,,
+Arkkitehtitoimisto Sami Vikström Oy,Sturenkatu 40 H 96,00550,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Sampo Ojala,Toivoniementie 6 as. 18,90500,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Samppa Lappalainen Oy,Taivaanvuohentie 2 A 14,00200,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Sarc Oy,Tammasaarenlaituri 3,00180,Helsinki,60.1624402,24.9014738,9631.0,10%,3121.0,"40,5%",56.0
+Arkkitehtitoimisto Sari Lehtonen Oy,Haahkatie 6 A 16,00200,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Sari Nieminen Oy,Harjutorinkatu 3 B 69,00500,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Satu Weckman,Uotilantie 5,12700,Loppi,60.3481667,23.2765895,,,,,
+Arkkitehtitoimisto Savolainen Anja ja Raimo,Rahakamarinportti 1 H 32,00240,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Schulman Oy,Tallberginkatu 1 D,00180,Helsinki,60.1617667,24.903825100000002,,,,,
+Arkkitehtitoimisto Schuurman Architects,Lehtisaarentie 1,00340,Helsinki,63.47416035,23.788969925097657,,,,,
+Arkkitehtitoimisto Seppo Asikainen Oy,Vuorikatu 11 A 18,50100,Mikkeli,0.0,0.0,,,,,
+Arkkitehtitoimisto Seppo Koutaniemi Ky,Kitkantie 18 A,93600,Kuusamo,65.9724923,29.1785909,,,,,
+Arkkitehtitoimisto Seppo Markku Oy / Arkkitehtitoimisto H&M Arkkitehdit,Rautatienkatu 19 A,15110,Lahti,65.0000605,25.4688456,676.0,"-26,5%",-30.0,"-4,3%",5.0
+Arkkitehtitoimisto Severi Blomstedt,Munkkiniemen puistotie 6 A,00330,Helsinki,60.19661729999999,24.8842828,,,,,
+Arkkitehtitoimisto Sievänen L & M Oy,Länsiportti 1 C 18,02210,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Siitonen Tuomo Oy,Veneentekijäntie 12,00210,Helsinki,60.15102305,24.88738859116405,1164.0,"6,5%",283.0,"30,3%",8.0
+Arkkitehtitoimisto Sillman,Kauppakatu 25 A,87100,Kajaani,62.891366000000005,27.6732691,579.0,"-0,7%",16.0,"4,5%",9.0
+Arkkitehtitoimisto Siltanen ja Laakso Oy,Hilda Flodinin aukio 2 A 1,00300,Helsinki,60.201225300000004,24.895712200000002,463.0,0%,13.0,"2,8%",3.0
+Arkkitehtitoimisto Sipinen Oy,Tiistilänkuja 5 C,02230,Espoo,60.1551743,24.735876,,,,,
+Arkkitehtitoimisto Sipponen-Teerenmaa Oy,Kurukatu 5,15950,Lahti,46.855515000000004,9.525406599999998,14.0,"-39,1%",-10.0,"-78,6%",1.0
+Arkkitehtitoimisto Skammi Oy,Tammimäentie 17,02940,Espoo,60.2296491,24.7214568,66.0,"-31,3%",-10.0,"-15,2%",2.0
+Arkkitehtitoimisto Stenros Oy,Bertel Jungin tie 12 C,00570,Helsinki,60.1844594,25.0021206,181.0,"-6,7%",0.0,"51,9%",0.0
+Arkkitehtitoimisto Studio Suonto Oy,Oravannahkatori 1,02120,Espoo,60.17564045,24.79240887677539,,,1.0,,
+Arkkitehtitoimisto Studio U2 Arkkitehdit Oy,Veneentekijäntie 14,00210,Helsinki,60.1513358,24.88716225,174.0,0%,5.0,4%,
+Arkkitehtitoimisto Suominen Arkkitehdit Ky,Puolalanpuisto 4 B 8,20100,Turku,0.0,0.0,,,,,
+Arkkitehtitoimisto Talvio,Tervakiventie 177,33680,Tampere,61.57830500000001,23.867046,8.0,,-4.0,-50%,
+Arkkitehtitoimisto Tapani Launis,Pohjoinen Hesperiankatu 21 A 35,00250,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Tapani Vuorinen Oy,Vuorikatu 5 B 10,15110,Lahti,63.10089549999999,21.6213108,31.0,"14,8%",10.0,"32,5%",1.0
+Arkkitehtitoimisto Tapio Grönlund Oy,Vanhaistentie 4 E 39,00420,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Tarja Outila,Sompiontie 7 B,96100,Rovaniemi,60.2633694,25.028226500000002,,,,,
+Arkkitehtitoimisto Tarkko Oksala Tmi,Topeliuksenkatu 3 A A 6,00250,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Tarmo Mustonen Oy,Lehmustie 27 A,20720,Turku,60.1614687,24.6873046,195.0,"4,3%",13.0,"8,7%",2.0
+Arkkitehtitoimisto Tarmo R. Paju Oy,Salpausselänkatu 28 A,45100,Kouvola,60.9837073,25.6358547,,,,,
+Arkkitehtitoimisto Taru Lindberg,Leenankuja 3 B 34,02230,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Tauno Keiramo Oy,Kivelänperäntie 10,20960,Turku,60.36060160000001,22.123127800000002,16.0,"166,7%",6.0,"41,2%",
+Arkkitehtitoimisto Teemu Halme,Nousiaistentie 8 A 3,00280,Helsinki,60.19956379999999,24.906211499999998,,,,,
+Arkkitehtitoimisto Teppo Pietarinen,Kunnaantie 15 C,01370,Vantaa,60.29720699999999,25.071701899999997,,,,,
+Arkkitehtitoimisto Tero Ahava Oy,Sahaajankatu 24,00880,Helsinki,60.2006284,25.047250199999997,148.0,,44.0,"37,2%",1.0
+Arkkitehtitoimisto Tero Pelto-Uotila,Suutarinkatu 4 A 2,20300,Turku,62.380203200000004,21.2231236,,,,,
+Arkkitehtitoimisto Tervonen Virpi,Rantakatu 10 A 12,23500,Uusikaupunki,36.57323220291377,-94.25236684259536,,,,,
+Arkkitehtitoimisto Tilasto,Hyypänpolku 4 A 6,33540,Tampere,61.4924068,23.804213,,,,,
+Arkkitehtitoimisto Timo Tuomola Ky,Pohjankatu 4 a,26100,Rauma,62.9046716,27.7001958,,,,,
+Arkkitehtitoimisto Timo Viikari & Co Oy,Lastenkodinkatu 5,00180,Helsinki,60.166013899999996,24.9257985,,,,,
+Arkkitehtitoimisto Tiuri & Lommi Oy,Laivanvarustajankatu 5,00140,Helsinki,60.1565675,24.9478456,486.0,"8,5%",10.0,"2,7%",6.0
+Arkkitehtitoimisto Toivonen Iiro,Merisotilaankatu 3,00160,Helsinki,60.167504799999996,24.976839899999998,196.0,1%,5.0,"3,5%",
+Arkkitehtitoimisto Tommi Lehtonen Tmi,Otsolahdentie 7 C 30,02110,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Toni Yli-Suvanto Oy,Laivalahdenkaari 34,00810,Helsinki,60.18612335,25.032969925234124,45.0,200%,12.0,"26,7%",1.0
+Arkkitehtitoimisto Topi Tuominen Oy,Alppikatu 11 A 75,00530,Helsinki,60.185371700000005,24.9418791,15.0,0%,2.0,"5,6%",
+Arkkitehtitoimisto Tuomela Ky,Keskuskatu 10 A 6,62900,Alajärvi,0.0,0.0,,,,,
+Arkkitehtitoimisto Tuomo Hahl,Asessorintie 6 B 1,00690,Helsinki,60.260475899999996,24.956910399999998,,,,,
+Arkkitehtitoimisto Tupala Ky,Kariniemenkatu 29,15140,Lahti,60.9896009,25.6533823,,,,,
+Arkkitehtitoimisto Tuuma/25 Oy,Torkkelinkuja 1 A 11,00500,Helsinki,60.184986,24.9558775,,,,,
+Arkkitehtitoimisto UKI Arkkitehdit Oy,Puusepänkatu 6,90130,Oulu,60.194969400000005,25.044427300000002,6012.0,"22,3%",451.0,"9,2%",64.0
+Arkkitehtitoimisto Valjus Oy,Tulliportinkatu 3,57100,Savonlinna,62.609210100000006,29.745737300000002,,,179.0,,2.0
+Arkkitehtitoimisto Valtteri Heinonen,Töölönkatu 6,00100,Helsinki,60.1777132,24.9280501,,,,,
+Arkkitehtitoimisto Vartola & Viljamaa,Munkkiniemenranta 37 as. 2,00330,Helsinki,60.19985129999999,24.860481699999998,,,,,
+Arkkitehtitoimisto Veli Karjalainen Oy,Uusikatu 23 as.19,90100,Oulu,0.0,0.0,,,,,
+Arkkitehtitoimisto Vepsäläinen Kaisa,Sepänkatu 17 E,00150,Helsinki,61.6988,27.297424,,,,,
+Arkkitehtitoimisto Vezio Nava Oy,Eerikinkatu 1 A 2,00100,Helsinki,60.44693589999999,22.2556974,6.0,,-1.0,"-16,7%",
+Arkkitehtitoimisto Vimma Oy,Hämeenkatu 21-23,05800,Hyvinkää,61.49790279999999,23.7631422,47.0,"-4,1%",1.0,2%,
+Arkkitehtitoimisto Virpiö Oy,Hietaantie 215,03870,Hyönölä,60.4862713,23.884422600000004,110.0,"22,2%",57.0,"60,8%",
+Arkkitehtitoimisto Virtanen & Palokangas Ky,Lemmentie 13,16300,Orimattila,44.0948496,9.759536599999999,,,,,
+Arkkitehtitoimisto Virtanen Heikki,Uotinmäenkuja 9 C,00970,Helsinki,60.23659129999999,25.1136698,,,,,
+Arkkitehtitoimisto Vuorelma Arkkitehdit,Pieni Roobertinkatu 10 C 14,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Vuorio Matti Arkkitehdit Oy,Juhani Ahon tie 16 A 2,00150,Helsinki,60.1565247,24.941425100000004,,,-2.0,,
+Arkkitehtitoimisto Wega Oy,Ruukinrannantie 5,02600,Espoo,60.20671435,24.81922895,16.0,700%,12.0,"72,2%",0.0
+Arkkitehtitoimisto Westerback Oy,Puusepänkatu 1,00880,Helsinki,60.9870275,24.495217899999997,103.0,"6,2%",9.0,"12,6%",
+Arkkitehtitoimisto Ylinen Antti Oy,Näsilinnankatu 23 A 13,33210,Tampere,0.0,0.0,,,,,
+Arkkitehtitoimisto Åke Lindeberg Ab Oy,Meriusva 1 A 17,02320,Espoo,0.0,0.0,,,,,
+Arkkitehtitoimisto Österlund,Hämeenkatu 16 A 3,33200,Tampere,61.4971596,23.7528978,,,,,
+Arkkitehtitsto Knuuti Mikko Ky,Kauppaneuvoksentie 12,63400,Alavus as,60.15944335,24.88161915,,,,,
+"Arkkitehtityö Lindström, Virtanen Oy",Rauhankatu 9 B 10,15110,Lahti,0.0,0.0,,,,,
+Arkkitehtityöhuone Aprt Oy,Uudenmaankatu 2 K,00120,Helsinki,60.45174720000001,22.2755401,1002.0,"13,1%",20.0,"2,1%",
+Arkkitehtuure,Mallastie 16 A 20,90520,Oulu,65.033304,25.4448545,,,,,
+Arkkitehtuuri & Sisustus Paula Ahola,Vapaudenkatu 4 B 14,15110,Lahti,60.98393299999999,25.6578204,,,,,
+Arkkitehtuuri Akaasia,Kairatie 5 A 8,96100,Rovaniemi,63.072487699999996,21.6714725,,,,,
+Arkkitehtuuri Jorma Mukala Ky,Roihuvuorentie 6a A,00820,Helsinki,60.1960372,25.052892553260268,,,,,
+Arkkitehtuuri Mjk Martti Kallinen,Tomerontie 65-3,21530,Paimio,60.4752411,22.7183232,,,,,
+Arkkitehtuuri Tuuma,Perunkatu 2 A 5,70820,Kuopio,0.0,0.0,,,,,
+Arkkitehtuuri ja konsultointi Aulis Tynkkynen,Degerbynkatu 6,07900,Loviisa,63.989352100000005,20.411633600000002,,,,,
+Arkkitehtuuri- ja Konsulttitoimisto S.P.Ark,Okatie 5,07700,Koskenkylän saha,60.499284700000004,25.9170216,,,,,
+Arkkitehtuuri- ja insinööritoimisto TMX Oy,Yli-Huikkaantie 63,33560,Tampere,61.499553299999995,23.835444100000004,48.0,"-18,6%",10.0,"27,1%",1.0
+Arkkitehtuuri- ja muotoilutoimisto Monoment,Neljäs linja 12 B 52,00530,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuri- ja muotoilutoimisto Talli Oy,Ratakatu 1 b A 12,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtuurin Työhuone Suunnat,Nuottavuorentie 163 A 1,42800,Haapamäki,0.0,0.0,,,,,
+Arkkitehtuuripalvelu Grahn Oy,Tekniikantie 11,02150,Espoo,60.1819769,24.81927630897224,,,,,
+Arkkitehtuuripalvelut Gran Oy,Granholmintie 6,44200,Suolahti,62.569086,25.851760199999998,,,,,
+Arkkitehtuuripiste ky Jorma Varanka,Pappilantie 7,97900,Posio,61.65216735,27.069218167214533,,,,,
+Arkkitehtuuristudio Kaipiainen,Saramäentie 46,20300,Turku,60.4692863,22.280234252711864,,,,,
+Arkkitehtuuristudio Luomus Oy,Vilkkimäentie 5,21420,Lieto,60.528777000000005,22.4214446,16.0,,4.0,"29,4%",2.0
+Arkkitehtuuristudio Saari,Vanutehtaankatu 2 B 28,24260,Salo,0.0,0.0,,,,,
+Arkkitehtuurisuunnittelu Eija Lintula,Ahvenpolku 6,37550,Lempäälä,63.8917584,23.1171237,,,,,
+Arkkitehtuurisuunnittelu GR8,Huopalahdentie 4 -6 C 28,00330,Helsinki,0.0,0.0,,,,,
+Arkkitehtuurisuunnittelu Jukka Haataja,Ahtelantie 3 C,87200,Kajaani,60.312034600000004,24.1010561,,,,,
+Arkkitehtuurisuunnittelu Kari Jäkkö Ky,Petäjäsuontie 20,48400,Kotka,60.4981816,26.841302799999998,,,,,
+Arkkitehtuurisuunnittelu Markku Landen,Luntilantie 13 A 5,08500,Lohja,60.2699813,24.1056555,,,,,
+Arkkitehtuuritoimi Ilpo Vuorela,Huugontie 5,40900,Säynätsalo,62.125444200000004,25.757407,,,,,
+Arkkitehtuuritoiminta Mauri Kärjenniemi,Alakartanontie 6 B 39,02360,Espoo,0.0,0.0,,,,,
+Arkkitehtuuritoimisto A. Kärnä Oy,Sairaalakatu 19 B 12,80100,Joensuu,0.0,0.0,,,,,
+Arkkitehtuuritoimisto A. M. Ky,Kalliolanrinne 4 A 8 c/o Anteeksi-työhuone,00510,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto A.D.L.C. Oy Foto,Larin Kyöstin tie 13,00650,Helsinki,60.22843345,24.969815650000005,,,,,
+Arkkitehtuuritoimisto ANFA,Reimari 1,10660,Tammisaari,59.983765399999996,23.3994259,,,,,
+Arkkitehtuuritoimisto AT Ky,Kauppakatu 14,40100,Jyväskylä,60.2505047,24.0666653,,,,,
+Arkkitehtuuritoimisto Ahonen Veikko Oy,Laivalahdenkaari 30,00810,Helsinki,60.186383,25.034209399999998,16.0,"-84,3%",-12.0,-65%,1.0
+"Arkkitehtuuritoimisto Aino Tuori, kommandiittiyhtiö",Tehtaankatu 9 A 10,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Ari Ahonen,Merikorttitie 12 A 3,00960,Helsinki,60.218870499999994,25.1292728,,,,,
+Arkkitehtuuritoimisto Ari Sahlman Oy,Vesikansankuja 44 A,03100,Nummela,60.3588495,24.2387409,90.0,"2,3%",1.0,0%,1.0
+Arkkitehtuuritoimisto Ark Lab Oy,Töölönkatu 6,00100,Helsinki,60.1777132,24.9280501,165.0,"68,4%",14.0,"9,7%",
+Arkkitehtuuritoimisto Ark-Pelin Ky,Seutulantie 110,04350,Nahkela,60.3827475,24.8913872,,,,,
+Arkkitehtuuritoimisto Arkdigi Oy,Myllytuvantie 7 D,40640,Jyväskylä,60.2270848,25.0632953,21.0,513%,11.0,"61,9%",
+Arkkitehtuuritoimisto B & M Oy,Perämiehenkatu 12 E,00150,Helsinki,60.157712800000006,24.935277199999998,3713.0,"13,3%",271.0,"9,2%",41.0
+Arkkitehtuuritoimisto Baeckman Woldemar - Jaakko Aartelo Oy,Ulvilantie 11 A E8,00350,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Eero Koponen Oy,Hauhontie 17,40520,Jyväskylä,61.1714193,24.564202800000004,113.0,"-31,1%",11.0,"5,3%",
+Arkkitehtuuritoimisto Erkki Kuoppamäki Ky,Iirislahdentie 33 D,02230,Espoo,60.1559586,24.765718600000003,,,,,
+Arkkitehtuuritoimisto Eva-Karin Wilkko & Co Ky,Pieni Roobertinkatu 8 B 10,00130,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Fott Petr Ky,Niittylaakso 19,02760,Espoo,60.19668675,24.67482097132588,,,,,
+Arkkitehtuuritoimisto H Pyykkönen,Hirviahontie 62 B,89600,Suomussalmi,64.7585142,28.805374699999998,,,,,
+Arkkitehtuuritoimisto Harto Helpinen Ky,Iirislahdentie 42 B 7,02230,Espoo,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Heikki Muntola,Koivulantie 44,21530,Paimio,62.564982799999996,25.869621600000002,,,,,
+Arkkitehtuuritoimisto Heikkinen-Komonen Oy,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,1010.0,"-58,3%",-35.0,"-3,3%",
+Arkkitehtuuritoimisto Heimo Varis Oy,Tulliportinkatu 1,57100,Savonlinna,62.606238600000005,29.749015000000004,271.0,"28,4%",50.0,24%,1.0
+Arkkitehtuuritoimisto Helena Hökkä,Borgströminkuja 4 G 55,00840,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Hirvonen-Huttunen,Salomonkatu 17 B,00100,Helsinki,60.1678988,24.927812399999997,,,,,
+Arkkitehtuuritoimisto I. Ulin Oy,Laivanvarustajankatu 10 F 65,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Ilomäki Oy,Länsipuisto 17,28100,Pori,61.48616460000001,21.7878998,131.0,,55.0,"52,7%",1.0
+Arkkitehtuuritoimisto Ilonen & Lautamo Ky,Mariankatu 22 A 1,07900,Loviisa,61.49778489999999,23.7444738,,,,,
+Arkkitehtuuritoimisto Imatran IM-ARK,Kanavakatu 5,55100,Imatra,61.16980865,28.78319031009358,,,,,
+Arkkitehtuuritoimisto Irmeli Kujala,Karjalankatu 3,15140,Lahti,60.98058185,25.671058399999996,,,,,
+Arkkitehtuuritoimisto JF-Arkkitehtuuri Oy,Aniskuja 4,01300,Vantaa,60.30044049999999,25.033995824015747,69.0,"122,6%",26.0,"47,8%",
+Arkkitehtuuritoimisto Jarmo Tiirikainen Oy,Visakoivunkuja 5 C,02130,Espoo,65.03756820000001,25.5791722,22.0,"-68,5%",0.0,0%,1.0
+Arkkitehtuuritoimisto Jenni Reuter,Kalevankatu 31 A 9,00100,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Jii-Ark,Valtakatu 25,94100,Kemi,61.05762165,28.18284278211887,,,,,
+Arkkitehtuuritoimisto Juhani Boman Ky,Paimelantie 540,17120,Paimela,62.886256,26.968398399999998,,,,,
+Arkkitehtuuritoimisto Jyrki Kihlakaski Ky,Itsenäisyydenkatu 7,39500,Ikaalinen,61.4990551,23.779384699999998,,,,,
+Arkkitehtuuritoimisto Kaasaplan,Myllyrannankatu 7,15300,Lahti,60.984329599999995,25.767380600000003,,,,,
+Arkkitehtuuritoimisto Kaasinen Jorma O,Hiidenlahdentie 9,40800,Vaajakoski,61.66529820000001,23.2066934,,,,,
+Arkkitehtuuritoimisto Kalevi Ilonen kommandiittiyhtiö,Veräjäkuja 12,07920,Loviisa,60.43787710000001,26.220145199999997,,,,,
+Arkkitehtuuritoimisto Kimmo Hakola,Ritamäenpolku 7,62100,Lapua,62.9786927,23.0327739,,,,,
+Arkkitehtuuritoimisto Kontu Oy,Niittylahdentie 41,74610,Honkaranta,62.878910100000006,27.945373200000002,54.0,"-52,6%",-30.0,-50%,1.0
+Arkkitehtuuritoimisto Kouvo & Partanen,Iso Roobertinkatu 10 A 6,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Kunnas Jouko,Kallvikintie 61 D 60,00980,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Käpy ja Simo Paavilainen Oy,Pohjoinen Hesperiankatu 11 A 1,00260,Helsinki,60.1765049,24.9157051,,,,,
+Arkkitehtuuritoimisto Lalliark Ky,Saarnimetsäntie 11,08700,Lohja,60.21692170000001,24.016363199999997,,,,,
+Arkkitehtuuritoimisto Lappalainen & Korjonen,Rantakatu 30,80100,Joensuu,62.603618000000004,29.7683798,,,,,
+Arkkitehtuuritoimisto Leo Tervaluoto,Puistokatu 2 B 19,90120,Oulu,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Lipponen & Kärki Oy,Raatihuoneenkatu 23,75500,Nurmes,61.686805500000006,27.2756838,99.0,-2%,6.0,"7,9%",1.0
+Arkkitehtuuritoimisto Lylykangas Kimmo Oy,Töölönkatu 9 A 11,00100,Helsinki,60.1774274,24.928369500000002,,,,,
+Arkkitehtuuritoimisto M.A.T. Ky,Koivukyläntie 53d,01350,Vantaa,60.31026189999999,25.029273800000002,,,,,
+Arkkitehtuuritoimisto Maarit Holttinen,Korkinmäenkatu 14,33820,Tampere,61.47105429999999,23.828287184054012,,,,,
+Arkkitehtuuritoimisto Maarit ja Aarni Holttinen Oy,Korkinmäenkatu 14,33820,Tampere,61.47105429999999,23.828287184054012,,,,,
+Arkkitehtuuritoimisto Maiju Suomi,Tallberginkatu 1 C,00180,Helsinki,60.16175260000001,24.9031248,,,,,
+Arkkitehtuuritoimisto Mari Mäkelä,Vahdontie 864,21270,Nousiainen,60.4967149,22.2509385,,,,,
+Arkkitehtuuritoimisto Marja Rauhala,Sastamalantie 1146,38210,Sastamala,61.3204267,22.784901,8.0,300%,1.0,"11,1%",1.0
+Arkkitehtuuritoimisto Marja-Liisa Jalava,Kukonkarinkatu 36,26100,Rauma,61.131201399999995,21.5173223,,,,,
+Arkkitehtuuritoimisto Matti Laine Oy,Pyörökiventie 17 B,00830,Helsinki,60.187707700000004,25.0598189,156.0,"28,9%",58.0,"44,7%",
+Arkkitehtuuritoimisto Meskanen & Pursiainen,Lönnrotinkatu 38 B 23,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Mika Neuvonen,Siestankuja 14,02700,Kauniainen,60.2230841,24.7179328,,,,,
+Arkkitehtuuritoimisto Mika Saarikangas,Vuorimiehenkatu 2 B 31,00140,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Miljöönurkka Oy,Kuokkamaantie 35,33800,Tampere,60.981536399999996,24.39124824838541,20.0,"-16,7%",1.0,"4,5%",1.0
+Arkkitehtuuritoimisto Muurimäki-Helminen Oy,Katajanokanranta 11 C,00160,Helsinki,60.16568910000001,24.9744142,,,0.0,,
+Arkkitehtuuritoimisto Oirola Eero,Pääskyskuja 12 A,02620,Espoo,65.0179157,25.5414825,,,,,
+Arkkitehtuuritoimisto Olli Tapio Ky,Pyhäjärvenkatu 1 B,33200,Tampere,61.4923998,23.7511607,,,,,
+Arkkitehtuuritoimisto Panu A-M,Tallberginkatu 1 B/63,00180,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Pekka Hakanen,Keihäsmiehenkatu 7,40630,Jyväskylä,61.2018279,28.74960530045961,,,,,
+Arkkitehtuuritoimisto Pertti Hietaniemi Oy,Hatanpään valtatie 7,33100,Tampere,61.4938848,23.769122600000003,,,-112.0,,1.0
+Arkkitehtuuritoimisto Raili Nurminen Arkrn Oy,Lämmittäjänkatu 4 B,00880,Helsinki,59.827467000000006,22.929883,,,,,
+Arkkitehtuuritoimisto Rauno Kangasniemi Oy,Nyyrikintie 8,33540,Tampere,60.182927799999995,24.80268417965157,115.0,"-21,2%",15.0,"16,5%",2.0
+Arkkitehtuuritoimisto Reijo Aalto,Koulukuja 6,09120,Karjalohja,66.51054079999999,25.6630264,,,,,
+Arkkitehtuuritoimisto Reponen Risto Oy,Parolanrinne 8,02200,Espoo,60.18194920000001,24.75671641969703,20.0,"-4,8%",-1.0,"-4,8%",
+Arkkitehtuuritoimisto Riitta Korhonen Oy,Maaherrankatu 9,70100,Kuopio,60.44905179999999,22.224929676245257,186.0,,-67.0,"-35,5%",
+Arkkitehtuuritoimisto Riitta ja Kari Ojala Oy,Kivirannankatu 26,53950,Lappeenranta,60.98975359999999,25.619111899999996,,,,,
+Arkkitehtuuritoimisto Ristola Kari Oy,Kuortaneenkatu 5 A,00520,Helsinki,60.196399,24.9472285,531.0,"16,2%",0.0,"0,6%",
+Arkkitehtuuritoimisto Räty Oy,Äyritie 8a,01510,Vantaa,60.294129299999994,24.9698364,90.0,"-37,9%",16.0,"22,2%",
+Arkkitehtuuritoimisto Seppo Kokko Oy,Keltamotie 6 C,01300,Vantaa,60.2903535,25.0267314,65.0,"-34,6%",7.0,"12,3%",
+Arkkitehtuuritoimisto Seppo Peltomaa Oy,Kaunokinkatu 1,15240,Lahti,61.025009999999995,25.6624823,7.0,"-76,7%",-2.0,"-33,3%",1.0
+Arkkitehtuuritoimisto Seppo Valjus Oy,Koskitie 25 a,90500,Oulu,61.0974863,24.0409295,327.0,"-12,6%",-14.0,"-6,2%",
+Arkkitehtuuritoimisto Sopanen-Svärd Oy,Myllykalliontie 2,00200,Helsinki,60.2083265,24.8186097,53.0,"-50,3%",-3.0,"-5,7%",
+Arkkitehtuuritoimisto Taso Oy,Vuorikatu 3,33100,Tampere,61.50381529999999,23.7700885,123.0,"20,6%",8.0,"6,5%",
+Arkkitehtuuritoimisto Teuvo Kairesto Oy,Hillapolku 6 C,96500,Rovaniemi,66.5119326,25.6683105,97.0,"-4,9%",25.0,"31,1%",1.0
+Arkkitehtuuritoimisto Tiina Pyykkö Oy,Kustinkatu 4 A 10,18150,Heinola,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Tilailme,Iso-Heikkiläntie 8,20200,Turku,60.45129865,22.239427179492694,,,,,
+Arkkitehtuuritoimisto Timo Savola,Kyllikinkatu 15 C,33500,Tampere,60.20011529999999,24.924911899999998,,,,,
+Arkkitehtuuritoimisto Timo Vatanen Ky,Eerikinkatu 10 B,00100,Helsinki,60.16618100000001,24.9323487,,,,,
+Arkkitehtuuritoimisto Tomi Paukkunen,Takkulantie 24,90940,Jääli,61.0278185,25.726549300000002,,,,,
+Arkkitehtuuritoimisto Tuula Arrenius,Hannantie 8,15540,Villähde,60.7136385,24.46288880000001,,,,,
+Arkkitehtuuritoimisto Vesa Ekholm & Antero Syrjänen Oy,Vaakatie 7,00440,Helsinki,60.23017535,24.87820532792611,,,,,
+Arkkitehtuuritoimisto Virtanen Jani,Iltarusko 2,32800,Kokemäki,61.263834200000005,22.3395953,172.0,"4,9%",55.0,"40,1%",1.0
+Arkkitehtuuritoimisto Vähäniitty Martti Oy,Vasarakatu 1 A,40320,Jyväskylä,61.5000654,23.5586518,,,,,
+Arkkitehtuuritsto Tiina Vimpari,Näsilinnankatu 23 A 17,33210,Tampere,0.0,0.0,,,,,
+Arkkityypit Oy,Kirkkokatu 4,70100,Kuopio,61.8700755,28.8804276,292.0,"32,7%",34.0,"14,7%",4.0
+Arkmill Oy,Savenvalajankatu 3 A,04200,Kerava,60.4416316,22.253233899999998,409.0,"26,6%",71.0,"21,8%",2.0
+Arkpoint Ky,Kipparinkatu 2,02320,Espoo,61.062120799999995,28.185411064485567,,,,,
+Arkses Oy,Itäranta 4,02110,Espoo,60.172209200000005,24.82303678518703,,,,,
+Arkstore Arkkitehtitoimisto Oy,Neitsytpolku 6,00140,Helsinki,60.15723829999999,24.9495131,,,,,
+Arktiira Oy,Halkokorvenkatu 16,15240,Lahti,61.023666500000004,25.6531388,,,-4.0,,
+Arktik Studio Oy,Ajomiehentie 24,48400,Kotka,60.4964682,26.857243544727016,2.0,-60%,1.0,50%,
+Arkval Arkkitehdit Oy,Fredrikinkatu 47 lh. 6,00100,Helsinki,0.0,0.0,,,,,
+Arkval Taite Oy,Fredrikinkatu 47 A 6,00100,Helsinki,0.0,0.0,,,,,
+Arkve Oy,Hämeentie 133,00560,Helsinki,60.45859720000001,22.3083146,80.0,"-12,1%",-6.0,"-7,1%",1.0
+Arkworks Arkkitehdit Oy,Museokatu 5,00100,Helsinki,60.1748556,24.9290141,780.0,"101,6%",220.0,"35,3%",
+Arrak arkkitehdit,Pursimiehenkatu 6 C 5. krs,00150,Helsinki,0.0,0.0,,,,,
+Art Director Arkkitehdit Oy,Aleksanterinkatu 10 B,15110,Lahti,61.499417,23.7682188,117.0,"-4,9%",6.0,"5,1%",
+Arto J. Hämäläinen,Verkkojoentie 230,75770,Puukari,0.0,0.0,,,,,
+Artpro Tmi,Kaarnatie 2,59800,Kesälahti,60.9584096,24.548849569859318,,,,,
+As Ll Tk Arkkitehdit Oy,Mechelininkatu 16 lh. 7,00100,Helsinki,0.0,0.0,,,,,
+Asiantuntijapalvelu Markku Partanen Tmi,Julininkuja 6,06100,Porvoo,60.402053599999995,25.6632534,,,,,
+AsiloPlan Oy,Mastosvuorentie 59,33480,Ylöjärvi,61.58075279999999,23.640545,154.0,"46,7%",18.0,"16,2%",
+Atelier Aito,3842 San Marco c/o Bacco,30124,Venezia,0.0,0.0,,,,,
+Ateljee Suojo Ky,Muotialantie 35 A 1,33800,Tampere,61.47723810000001,23.8127098,,,,,
+Atom Arkitekter,Karlby,22730,Kökar,57.715599,16.5060426,,,,,
+Aurinkomaisema,Jyväläntie 89,04500,Kellokoski,66.7098163,27.4245528,,,,,
+Avarc Arkkitehdit Oy - Avarc Arkitekterna Ab - Avarc Architects Ltd,Töölönkatu 42 B 1,00250,Helsinki,0.0,0.0,,,,,
+Avarrus arkkitehdit Oy,Punavuorenkatu 1,00120,Helsinki,60.161816200000004,24.9394867,839.0,"65,8%",80.0,12%,
+Barbro Hamström-Nieminen Tmi,Norrvikintie 150,06950,Emäsalo,60.2898787,25.5770832,,,,,
+Behm Hilkka,Kuntokatu 25,15900,Lahti,61.5042238,23.810278,,,,,
+Benjamin Schulman,Perkkaantie 3 A 20,02600,Espoo,0.0,0.0,,,,,
+Besitzer,Mariankatu 26 A 4,33230,Tampere,0.0,0.0,,,,,
+Billnäs Ingenjörsbyrå Oy Ab,Karolinervägen 17 B,10330,Billnäs,60.08603539999999,23.649775,153.0,"57,7%",11.0,"10,5%",1.0
+Bmbvaz Oy,Korkeavuorenkatu 3 C 28,00140,Helsinki,0.0,0.0,,,,,
+Bolder Development Oy,Fredrikinkatu 47,00100,Helsinki,60.1643843,24.9369326,,,,,
+Botniark Architects Ky,Perttiläntie 248,61500,Isokyrö,62.558795499999995,29.896331300000003,,,,,
+Byggnadsbyrå Lindqvist Ab,Botniavägen 20,66600,Vörå,54.534733499999994,37.204894700000004,105.0,25%,4.0,"4,7%",3.0
+Byggnadsplanering Dahlfelt,Christinegatan 18 bst. 1,68600,Jakobstad,0.0,0.0,,,,,
+Byggnadsplaneringsbyrå Fagerholm & Kalenius Ab,Kilavägen 13,10300,Karis,60.06383420000001,23.66343645,,,,,
+C&J Arkkitehdit,Salomonkatu 17 A,00100,Helsinki,60.1678988,24.927812399999997,4019.0,"17,7%",1073.0,"33,1%",22.0
+CADmin,Väinämöisenkatu 5 A 6,00100,Helsinki,60.174953099999996,24.9182313,,,,,
+Cadiko Design Oy,Konkelonkaari 25,33870,Tampere,61.443621900000004,23.80129541806817,13.0,"-33,3%",4.0,"33,3%",1.0
+Cadinet,Punnuspolku 8,00440,Helsinki,60.2305985,24.874656694597572,,,,,
+Calvadossi Oy,Pohjolankatu 22 A 2,87100,Kajaani,61.865549300000005,28.9372553,,,,,
+Carleo arkitekter Ab,Osmundsbölevägen 449,10300,Karis,60.1088999,23.7030001,85.0,"608,3%",11.0,"16,5%",1.0
+Casa Jaguar,Teriojantie 6,04400,Järvenpää,60.4517899,25.08216138111868,,,,,
+Casaco Studio,Otalammentie 116,03300,Otalampi,60.402525,24.493704533239328,92.0,"-8,9%",22.0,28%,1.0
+Casagrande Laboratory Center Of Urban Research Oy,Merimiehenkatu 36 C 522,00150,Helsinki,0.0,0.0,,,,,
+Casagrande Oy Arkkitehdit Insinöörit,Vähääheikkiläntie 56 C,20810,Turku,0.0,0.0,,,,,
+Casas Nordic Oy,Puistokatu,00140,Helsinki,64.1225118,29.5339018,,,,,
+Cedercreutz Arkkitehdit Oy,Vuorimiehenkatu 23b D,00140,Helsinki,60.15954920000001,24.947688,386.0,"-1,8%",61.0,"19,7%",
+Collaboratorio Oy,Kapteeninkatu 5 lh. 4,00140,Helsinki,0.0,0.0,,,,,
+Collan Arkkitehdit Oy,Tehtaankatu 19 B 12,00150,Helsinki,0.0,0.0,,,,,
+Condira Oy,Lassilanperäntie 43,90830,Haukipudas,65.1794496,25.3108965,,,31.0,,
+Coop Hovitie Oy Ltd,Mannerheimintie 25,00250,Helsinki,60.57516255,27.18225195,286.0,"15,8%",34.0,"14,7%",3.0
+D & A Experiences Oy,Laivurinrinne 2 A 2,00120,Helsinki,60.16126460000001,24.942389499999997,33.0,"-76,4%",-62.0,"-112,1%",
+DAT arkkitehdit Oy,Revontulentie 9 A,02100,Espoo,65.9579561,29.143608,284.0,"9,7%",35.0,"15,1%",2.0
+DC3 Design & Consulting Oy,Ruoholahdenkatu 10 B,00180,Helsinki,60.166408999999994,24.930393,40.0,"-57,4%",-4.0,-10%,0.0
+DP Digital Profile Oy,Merisotilaankatu 3 C 37,00160,Helsinki,0.0,0.0,,,,,
+DS arkitektur & design,Domherrevägen 22,68600,Jakobstad,55.704010399999994,13.1757785,,,,,
+Dafex Oy,Vattuniemenkuja 6 A 27,00210,Helsinki,0.0,0.0,,,,,
+Dalebo Teknik,Sjögatan 171,22340,Geta,6.1536101,1.2331483,,,,,
+David Architects Oy,Kalliomäenkulma 9,02920,Espoo,60.2812968,24.732423800000003,73.0,"4,9%",1.0,"1,4%",
+DeArk Oy,Uudenmaankatu 42 C 34,00120,Helsinki,0.0,0.0,,,,,
+Dekotex Oy,Rullantie 8 G,18130,Heinola,61.197868500000006,26.0426324,11.0,0%,-1.0,0%,
+Deseco Oy,Lukkosepänkatu 7,20320,Turku,60.4690572,22.202330899999996,1729.0,"78,8%",226.0,"16,3%",19.0
+Design 4 Green Kivimäki,Siltasaarenkatu 11 C 55,00530,Helsinki,60.1766916,24.9502025,,,,,
+Design Jokinen Oy,Kielokatu 90 B 3,28120,Pori,0.0,0.0,,,,,
+Design Studio Juselius,Trikookuja 8 A 6,33230,Tampere,62.5050494,22.7289043,,,,,
+Design Studio Who Are You Oy,Uudenmankatu 2 K,00170,Helsinki,0.0,0.0,,,,,
+Design Vasko Oy,Fagervikintie 1395,10250,Fagervik,60.01584789999999,23.782123100000003,42.0,"44,8%",0.0,"2,4%",
+DigiVis Oy,Untuvaisentie 1 A 22,00820,Helsinki,0.0,0.0,,,,,
+Donalds Arkitekter Ab,Elverksgatan 10 C 3,22100,Mariehamn,0.0,0.0,,,,,
+EAT-Palvelu,Simpanranta 16,70910,Vuorela,59.277821900000006,17.98532342926343,,,,,
+ERARK,Grantorpsvägen 7 A 6,22100,Mariehamn,59.968621,12.8721032,,,,,
+Edelman Group Oy Ltd,Fredrikinkatu 34 E 32,00100,Helsinki,0.0,0.0,,,,,
+Edifica Oy,Kyminlinnantie 6,48600,Kotka,60.512772600000005,26.9205745,,,,,
+Eijan Rakennussuunnittelu Oy,Vanhankyläntie 44,66440,Tervajoki,63.00107979999999,22.117075600000003,34.0,"61,9%",14.0,"52,9%",1.0
+Ekidea Oy,Räätälinkuja 4 B,04300,Tuusula,60.406078599999994,25.0031201,122.0,"2,5%",-20.0,"-15,4%",1.0
+Eklektik,Pitkänsillanranta 7-9 A 19,00530,Helsinki,0.0,0.0,,,,,
+Eklund Design Oy,Toppelundintie 5 I 45,02170,Espoo,0.0,0.0,,,,,
+Ekman arkkitehdit Oy,Hämeenkatu 25 A,33200,Tampere,61.49790279999999,23.7631422,415.0,"10,7%",-30.0,"-4,8%",
+Emmaplan,Isolinnankatu 5 B 39,28100,Pori,0.0,0.0,,,,,
+Emmi Keskisarja & Janne Teräsvirta Arkkitehtitoimisto & Company Oy,Pälkäneentie 19 B,00510,Helsinki,61.0163916,24.419811199999998,35.0,"-62,8%",-33.0,"-94,3%",
+English Garden Design,Haatmaninkatu 20 as. 2,21500,Piikkiö,0.0,0.0,,,,,
+Ennu Oy,Näsijärvenkatu 1 B 15 c/o Karvala,33210,Tampere,0.0,0.0,,,,,
+Eriksson Arkkitehdit Oy,Westendintie 105,02160,Espoo,60.164496,24.790447463476205,373.0,"72,7%",105.0,"35,4%",1.0
+Eräpohja arkkitehdit Oy,Eteläsalmentie 7 B 20,21620,Kuusisto,0.0,0.0,,,,,
+Etelä-Pohjanmaan rakennusinsinöörit ja -arkkitehdit RIA ry,Kirkkokatu 23,60220,Seinäjoki,64.22638979999999,27.7308525,,,,,
+Etä-Cad Tmi Eeva Arvela,Pinomäentie 71,28540,Pori,61.45835275,21.759239115523467,,,,,
+Eurohome Finland,Isokaari 9 A 4,00200,Helsinki,60.2847468,25.052672899999997,3.0,"-83,3%",-4.0,"-233,3%",1.0
+F6 Arkkitehdit Oy,Päivöläntie 39 A 5,00730,Helsinki,60.941323700000005,26.6125821,426.0,"-24,2%",25.0,"7,5%",3.0
+Fii Arkkitehdit Oy,Vantaankoskentie 14,01670,Vantaa,60.2918616,24.86169960042405,,,,,
+Finnish Construction Support Oy,Parikkalantie 9,59100,Parikkala,60.2274397,25.08157366395014,,,0.0,,
+FlowArc Oy,Ruissalon puistotie 539,20100,Turku,60.43077745,22.11821812618372,52.0,,194.0,"469,2%",
+Formiark Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,,,,,
+Fractal Acoustics,Viputie 18,01640,Vantaa,60.25203895,24.809612440340157,,,,,
+Fundit Oy,Tarkk'ampujankatu 10 B 40,00150,Helsinki,0.0,0.0,,,,,
+Futudesign Oy,Siltasaarenkatu 18-20 A 9,00530,Helsinki,0.0,0.0,,,,,
+Fyra vindar Oy,Malminkaari 5,00700,Helsinki,60.2536093,25.0155508,58.0,,3.0,"5,2%",2.0
+Gardeniina,Pihkatie 7,70870,Hiltulanlahti,60.25093100000001,24.854616632882166,,,,,
+Geometria Architecture Oy,Tehtaankatu 27-29 A,00150,Helsinki,0.0,0.0,,,,,
+Global House Oy Ltd,Riihitie 7,00330,Helsinki,60.973853299999995,25.66472605000001,,,-6.0,,
+Good Kombo Oy,Hämeentie 4 C 10,00530,Helsinki,0.0,0.0,,,,,
+Grania,Välitalontie 94,00660,Helsinki,60.24453635,24.916972631231474,,,,,
+Greenit Ab Oy,Hästövägen 4 H,00840,Helsingfors,56.177484,15.6081725,,,,,
+H & S Palvelut Oy,Eliaksentie 3 as. 33,87200,Kajaani,0.0,0.0,,,,,
+H.M. Björkman,Ehrensvärdsvägen 4-6 B 11,00150,Helsingfors,0.0,0.0,,,,,
+HH SportsBase + Venues,Tilkantori 3 A 13,00300,Helsinki,0.0,0.0,,,,,
+HI-Plan Oy,Juholankatu 3 A,04400,Järvenpää,62.7214239,29.025681800000005,,,,,
+HPK Arkkitehdit Oy,Suvilahdenkatu 10 B,00500,Helsinki,60.18792579999999,24.967995600000002,665.0,"9,6%",-14.0,"-2,1%",9.0
+Hagman & Hellinen Arkkitehdit Oy,Tervanpolttajankuja 4,02330,Espoo,60.1625794,24.647695500530507,,,,,
+Halo Arkkitehdit Oy,Kuuselankuja 6,33900,Tampere,62.82662239999999,27.4061983,45.0,25%,27.0,60%,
+Happi Holding Oy,Keilaranta 12 D,02150,Espoo,60.1765594,24.830495000000003,,,,,
+Harc Oy,Ilmalanportti 2 A,00240,Helsinki,60.207995700000005,24.916179999999997,199.0,"-42,3%",-79.0,"-38,7%",
+Heikkinen & Kangasaho Arkkitehdit Oy,Mäkipäänkatu 28-30 D 95,33500,Tampere,0.0,0.0,,,,,
+Helena Sandman Ab Oy,Nousiaistentie 7 A 8,00280,Helsinki,0.0,0.0,,,,,
+Helin & Co Architects,Urho Kekkosen katu 3 B,00100,Helsinki,60.1684759,24.9323458,4530.0,"-41,9%",2.0,"3,3%",34.0
+Helmi-Suunnittelu Oy,Työtjärventie 14,15880,Hollola,60.9912286,25.4675328,51.0,"4,1%",2.0,"3,9%",1.0
+Helsinki Zürich Office Oy,Laajalahdentie 16 A 11 b,00330,Helsinki,0.0,0.0,,,,,
+Helst Oy,Kalevagatan 31 A 17,00100,Helsingfors,0.0,0.0,,,,,
+Helt Arkkitehdit Oy,Töölönkatu 6,00100,Helsinki,60.1777132,24.9280501,,,-4.0,,
+Hevirak Oy,Mikolantie 1,21420,Lieto,61.0263085,21.690222600000002,383.0,"-6,8%",71.0,"19,5%",1.0
+Himla Arkkitehdit Oy,Hämeenkatu 16,33200,Tampere,-2.44016685,32.96933265,1770.0,"14,4%",353.0,"25,1%",11.0
+Hirsitohtori Tmi,Urheilukatu 23,88600,Sotkamo,61.8543873,28.9509873,,,,,
+Hollmén Reuter Sandman Arkkitehdit Oy,Kalevankatu 31 A 9,00100,Helsinki,0.0,0.0,,,,,
+Hopsi Oy,Pellavantori 1 lh. 1,33100,Tampere,0.0,0.0,,,,,
+Hovila A Oy Suunnittelutoimisto,Talmantie 195,04240,Talma,60.3934108,25.152856600000003,,,,,
+Huttunen-Lipasti Arkkitehdit Oy,Uudenmaankatu 7 B 5,00120,Helsinki,60.9358045,25.6330924,,,,,
+I-magic,Olkikuja 3,02620,Espoo,60.2368397,24.759620785372647,,,,,
+IAH arkkitehtuuritoimista Hänninen Pekka,Vanha Veturitalli,00520,Helsinki,64.55760995,26.83571572204729,,,,,
+ILO arkkitehdit Oy,Pohjoinen Hesperiankatu 21 A,00260,Helsinki,60.1777836,24.9287322,194.0,,21.0,"13,4%",2.0
+Ideark Archmaker Oy,Tuulaspolku 5,00330,Helsinki,60.1997529,24.86774928265956,4.0,0%,2.0,50%,2.0
+Ideastructura Oy,Kutomotie 18 B,00380,Helsinki,60.2141836,24.8727288,7378.0,"13,9%",913.0,"15,3%",64.0
+Ideatalot,Muurarintie 27,28800,Pori,60.40565415,25.086782197939065,,,,,
+Iiramo & Ruokonen Arkkitehdit Oy,Kirkkokalliontie 6,01740,Vantaa,62.9750659,22.4797467,65.0,,31.0,60%,2.0
+Inaro Oy,Pälkäneentie 19 A,00510,Helsinki,61.0163916,24.419811199999998,1492.0,"13,5%",184.0,"15,6%",
+Ingenjörsbyrå Kjell Brännäs,Ollasvägen 26 B,02940,Esbo,60.249720700000005,20.239886399999996,,,,,
+InnoRV,Oikokatu 1 A 10,15100,Lahti,60.9807505,25.669057000000002,3.0,-25%,4.0,-100%,1.0
+Innostudia,Sirrikuja 3 L,00940,Helsinki,60.230560600000004,25.077772500000002,,,,,
+Innovarch Oy,Linnoitustie 5,02600,Espoo,60.2130314,24.8096492,4254.0,"-16,3%",-380.0,-9%,58.0
+Insinööri- ja kiinteistötoimisto Havanka Oy,Keskuskatu 5,39700,Parkano,61.1887326,28.7768707,156.0,"-12,4%",81.0,"62,7%",1.0
+Insinööripalvelu Jukola Oy,Isokatu 14,67100,Kokkola,65.0126851,25.4738069,118.0,"6,3%",12.0,"12,7%",
+Insinööripalvelu Voutilainen,Haavinkatu 6,21260,Raisio,60.4660398,22.15274785,,,,,
+Insinööritoimisto Apdec,Karhunkynsi 1 B 5,60510,Hyllykallio,62.7897098,22.9239168,,,,,
+Insinööritoimisto Consilium Oy,Teollisuustie 7,77700,Rautalampi,62.4846259,30.6267484,2.0,,2.0,100%,
+Insinööritoimisto Hannu Kosonen,Nikinkatu 24 A,33580,Tampere,61.5049951,23.910115899999997,,,,,
+Insinööritoimisto Hautala,Messipojantie 20 A,90520,Oulu,65.0329443,25.453249600000003,,,,,
+Insinööritoimisto KKA-Rakenne,Selkätie 5,27510,Eura,61.1211418,24.1703462,,,,,
+Insinööritoimisto KKJ Oy,Rantatie 4,44500,Viitasaari,61.8801976,28.8190918,5.0,"-37,5%",4.0,"30,8%",
+Insinööritoimisto Kähkönen Oy,Krapistontie 4,28450,Vanha-ulvila,61.43800600000001,21.9128371,,,,,
+Insinööritoimisto Lohi Ky,Kehäkuja 5,90940,Jääli,61.50633535,21.8012525107243,,,,,
+Insinööritoimisto Luotiviiva,Kustaa III.n polku 5 as. 2 5 as. 2,65380,Vaasa,0.0,0.0,,,,,
+Insinööritoimisto Marjatta Thurén Oy,Vaaluniementie 10 B,79700,Heinävesi,62.3011984,28.6355959,10.0,150%,-3.0,-25%,
+Insinööritoimisto Matti Salonen Ky,Tenontie 2602,99980,Utsjoki,69.57822540000001,25.953112899999997,,,,,
+Insinööritoimisto Peltonen Harri Ky,Karhusuontie 491 B,27820,Säkylä,60.249576299999994,24.988160399999998,,,,,
+Insinööritoimisto Planmax Oy,Haapaniemenrinne 8 C 13,02940,Espoo,0.0,0.0,,,,,
+Insinööritoimisto Shamrock Oy,Turkumäentie 3,17430,Kurhila,60.987930000000006,25.467243399999997,41.0,"-24,1%",-4.0,"-2,2%",
+Insinööritoimisto Teräsmies & Rautarouva Oy,Laajatie 7 B 11,50500,Mikkeli,0.0,0.0,,,,,
+Insinööritoimisto Timo Alapere Oy,Jokikatu 3 C 19,06100,Porvoo,0.0,0.0,,,,,
+Insinööritoimisto VPM Ky,Haperokatu 3,37130,Nokia,61.485477100000004,23.470869,,,,,
+Insira Oy,Virkkulantie 26,91100,Ii,65.34132265,25.37340669930566,135.0,"-14,6%",62.0,"54,5%",
+Inspis Oy,Emännänkuja 5,90230,Oulu,65.00763964999999,25.54425678522725,29.0,,7.0,"24,1%",
+Intarc Consulting,Hämeentie 11,30100,Forssa,61.00197075,24.47452560429165,,,,,
+Intoark Oy,Gresantie 24 A 1,02700,Kauniainen,60.20807270000001,24.7341646,0.0,-100%,-1.0,,
+Itu Design Oy,Salomonkatu 17 A,00100,Helsinki,60.1678988,24.927812399999997,244.0,"-3,6%",11.0,"4,9%",1.0
+Ivark Oy,Kumpukuja 5,16300,Orimattila,61.2180338,28.828655300803213,,,,,
+JADA Avoin yhtiö,Kalervonkatu 13a,00610,Helsinki,60.21173685,24.94627546512549,10.0,"-23,1%",0.0,0%,
+JF-Saneeraus Oy,Koivukuja 87,16710,Hollola kk,62.32964079999999,27.836821399999998,44.0,"-30,2%",2.0,"4,5%",1.0
+JKMM Arkkitehdit Oy,Lapinrinne 3,00100,Helsinki,60.1673975,24.9276696,11007.0,"-6,6%",1389.0,"15,7%",84.0
+JM-Plan,Rusthållsvägen 47,10620,Ekenäs,60.1910014,22.7046686,,,,,
+JS-Piirto Oy,Tuulimyllyntie 2 A 7,40640,Jyväskylä,61.045453599999995,22.337951399999998,,,,,
+Jaakko Kontiainen Tmi,Raimontie 11,62470,Purmojärvi,-2.877913,-59.386448,,,,,
+Janne Huhtala Tmi,Rukiintie 3,62100,Lapua,62.964818900000004,23.021501500000003,,,,,
+Janne Rinta-Mänty,Lehtikaskentie 9 A 1,02340,Espoo,60.180578000000004,24.667186800000003,,,,,
+Jaratek,Koulutie 25,69150,Eskola,61.88656700000001,28.788387166451077,,,,,
+Jari Helmisaari,Haverintie 172,21900,Yläne,60.556942799999995,22.334924100000002,,,,,
+Jolma Arkkitehdit Oy,Näsilinnankatu 22,33210,Tampere,61.49856460000001,23.754183514999657,61.0,"-35,2%",-5.0,"-7,8%",2.0
+Jouni Lehtonen Arkkitehtuuri,Haijaistentie 292,21100,Naantali,60.44682370000001,22.009562300000002,,,,,
+Juhana Marttinen Arkkitehdit Oy,Kärsämäentie 35 lh. 48,20360,Turku,0.0,0.0,,,,,
+Juhani Leivo Oy,Vallilantie 50,07590,Askola,60.1924624,24.9612762,,,-23.0,,
+Juhani Piispa Oy,Eestinrinne 4 A,02280,Espoo,60.16901899999999,24.694797199999996,265.0,"-4,7%",21.0,"8,3%",2.0
+Juho Vuolteenaho Oy,Apteekkarinraitti 2 C 12,00790,Helsinki,0.0,0.0,,,,,
+Julia Pettersson Hakava Tmi,Mäkelänkatu 42 A 6,00510,Helsinki,0.0,0.0,,,,,
+Jussin Piirustuspalvelu,Aurinkokuja 5,23500,Uusikaupunki,60.26915265,25.040083600000006,,,,,
+Jutek,Ahtialan Selkätie 21 A 2,15300,Lahti,60.9992351,25.738337899999998,,,,,
+Jylkäs Arkkitehdit Oy,Tillinmaa 3 D7,02330,Espoo,60.1674111,24.636511300000002,164.0,"10,1%",37.0,"29,9%",1.0
+Jyrki Yläoutinen Konsultointi,Korkeavuorenkatu 2b,00140,Helsinki,60.1596246,24.9464337,,,,,
+K Planering & Byggkonsult,Strandvägen 583,68550,Öja,65.2862812,21.483185199999998,,,,,
+K. Hartiala Oy,Oulunkyläntie 4 as. 2,00600,Helsinki,0.0,0.0,,,,,
+KV Arkkitehdit avoin yhtiö,Insinöörinkatu 19 A 27,33720,Tampere,0.0,0.0,,,,,
+KV-Suunnittelu Oy,Westendintie 93 E 30 Co Heikki Vartiaine,02160,Espoo,0.0,0.0,,,,,
+Kaari Arkkitehdit,Vuorimiehenkatu 35 C13,00150,Helsinki,60.1593684,24.946799600000002,4.0,"-63,6%",-2.0,-50%,
+Kai Aatsinki Tmi,Holperinkuja 50,04680,Hirvihaara,60.6221219,25.2507508,,,,,
+Kaikkonen Kimmo Tmi,Kehäkatu 40,70600,Kuopio,37.6396811,24.342017300000002,,,,,
+Kakskons,Killivuorenkatu 15 C,20900,Turku,60.4181348,22.2332339,,,,,
+"Kari Järvinen Ja Merja Nieminen, Arkkitehdit Safa, Avoin Yhtiö",Ilmattarentie 6,00610,Helsinki,60.20847455,24.93935105,,,,,
+Kasari Anne Tmi,Muurarinkatu 23,33720,Tampere,61.43929975,23.84867999919797,,,,,
+Katajanokan Arkkitehtitoimisto Oy,Katajanokankatu 5,00160,Helsinki,60.1681835,24.965732100000004,120.0,-1%,26.0,"28,3%",
+Katarauna Consulting Oy,Klyyvari 5 A,90510,Oulu,65.0379692,25.421320899999998,93.0,"6,9%",54.0,"74,2%",
+Kati Salonen Ja Mona Schalin Arkkitehdit Oy,Tallberginkatu 2 B,00180,Helsinki,60.1623093,24.9039015,230.0,-5%,-4.0,"-1,3%",
+Kauppinen Jari Matias,Tofferintie 40,69570,Karvonen,63.418021100000004,24.1983563,,,,,
+Kauto Nikulainen arkkitehdit Oy,Riihitontuntie 7 C,02200,Espoo,60.27644920000001,24.8188338,1006.0,"17,9%",253.0,"31,5%",8.0
+Keiko Ark Studio oy,Luotsikatu 3,00160,Helsinki,60.1680218,24.9643933,,,,,
+Kiinteistö Oy Ylömaster,Kuukuja 12,33420,Tampere,60.394018200000005,22.212926100000004,85.0,"66,7%",33.0,"48,2%",
+Kiiskinen Arkkitehdit Oy,Koppelotie 18 A,90650,Oulu,65.02297589999999,25.5397153,,,,,
+Kiranna Ky,Runeberginkatu 22 A 6,06100,Porvoo,0.0,0.0,,,,,
+Kiviniemi arkkitehdit Oy,Kustaankatu 9 C 51,00500,Helsinki,0.0,0.0,,,,,
+Koljonen Makkonen Arkkitehdit Oy,Otsolahdentie 10 C,02110,Espoo,60.1764761,24.8170234,,,,,
+KomiteArk Oy,Susitie 22 C 21,00800,Helsinki,0.0,0.0,,,,,
+Konstrakt Oy,Tanotorventie 37 A,00420,Helsinki,60.24143929999999,24.8924439,3.0,-40%,0.0,0%,
+Konsulttipalvelu Ahonen,Tilketori 4 A 18,00700,Helsinki,0.0,0.0,,,,,
+Konsulttitoimisto Motti Oy,Fredrikinkatu 61 A,00100,Helsinki,60.1643843,24.9369326,50.0,-18%,-14.0,-24%,
+Kontu Arts Oy,Museokatu 30 A 7,00100,Helsinki,60.7423957,24.7762405,,,,,
+Korjaussuunnittelu Esa Niva,Litukankatu 10 A,33500,Tampere,61.46387779999999,23.525872600000003,,,,,
+Koti Lemima Oy,Pääskynkuja 1,42800,Haapamäki,62.61406630000001,29.84617675,,,,,
+Kub-Ark,Topeliuksenkatu 15 A 4,00250,Helsinki,60.1910968,24.910612399999998,,,,,
+Kulmio Oy,Ilkanrinne 6 A 33,20810,Turku,0.0,0.0,,,,,
+Kuustuumane Oy,Puolukkakuja 4,23800,Laitila,60.681574600000005,26.803806492163922,38.0,"6,5%",-8.0,"-13,2%",
+Kyläkoski Oy,Granbackantie 16,02400,Kirkkonummi,60.122483100000004,24.3836135,,,,,
+Kymen Konesuunnittelu Oy,Kauppalankatu 9,45100,Kouvola,60.869225199999995,26.70408984283732,189.0,"4,4%",1.0,"1,1%",2.0
+Kämäräinen Pentti Consulting Oy,Tervaraitti 4 A 14,90100,Oulu,0.0,0.0,,,,,
+Kärki arkkitehtuuri,Kaatokiilantie 7,60200,Seinäjoki,62.7612103,22.868997,,,,,
+L'arc Oy,Kisakuja 13,55610,Imatra,61.15577285,28.82101844919888,,,-5.0,,
+LOCI maisema-arkkitehdit Oy,Ruoholahdenkatu 8 ,7,"krs., 00180 Helsinki",60.16588170000001,24.9286625,1608.0,"23,5%",90.0,"7,2%",
+LTR-suunnittelu Oy,Pihlajatie 18 A 4,00270,Helsinki,61.0228892,25.647631399999998,9.0,"-18,2%",27.0,"45,5%",
+Laidun-design Oy,Kirkontaustantie 61,23930,Pyhämaa,60.9531549,21.3684642,63.0,"-18,2%",6.0,"17,5%",1.0
+Laitila Arkkitehdit Oy,Kyminlinnantie 6,48600,Kotka,60.512772600000005,26.9205745,34.0,"-59,6%",14.0,"41,2%",
+Laitila Arkkitehdit Oy Helsinki,Halsuantie 2 A 2,00420,Helsinki,60.23722579999999,24.886979699999998,752.0,,48.0,"7,7%",3.0
+Laitila Arkkitehdit Oy Kotka,Kyminlinnantie 6 A,48600,Kotka,60.512772600000005,26.9205745,870.0,"53,7%",121.0,"17,4%",6.0
+Laitila Invest Oy,Kyminlinnantie 6,48600,Kotka,60.512772600000005,26.9205745,,,,,
+Laparch Oy,Niemeläntie 12,98900,Salla,66.6045062,28.9997469123718,,,,,
+Laura Lakua,Serlankuja 1,35100,Orivesi as,0.0,0.0,,,,,
+LeaseGreen Suomi Oy,Aku Korhosen tie 8,00440,Helsinki,60.23420625,24.896322304256113,22859.0,-25%,-1318.0,"-3,9%",63.0
+Lehtonen Jukka Seppo Tapio,Tanhuanpääntie 27,34150,Kyrönlahti,61.1294157,22.1549867,,,,,
+Leif Öst Ab,Strandvägen 24,66640,Maxmo,55.8421351,13.542814800000002,12.0,0%,7.0,60%,1.0
+Leriplan,Nöötöntie 70,65610,Mustasaari,63.1412608,21.6772372,,,,,
+Leuhu,Pajupurontie 88,43100,Saarijärvi,62.831887,27.1048292,,,,,
+Licons Oy,Peurapolku 11,02480,Kirkkonummi,-1.8425051,120.655698,3.0,"-93,2%",-10.0,"-333,3%",1.0
+Life Ventures Oy,Keilaranta 12 D,02150,Espoo,60.1765594,24.830495000000003,,,,,
+Linja Group Oy,Kansankatu 49,90100,Oulu,11.0071888,-9.168169,,,,,
+LinneArk,Jämeräntaival 10 H 133,02150,Espoo,0.0,0.0,,,,,
+Linto Oy,Räisäläntie 32 A,02140,Espoo,60.201648600000006,24.8096618,,,0.0,,2.0
+Loghousemaster Heikki Enäsuo,Rekitie 16 b J,00950,Helsinki,0.0,0.0,,,,,
+Lohman Arkkitehdit Oy ja Arkkitehtitoimisto Lindroos Markus Ky,Vanhaistentie 12 M 77,00420,Helsinki,0.0,0.0,,,,,
+Lukka Arkkitehdit,Uikunkuja 13,28100,Pori,61.49953285,21.79652431353525,,,,,
+Luminen Oy,Leinolankatu 69 D 14,33580,Tampere,0.0,0.0,,,,,
+Lumiotso,Rastasniityntie 54,02620,Espoo,60.2382782,24.768369110814184,,,,,
+Lumire Oy,Kaskitie 21 B 21,33540,Tampere,0.0,0.0,,,,,
+Lundén Architecture Oy,Siltasaarenkatu 18-20 B,00530,Helsinki,60.18033635000001,24.948899994132642,,,,,
+Luo arkkitehdit Oy,Hallituskatu 13-15 D,90100,Oulu,65.0117811,25.478475800000002,1019.0,,217.0,"26,3%",11.0
+Luoma Arkkitehtuuri,Kirkkorannankatu 23,68600,Pietarsaari,63.6618836,22.706279300000002,,,,,
+Luomakunta Osuuskunta,Engelinaukio 15,00150,Helsinki,60.15632615,24.93732285,40.0,"-21,6%",-2.0,"-4,8%",
+Luonnonkoneisto Osuuskunta,Töllintie 277,03850,Pusula,65.007369,25.5394752,22.0,"29,4%",1.0,"9,1%",
+Luoto Arkkitehdit Oy,Saariniemenkatu 6 A 22,00530,Helsinki,0.0,0.0,,,,,
+Luovaus Arkkitehdit Oy,Lutherinkatu 2,00100,Helsinki,60.1732662,24.926705300000002,917.0,"58,7%",78.0,"10,7%",
+LuxLine by B,Teroittajankatu 5 B,28100,Pori,61.491193700000004,21.7612095,,,,,
+M. M. Karjanoja Oy Mmk Ltd,Merituulentie 5 C,02120,Espoo,60.392973600000005,25.697448,,,14.0,,
+MA-arkkitehdit,Lumpperintie 5,01900,Nurmijärvi,60.4613781,24.815253100000003,228.0,"-64,3%",328.0,"58,2%",3.0
+MK Naval Consulting Oy,Paasitie 13-15 D 17,00830,Helsinki,0.0,0.0,,,,,
+MK2 Oy,Kumpulantie 1,00520,Helsinki,60.196547100000004,24.9412634,384.0,"-0,5%",14.0,"3,9%",5.0
+ML Arkkitehdit,Vattuniemen puistotie 3 B 27,00210,Helsinki,0.0,0.0,,,,,
+MNy Arkitekter Ab,Rörsbyvägen 126 B,10520,Tenala,60.068143299999996,23.361334,,,,,
+MT Suunnittelu ja Investointipalvelu Oy,Kanervatie 5 as. 1,87500,Kajaani,0.0,0.0,,,,,
+MUworks Oy,Brysselinkatu 10 as. 8,00560,Helsinki,0.0,0.0,,,,,
+MV-Arts Oy,Lähderanta 20 A 9,02720,Espoo,60.24147610000001,24.738986999999998,,,-2.0,,
+MX-Suunnittelu,Järvikorventie 14,28220,Pori,60.1482171,24.6729331,,,,,
+Maankäyttö- ja Arkkitehtitoimisto MAJA,Saaristokatu 5,67900,Kokkola,63.093199399999996,21.5596899,,,,,
+Maaseuturakennus E. A. I.,Marttilantie 150,21490,Marttila,62.992988399999994,22.3084779,,,,,
+Maatieto Oy Ab,Kiurunpolku 3,10210,Inkoo,64.40774105,27.820144163553874,,,,,
+Macao Design Oy,Vanha Hämeenkyläntie 25 A,00390,Helsinki,60.2503434,24.833273100000003,15.0,,1.0,"6,7%",
+Magnussen Ab Oy,Pietarinkatu 15 L 1,00140,Helsinki,0.0,0.0,,,,,
+Maisema rhe Ab Oy,Meriusva 1 A 10,02320,Espoo,60.155058600000004,24.6351178,18.0,"-6,9%",1.0,"7,4%",1.0
+Maisema-arkkitehtitoimisto Susanna Mikkola,Mäenrinne 3 A 5,02160,Espoo,60.1669113,24.796314000000002,,,,,
+Maisema-arkkitehtuuri Gaiana,Ladonlukonpolku 12,00430,Helsinki,60.25081760000001,24.901979105056764,,,,,
+Maisema-arkkitehtuuri PE Oy,Haukantie 37,04320,Tuusula,60.972859400000004,24.3937046,156.0,,19.0,"15,4%",1.0
+Maisema-aula Oy,Nummitie 19 B,02730,Espoo,59.82952220000001,23.0004353,89.0,"14,1%",10.0,"13,5%",
+Maisemapalvelut Heikkilä,Kairalantie 7,97760,Saariharju,65.9233839,27.187218100000003,,,,,
+Maisemastudio Lotta Jalava,Eerikinkatu 42 D 35,00180,Helsinki,0.0,0.0,,,,,
+Maisemasuunnittelu UOMA,Tuohitie 4 B 22,96910,Rovaniemi,0.0,0.0,,,,,
+Maisematehdas Osk,Terhotie 4a B,00780,Helsinki,60.25658575,24.991537753607865,,,,,
+Malli ja Visualisointi 3d-Visiot Tmi,Kuuantie 1,21200,Raisio,60.48690805,22.148463100000008,,,,,
+Manichri Oy,Juuritie 7,03100,Nummela,60.31909825,24.872067480161057,14.0,"-33,3%",-2.0,"-21,4%",
+Markkinointi Harri Piispanen Tmi,Hakkurintie 15 B,43500,Karstula,66.47316909999999,25.8037458,,,,,
+Marks & Marks Consulting Oy,Telaniityntie 16,02170,Espoo,60.16371495,24.7592898,28.0,,-4.0,"-10,7%",
+Matroskin Oy,Sastamalankatu 28,38210,Sastamala,62.7914196,22.816419800000002,125.0,"-21,4%",23.0,"23,2%",
+Matti Kemppinen,Kannaksentie 60,59100,Parikkala,62.8152413,22.890153899999998,,,,,
+Matti Pirttimäki Architecture,Alempi Talonpojantie 4 C 93,00790,Helsinki,0.0,0.0,,,,,
+Matti Pulmuranta,Suurpäänkatu 35 A 7,20610,Turku,0.0,0.0,,,,,
+Matti Wäre,Rakuunantie 10 A 19,00330,Helsinki,0.0,0.0,,,,,
+Mattila & Merz,Sorvaajankatu 9b,00880,Helsinki,60.19538420000001,25.0439976,,,,,
+Maxarch,Mindeninkuja 2 C 13,02780,Espoo,0.0,0.0,,,,,
+Meander Oy,Kauppatie 20,58500,Punkaharju,61.677164100000006,27.207908459357824,72.0,2300%,7.0,"12,5%",
+Megatrend arkkitehdit,Rautatienkatu 26 A 13,33100,Tampere,0.0,0.0,,,,,
+Mer Arkkitehdit Oy,Kapteeninkatu 8-10 F 29,00140,Helsinki,0.0,0.0,,,,,
+Meriläinen Architecture & Urbanism,Saarenkatu 15 A 2,00550,Helsinki,0.0,0.0,,,,,
+Miika Jokelainen,Neljäs linja 16 B 25,00530,Helsinki,0.0,0.0,,,,,
+Mikko Näveri,Töölönkatu 6,00100,Helsinki,60.1777132,24.9280501,,,,,
+Mikko Vekkeli Design,Hietalahdenkatu 9 B,00180,Helsinki,63.0862499,21.6148701,,,,,
+Milla Nummikoski,Keuruuntie 3-5 B 8,00510,Helsinki,0.0,0.0,,,,,
+Milla Rusanen,Rautatienkatu 12 B 34,33100,Tampere,0.0,0.0,,,,,
+Mini-Ark Ab,Karperövägen 494,65630,Karperö,63.156825,21.691812600000002,,,,,
+Minimalhome Oy,Nilsiänkatu 10 A,00510,Helsinki,60.1943016,24.9527563,32.0,,7.0,"28,1%",1.0
+Minimo Arkkitehdit Oy,Lansantie 15 E,02630,Espoo,60.2118955,24.7632865,108.0,"9,1%",26.0,"30,6%",
+Minitalo Oy,Lönnrotinkatu 33-35 D 47,00180,Helsinki,0.0,0.0,,,,,
+Mira Arkitektstudio Ab,Möckelöbrinken 16,22100,Mariehamn,60.0919299,19.930898499999998,,,,,
+Moark Oy,Vanha Valkontie 164,07900,Loviisa,60.430383299999995,26.2351492,8.0,,1.0,10%,
+Modelark Oy,Tallberginkatu 1 C 170,00180,Helsinki,0.0,0.0,,,,,
+Modelto Oy,Loviseholminpolku 8 A 22,00540,Helsinki,0.0,0.0,,,,,
+Mosark Oy,Kellaritie 5 A,00700,Helsinki,60.2492743,25.0247879,92.0,"-2,1%",-2.0,"-2,2%",1.0
+Moustgarden,Rahakamarinkatu 1 D 46,00240,Helsinki,0.0,0.0,,,,,
+Mp-Ark Oy,Mariankatu 8 A 6,15110,Lahti,60.4632325,26.937060499999998,7.0,-72%,3.0,"18,8%",
+Muuan Oy,Vironkatu 7 F 16,00170,Helsinki,0.0,0.0,,,,,
+NB Alex Oy,Jarrumiehenkatu 3b,20100,Turku,60.45197575,22.252023158450452,60.0,"11,1%",0.0,0%,
+NG-Ark Oy,Seilimäki 22 B,02180,Espoo,60.18837679999999,24.772470204590412,21.0,"-12,5%",9.0,"52,4%",
+NUO arkkitehdit,Kanariankuja 4 B 16,00220,Helsinki,0.0,0.0,,,,,
+Nalle Grönberg Oy Ab,Tähteläntie 46,10210,Inkoo,60.060653,24.024396095433826,158.0,,47.0,"37,3%",2.0
+Napapiirin suunnittelu Oy Napark,Nahkurinpolku 2,96900,Saarenkylä,60.4070266,25.08408115,66.0,"-38,3%",29.0,"54,5%",
+Nautakasvattamot.fi,Levälahdentie 206,51200,Kangasniemi,62.779519400000005,27.6728457,,,,,
+Necto Design Oy,Huvilakatu 20-22 A 1,00150,Helsinki,0.0,0.0,,,,,
+Nomad Arkkitehdit Oy,Munkkiniemen puistotie 16,00330,Helsinki,60.1973812,24.8785343,237.0,,29.0,"15,2%",
+North East Design,Juvankuja 4,33710,Tampere,61.4640639,23.873693,,,,,
+Nouplan Oy,Vuohimäentie 21,74420,Hernejärvi,60.4611215,22.6343884,,,,,
+NovaPlan Oy,Mäkiviinikankatu 23,39700,Parkano,62.017408999999994,23.0332905,,,14.0,,
+Novagraaf Oy,Ritokalliontie 8-16 S,00330,Helsinki,0.0,0.0,,,,,
+Novarc Oy,Osmontie 34,00610,Helsinki,60.2192632,24.9466352,162.0,"-14,3%",8.0,"4,9%",0.0
+Nove Consulting Oy,Lemuntie 3-5,00510,Helsinki,60.196138,24.9510171,128.0,"-2,3%",23.0,"23,4%",
+Numers Wrede Arkkitehdit Arkitekter Ab Oy,Ehrensvärdsvägen 4-6 C,00150,Helsingfors,60.1576066,24.936383499999998,1.0,,-6.0,-500%,
+Nuolniemi Oy,Siriuksenkuja 33 B,01450,Vantaa,60.3435071,25.0841364,10.0,,7.0,75%,1.0
+Nurmela Jarno Tmi,Valtakatu 43 C 1,94100,Kemi,61.059861100000006,28.1981,,,,,
+Nyman arkkitehdit Oy,Kauppakatu 15 lt. 11,33200,Tampere,0.0,0.0,,,,,
+Olavi Snellman Ab Oy,Saarenkatu 15 D 11,00550,Helsinki,0.0,0.0,,,,,
+Olio's Art Studios,Suotie 25,65280,Vaasa,62.18350955,25.71503460000001,,,,,
+Optiplan Oy,Mannerheimintie 103a,00280,Helsinki,60.203526600000004,24.899558,13398.0,"-10,4%",49.0,"0,5%",168.0
+Opus Arcticus Oy,Näcksundintie 25,68550,Öja,0.0,0.0,,,,,
+Ortraum Oy,Mesaanikuja 5 A,00850,Helsinki,60.165245299999995,25.0723445,135.0,"79,7%",11.0,"8,9%",
+Osuma Arkkitehdit Oy,Pudaskuja 4 E 66,01600,Vantaa,0.0,0.0,,,,,
+Otto Autio Visual,Piispanristi 4 B 23,02200,Espoo,0.0,0.0,,,,,
+Otto Samuli Heinonen,Koskitie 29 A 3,90500,Oulu,61.757261,24.7591548,,,,,
+Out of Control Finland,Pussilantie 20,07600,Myrskylä,60.941217099999996,21.3824245,,,,,
+Outi Honkanen Design,Hiekkalaiturintie 17 B 20,00980,Helsinki,0.0,0.0,,,,,
+Oy Arkkitehtitoimisto Danielsen Arkitektbyrå Ab,Kulosaarentie 38 A,00570,Helsinki,60.1861091,24.999539000000002,9.0,125%,2.0,20%,
+Oy Arkkitehtitoimisto Illar Meikop Arkitektbyrå Ab,Myntgatan 3 B 15,00160,Helsingfors,0.0,0.0,,,,,
+Oy Arkkitehtitoimisto Åkerblom Arkitektbyrå Ab,Kalevanvainio 4 A 4,02100,Espoo,60.184242299999994,24.8010192,,,-3.0,,
+PES-Arkkitehdit Oy,Ison-Antintie 8,00930,Helsinki,60.20417455000001,25.078598259070915,7248.0,"-12,7%",913.0,"15,9%",68.0
+PF Design,Kourilehdontie 387,95520,Tornio,65.9907085,24.1335449,,,,,
+PH-Arkkitehtuuri Oy,Iisalmentie 64,72400,Pielavesi,63.23393879999999,27.197473100000003,24.0,"-46,7%",0.0,0%,
+PLJ Consulting,Västra Kungsvägen 163 B,02580,Sjundeå,62.752134600000005,15.4111586,,,,,
+POTIS,Kivalterintie 8 as. 3,00620,Helsinki,0.0,0.0,,,,,
+Padus Capital Oy,Metsänneidonkuja 10,02130,Espoo,60.1876319,24.805980899999998,91.0,"506,7%",30.0,"-17,6%",
+Panu Group Oy,Uuhonkuja 3,60510,Hyllykallio,62.7914919,22.927690300000002,28.0,,2.0,"7,1%",
+Parviainen Arkkitehdit Oy,Porkkalankatu 11,00180,Helsinki,60.16367245,24.90421094231157,3786.0,"6,2%",457.0,15%,45.0
+Peabud Consulting Oy,Perttiläntie 31,04420,Järvenpää,62.558795499999995,29.896331300000003,,,,,
+Pekka Rahkonen,Ilkantie 17 as 21,37150,Nokia,0.0,0.0,,,,,
+Peltonen & Co,Tunturikatu 15 B 25,00100,Helsinki,0.0,0.0,,,,,
+Pen & Hammer Oy Ab,Annankatu 12,00120,Helsinki,60.1645782,24.9399556,920.0,"-33,6%",-178.0,"-18,6%",
+Perspektiivi Oy,Oikokatu 11 B 19,00170,Helsinki,59.824537600000006,22.966409600000002,,,0.0,,
+Peter Plan Oy,Puijonkatu 9 A 7,70100,Kuopio,0.0,0.0,,,,,
+Petäjä design,Petäjäkuja 3,21420,Lieto,61.05516595,26.48023077132731,,,,,
+Piekat Oy,Kollantie 7,32700,Huittinen,35.5601386,46.1577651,91.0,"12,6%",3.0,8%,
+Pieni ympyrä,Heikintie 28 A,31400,Somero,62.24393539999999,24.451617600000002,,,,,
+Pientalosuunnittelu Teuvo Nieminen,Kuruntie 528,33480,Ylöjärvi,60.6788543,24.992952499999998,,,,,
+Pihasuunnittelu Viva Landscape,Mottipolku 5b,01730,Vantaa,60.3205769,24.880252711516853,,,,,
+Pihasuunnittelu ja puutarhanhoito Pihasyreeni,Vaahteramäki 1,17110,Kalliola,61.0852041,25.63984,,,,,
+Pihaus Oy,Haratie 6,11130,Riihimäki,60.9804003,24.406045608466734,148.0,,1.0,"0,7%",1.0
+Pirinen Salo Oy,Kalevankatu 31 A 17,00100,Helsinki,0.0,0.0,,,,,
+Pirkanmaan NR-Rakenne Oy,Routakatu 17 A 1,33710,Tampere,61.475956599999996,23.8799694,,,,,
+Plaanari Oy,Sepänkuja 6 B 5-6,42100,Jämsä,0.0,0.0,,,,,
+Planera Oy,Sahaajankatu 19,00880,Helsinki,60.2035222,25.04966605000001,2084.0,"1,8%",154.0,"9,2%",18.0
+Planeringsbyrå Peter Westerlund,Marknadsgatan 1 A,10600,Ekenäs,59.3263005,18.104619600000003,,,,,
+Planest Oy,Nokkalanniementie 7,02230,Espoo,60.1491406,24.75171524986339,48.0,"-44,8%",-13.0,-25%,
+Planet Ark Design Oy,Adalmiinankatu 18,00960,Helsinki,60.2196603,25.1529348,,,-1.0,,0.0
+Planetary Architecture Research Studio Oy,Kalevankatu 31 A 14,00100,Helsinki,0.0,0.0,,,,,
+Planwelt Oy,Mannerheimintie 25 A 4,00250,Helsinki,60.191184400000004,24.9128306,116.0,"3,6%",28.0,31%,1.0
+Playa Arkkitehdit Oy,Töölöntorinkatu 2 B 22a,00260,Helsinki,0.0,0.0,,,,,
+PlusArkkitehdit Oy,Kuortaneenkatu 5,00520,Helsinki,60.1963936,24.945206699999996,157.0,"-15,6%",-12.0,"-7,6%",
+Pohjakuvat24 Oy,Hitsaajankatu 6,00810,Helsinki,60.19245645,25.026747163932942,,,,,
+Pohjois-Suomen Talokeskus Oy,Lumijoentie 1,90400,Oulu,64.9933183,25.4521103,173.0,-25%,3.0,"2,3%",3.0
+"Poiu Designtoimisto Oy, Ltd",Livornonkatu 12 A 18,00220,Helsinki,0.0,0.0,,,,,
+Poklossi Oy,Alvar Aallon katu 3,40600,Jyväskylä,62.7878475,22.837477800000002,50.0,19%,-3.0,-6%,
+Polar Suunnittelu Oy,Metsävainio 5 c/o Kalle Hautajärvi,90810,Kiviniemi,0.0,0.0,,,,,
+Pori Arker,Otavankatu 4 C 50,28100,Pori,0.0,0.0,,,,,
+ProcuTek Tmi,Perhostie 1,43500,Karstula,63.126179,21.5997604,,,,,
+Professori H Rahdun rakennussuunnittelutoimisto Avoin yhtiö,Laivanvarustajankatu 1 H 101,00140,Helsinki,0.0,0.0,,,,,
+Projektivisio Oy,Karhunkatu 10 A 3,33530,Tampere,61.4997287,23.8220879,444.0,"56,3%",75.0,"22,5%",3.0
+Puro Jaakko Oy,Mariankatu 5,00170,Helsinki,61.18883985,28.736898279053246,854.0,"-2,8%",380.0,"27,8%",5.0
+Puroplan Oy,Mariankatu 5,00170,Helsinki,61.18883985,28.736898279053246,769.0,"-19,1%",47.0,27%,5.0
+PuutarhuriPalvelu MiLo,Rihvelimäki 1,02770,Espoo,60.21459535,24.63863230123712,,,,,
+Pwörks Oy,Männikkötie 5 D 19,00630,Helsinki,0.0,0.0,,,,,
+Päivi Tallberg Design,Tuulimyllyntie 18,21600,Parainen,62.219405200000004,25.69277,,,,,
+Pöyry,Jaakonkatu 3,01620,Vantaa,60.97858655,25.68128383093716,,,,,
+R/R-suunnittelu Oy,Pouruntie 398,34870,Visuvesi,62.0699125,23.937914399999997,20.0,"11,1%",15.0,"53,8%",
+RA Hannu Haanpää,Martinkatu 7 C 36,20810,Turku,20.940668399999996,-89.608062,,,,,
+RA-Suunnittelu Oy,Lentovarikonkatu 2 A 34,33900,Tampere,0.0,0.0,,,,,
+RE-Consulting Oy,Sentnerikuja 3,00440,Helsinki,60.2277969,24.8789647,709.0,"79,9%",141.0,"21,1%",5.0
+RI Ukko-Pekka Korhonen,Virranniementie 13,72330,Tiitilänkylä,62.971703000000005,27.682625,,,,,
+Raami Arkkitehdit Oy,Finlaysoninkuja 23,33210,Tampere,61.502081499999996,23.7588401,,,,,
+Raiski Arkkitehdit Oy,Teiskontie 1 T 1,33500,Tampere,0.0,0.0,,,,,
+Raitanen Pekka Juhani,Jättäläntie 137,31500,Koski tl,60.6579861,23.093013100000004,,,,,
+Rak.Suunnittelu Tauno Savela Tmi,Kusiaismäentie 10,43100,Saarijärvi,62.6922806,25.2831357,,,,,
+RakSatu,Syreenitie 4,13210,Hämeenlinna,61.01427095,24.50803670000001,,,,,
+Rakennus Markus Huhtala,Munterinkatu 6 C 27,20360,Turku,0.0,0.0,,,,,
+Rakennus ja Taide Oy,Kimalaisenpolku 38,02210,Espoo,60.17925325,24.70067580000001,7.0,0%,3.0,"42,9%",
+Rakennus- ja suunnittelutoimisto M Kulmala,Topeeka 62 A 1,61800,Kauhajoki,0.0,0.0,,,,,
+Rakennusarkkitehdit Oy Tuomisalo & Co,Lakaniementie 735,62800,Vimpeli,61.3240221,28.5315526,7.0,"-12,6%",-13.0,"-171,4%",1.0
+Rakennusinsinööripalvelut A. A.,Kotakenmäentie 3,44100,Äänekoski,0.0,0.0,,,,,
+Rakennusinsinööritoimisto Antti Mäkelä,Vaikonmäentie 35,86210,Petäjäskoski,0.0,0.0,,,,,
+Rakennusinsinööritoimisto Paavo Kröger,Rantatie 3 B,79100,Leppävirta,36.909214741882174,-90.28452720483736,,,,,
+Rakennuskonsultointi B Boström Tmi,Bredvassvägen 54,06830,Kulloby,60.20470160000001,24.432033999999998,,,,,
+Rakennuskonsultointi Kodikas,Kotikummunkatu 9,15300,Lahti,60.99120500000001,25.7707414,,,,,
+Rakennuslinkki Juha Aho,Hakolantie 4,86600,Haapavesi,61.511261899999994,21.793565498961968,,,,,
+Rakennuspalvelu Erkki Vinkanharju,Karvalantie 28,62630,Karvala,63.13415820000001,23.3462891,,,,,
+Rakennuspalvelu Kankare,Ollilantie 757,21800,Kyrö,60.26093349999999,24.977506100000003,,,,,
+Rakennuspalvelu Kivikangas Oy,Kärrykuja 4,60550,Nurmo,60.4072085,24.992179718208078,,,53.0,,1.0
+Rakennuspalvelu Matti Jokitalo,Saarisperäntie 233,74680,Myllyniemi,63.497553,26.628442,,,,,
+Rakennuspalvelu Pekka Hedemäki,Kirkkotie 4 H 4,90830,Haukipudas,60.756474100000005,26.8517528,,,,,
+Rakennuspalvelu Rissain Ky,Seilitie 5 A 8,90510,Oulu,65.03541609999999,25.4213924,,,,,
+Rakennussuunnittelu A Taipale,Mäkitie 3,61800,Kauhajoki,62.6090272,29.782711,,,,,
+Rakennussuunnittelu Aimo Pakkala,Marjatie 1,36420,Sahalahti,61.666804500000005,23.2046265,,,,,
+Rakennussuunnittelu Antero Kuosmanen Oy,Jokitie 13,71800,Siilinjärvi,60.96049985000001,25.639915316999968,,,,,
+Rakennussuunnittelu Ari Hannonen Oy,Ruokosuontie 34,21250,Masku,60.9709225,25.5704777,12.0,20%,1.0,0%,0.0
+Rakennussuunnittelu Arja Koota,Kootantie 249,38760,Venesjärvi,0.0,0.0,,,,,
+Rakennussuunnittelu Byggnadsplanering Öst & Hjort Oy Ab,Maxmovägen 243,66640,Maxmo,63.214134200000004,22.0556108,86.0,"-10,4%",-1.0,"-1,2%",3.0
+Rakennussuunnittelu Heikki Havurinne,Havurinteentie 8,82500,Kitee,0.0,0.0,,,,,
+Rakennussuunnittelu Kulin Oy,Rautavuorentie 80,73120,Nerkoo,62.064409899999994,25.132184699999996,33.0,49%,5.0,"18,2%",
+Rakennussuunnittelu Leo Haglund Oy,Valokaarenkatu 17 A,65320,Vaasa,63.082181000000006,21.695276800000002,28.0,,-15.0,"-53,6%",3.0
+Rakennussuunnittelu NK Project,Choraeusgatan 16,68600,Jakobstad,63.673174100000004,22.7071294,,,,,
+Rakennussuunnittelu Ovaska Oy,Kuusipeurankuja 10,55420,Imatra,61.2099468,28.74250978523312,,,,,
+Rakennussuunnittelu P. Karihaara Oy,Mustionkatu 8,20750,Turku,60.4374689,22.32855335,17.0,"-22,7%",6.0,"47,1%",1.0
+Rakennussuunnittelu Rovio Oy,Vaasankatu 11,40100,Jyväskylä,60.1884657,24.958575699999997,,,,,
+Rakennussuunnittelu Tapio Ojala,Kalliomäentie 35,38910,Ala-honkajoki,61.729263399999994,24.7869715,,,,,
+Rakennussuunnittelu Timo Ruoho Oy,Lintuvaarantie 10,02650,Espoo,60.220085100000006,24.8106951,,,,,
+Rakennussuunnittelu Widgren Oy,Santerinvainio 3,61470,Kitinoja,0.0,0.0,,,,,
+Rakennussuunnittelu ja Valvonta Miettinen,Tuurinkorventie 16 B,47400,Kausala,60.884437899999995,26.3452874,,,,,
+Rakennussuunnittelu ja konsultointipalvelu Kari Anttila,Toimelantie 7,66300,Jurva,61.0665071,24.718598800000002,,,,,
+Rakennustarkastus Ratar Oy,Meijeritie 18,07230,Askola,60.2246358,24.872204800000002,240.0,"11,6%",13.0,"6,7%",
+Rakennustyö Kyytsönen Pasi Tmi,Peltokaari 6,07560,Pukkila,60.6271103,24.799313100000003,,,,,
+Rakennuttajapalvelu Koponen Esa,Rantaraitti 20 C,70820,Kuopio,61.6698666,27.238300399999996,,,,,
+Raksajallu,Pääjärventie 9,43500,Karstula,61.78029229999999,23.2434027,,,,,
+Raksaplan,Rauhantie 36,27600,Hinnerjoki,61.175861,28.689651,,,,,
+Re-Suunnittelu Oy - Re-Engineering Ltd,Sentnerikuja 3,00440,Helsinki,60.2277969,24.8789647,,,,,
+Respace Oy,Isonniitynkatu 3 F 25,00520,Helsinki,0.0,0.0,,,,,
+Reunanen-ark Oy,Linnankatu 59 D 7,20100,Turku,0.0,0.0,,,,,
+Rissanen Arkkitehdit Oy,Sampsantie 2 D 28,00610,Helsinki,0.0,0.0,,,,,
+River Oy,Lizeliuksenkatu 14,38200,Sastamala,61.339269200000004,22.9255785,720.0,-12%,294.0,"51,5%",3.0
+Rivitehti,Kuunsilta 11,40340,Jyväskylä,62.27257145,25.832580550503646,,,,,
+Rocky Raccoon,Junonkatu 1 A 6,00540,Helsinki,60.1852517,24.980740100000002,,,,,
+Romplan Oy,Koskitie 39 A 16,90500,Oulu,62.4872231,22.752983800000003,,,,,
+Rooa Fiskars Osk,Grabbstrandintie 1 2,10470,Fiskari,0.0,0.0,,,,,
+Rotonda Oy,Urheilukatu 32 A 17,00250,Helsinki,0.0,0.0,,,,,
+Rouhiainen Móricz Arkkitehdit Oy,Pursimiehenkatu 26 C,00150,Helsinki,60.1605623,24.9411704,,,,,
+Räihä Marko Design,Olaskuja 3 B 3,90900,Kiiminki,65.1218934,25.7326418,,,,,
+SK-ark Oy,Keltamotie 6 C 13,01300,Vantaa,0.0,0.0,,,,,
+SOP-Rakennus,Halmaantie 65,16450,Mallusjoki,60.7167551,27.554420500000003,,,,,
+SORIA Oy,Honkiniementie 36,37310,Tottijärvi,60.970873700000006,24.311831299999998,,,,,
+Saara Kantele Workshop,Siltasaarenkatu 26 C 113,00530,Helsinki,0.0,0.0,,,,,
+Sadelia Oy,Pappilanniementie 18 as. 2,13880,Hattula,64.29317610000001,27.644213,42.0,"-12,5%",3.0,"9,5%",1.0
+Saika Design Oy,Isokatu 87 A 85,90120,Oulu,0.0,0.0,,,,,
+Saircon Oy,Vernissakatu 8 A,01300,Vantaa,60.290591500000005,25.0457847,,,,,
+Sakari Kallio,Nisulanniitty 2 D 14,90820,Kello,0.0,0.0,,,,,
+Salahmin Kiinteistöpalvelut Oy,Kiuruvedentie 30,74230,Salahmi,63.6039585,27.031390100000003,,,,,
+Salminen Harri Tmi,Tuulimyllyntie 20,27800,Säkylä,65.36597975000001,26.976443288608127,,,,,
+Salteh Nord Oy,Kiekkomiehenkatu 22,55420,Imatra,61.19956585,28.748154930444922,,,-5.0,,
+Sama Urban Planning Solutions Oy,Kuusikonkatu 8,78210,Varkaus,65.83754975,24.196057567973074,,,,,
+Sanaksenaho Arkkitehdit Oy,Tammimäentie 13-15 A,02940,Espoo,60.2725116,24.969066,33.0,"13,8%",-1.0,-3%,
+Santeri Hänninen,Porarinkatu 5 B 24,02650,Espoo,0.0,0.0,,,,,
+Savula Oy,Kiiminkijoentie 2187,90830,Haukipudas,65.1697496,25.5962288,61.0,"-6,2%",1.0,"1,6%",
+Schauman & Nordgren Architects Ab,Köydenpunojankatu 2a E,00180,Helsingfors,60.1616078,24.9270462,526.0,"5,6%",17.0,"3,3%",
+Schauman Arkkitehdit Helsinki Oy,Köydenpunojankatu 2 A,00180,Helsinki,60.4541864,22.244873000000002,438.0,58%,68.0,"19,4%",
+Semeri Veli-Pekka Tmi,Lahdenkatu 10,15140,Lahti,52.7500419,7.568568099999999,,,,,
+Signatur B,Söderby 10,22610,Lemland,59.932254500000006,17.488586399999996,512.0,"13,5%",245.0,"62,9%",2.0
+Siku Architecture Oy,Kruunuvuorenkatu 3 A 8,00160,Helsinki,0.0,0.0,,,,,
+Sinikara T. Tmi,Tehtaankatu 1 A 17,13220,Hämeenlinna,0.0,0.0,,,,,
+Sintu Oy,Petäjäkatu 13,15950,Lahti,60.46589195,22.16845532995969,97.0,"125,6%",-6.0,"-6,2%",
+Siren Arkkitehdit Oy,Tiirasaarentie 35,00200,Helsinki,60.157360100000005,24.858054120383283,1604.0,"-3,3%",126.0,10%,16.0
+Sirrak Oy,Kaskitie 11,33540,Tampere,60.23265285,24.92020655,161.0,,5.0,"6,5%",1.0
+Sirrak arkkitehtuuria Oy,Kaskitie 11,33540,Tampere,60.23265285,24.92020655,468.0,"43,1%",34.0,"8,1%",6.0
+Sirrak konsultit Oy,Kaskitie 11,33540,Tampere,60.23265285,24.92020655,244.0,"-61,8%",27.0,"14,8%",2.0
+Sisustusarkkitehdit Fyra Oy,Tehtaankatu 27-29 A,00150,Helsinki,0.0,0.0,,,,,
+Space Architects Oy,Telakkakatu 3 A 2 b,00150,Helsinki,0.0,0.0,,,,,
+Space Lab Oy,Dosentintie 7 C,00330,Helsinki,60.2163681,24.7369764,,,-16.0,,
+Stolt arkkitehtisuunnittelu,Pietarinkatu 4 A 2,20320,Turku,60.3881946,23.1453829,,,,,
+Studio 2B Avoin yhtiö,Meritullinkatu 13 I 113,00170,Helsinki,60.4368328,22.237466,,,,,
+Studio Architecture Helsinki Oy,Teollisuuskatu 3a B,00510,Helsinki,63.0922897,21.5634306,1.0,"-92,9%",-2.0,-200%,4.0
+Studio Arkki,Pekanraitti 24 F,00700,Helsinki,60.247619900000004,25.006594600000003,,,,,
+Studio Design Pro Oy,Mäkkylänmutka 4 H,02650,Espoo,60.225312,24.8280466,,,-8.0,,
+Studio Hanna ät Lehtiniemi,Meilahdentie 7,00250,Helsinki,60.19197239999999,24.8857557,,,,,
+Studio Ilkka Paajanen,Kelohongantie 14 A 3,02120,Espoo,62.544817200000004,29.825442699999996,,,,,
+Studio Julius,Malpakantie 17,33470,Ylöjärvi,61.546634999999995,23.584674800000002,,,,,
+Studio Koskinen Rantanen Oy,Puna-ahontie 44 B,03400,Vihti,60.184568500000005,24.433835199999997,381.0,-13%,37.0,10%,4.0
+Studio Kukkapuro,Alppitie 23,02700,Kauniainen,65.0346199,25.460129300000002,,,,,
+Studio Oy Arkkitehdit,Vanhatie 28 B 9,15240,Lahti,0.0,0.0,,,,,
+Studio Rosberg Oy,Kuninkaankatu 29,33200,Tampere,61.12866175,21.513586119968448,,,,,
+Studio Simark Oy,Ulvilantie 25 A 10,00350,Helsinki,0.0,0.0,,,,,
+Studio Susanna Raunio Oy,Toivolankatu 21,20810,Turku,60.43499175,22.2678392,,,,,
+Studio Verhe Oy,Purjeentekijänkuja 5 B 30,00210,Helsinki,0.0,0.0,,,,,
+Studio Wam,Arkadiankatu 17 A 5,00100,Helsinki,0.0,0.0,,,,,
+Studio Ö Aktiebolag,Norra Esplanadgatan 4 B,22100,Mariehamn,60.097327299999996,19.9364529,53.0,"76,7%",6.0,"13,2%",1.0
+SuRaVa Oy,Pelimannintie 57,61310,Panttila,60.2379307,24.8821565,59.0,"742,9%",3.0,"6,8%",
+Superplan Int. Oy,Lehtisaarentie 6 D,00340,Helsinki,63.477267299999994,23.8007122,10.0,"66,7%",2.0,20%,
+Susan Elo Oy,Pursimiehenkatu 12 A,00150,Helsinki,60.1605623,24.9411704,,,-14.0,,
+Suunnittelemo Oy,Viinikankatu 47 A,33800,Tampere,61.48998710000001,23.7802508,216.0,"-20,6%",-46.0,"-19,7%",5.0
+Suunnittelu Aijaskaari Oy,Ahjopolku 1 as. 9,44800,Pihtipudas,0.0,0.0,,,,,
+Suunnittelu GL Oy,Hämeentie 15,00500,Helsinki,61.1668199,23.8905687,144.0,"-17,7%",-24.0,"-15,3%",1.0
+Suunnittelu Luukkanen Pertti Oy,Väärämäentie 6 F,00700,Helsinki,61.32891120000001,29.260671999999996,,,,,
+Suunnittelu Markku Hankanen T:Mi,Tervahauta 6,60200,Seinäjoki,61.47651260000001,22.5750992,,,,,
+Suunnittelu Ovali,Keltinmäentie 12 C 57,40640,Jyväskylä,0.0,0.0,,,,,
+Suunnittelu Oy Muuntaja,Tarkk'ampujankatu 14,00150,Helsinki,60.1607927,24.9441065,101.0,"-30,8%",26.0,"31,5%",1.0
+Suunnittelu Rami Ovaskainen,Lohansuonpolku 4 C,02880,Veikkola,60.268993,24.4249749,,,,,
+Suunnittelu Tuire. n,Maijanniitynkatu 18,33580,Tampere,61.484562,23.925631,,,,,
+Suunnittelu Vilkki,Väinämöisentie 18 C 3,39100,Hämeenkyrö,66.4870583,25.6857623,,,,,
+Suunnittelu ja valvonta Jari Repo,Pajutie 1,83900,Juuka,61.2843946,23.998283928937248,,,,,
+Suunnittelu- ja konsulttitoimisto Huttunen,Haavistontie 2,58200,Kerimäki,62.367339,25.901922600000002,,,,,
+Suunnittelulinja Oy,Vähäheikkiläntie 56 C,20810,Turku,60.432314399999996,22.255691,523.0,"137,7%",178.0,"33,7%",0.0
+Suunnittelupalvelu Eteläaho Oy,Tuulimyllyntie 7 A 4,00920,Helsinki,61.0833833,24.6389195,,,,,
+Suunnittelupalvelu Idealinja Ky,Kalliontie 27,74700,Kiuruvesi,63.9289093,24.964390123066305,,,,,
+Suunnittelupalvelu Ulla Sallinen,Haapaniementie 243,58920,Kolkontaipale,62.8838743,27.6793161,,,,,
+Suunnittelupuulaaki,Päijänteentie 33 B 5,00510,Helsinki,0.0,0.0,,,,,
+Suunnittelustudio Odea Oy,Valtakatu 7,26100,Rauma,61.771907999999996,23.054368,,,53.0,,1.0
+Suunnittelutoimisto Aluetekniikka,Asemakatu 1,62100,Lapua,62.24070579999999,25.7517621,,,-2.0,,
+Suunnittelutoimisto Auua,Honkatie 4 B 44,00270,Helsinki,66.1574935,29.117664899999998,,,,,
+Suunnittelutoimisto Hinkkanen Ky,Kauppakuja 2,47200,Elimäki,60.4871796,22.1667355,,,,,
+Suunnittelutoimisto Jaakko Pesonen Oy,Härmälänbölentie 193,25410,Suomusjärvi,60.4051307,23.5553094,1.0,-75%,1.0,100%,
+Suunnittelutoimisto Jenny Tunis Oy,Kokkolinnunkatu 4,65300,Vaasa,63.1243993,21.663466699999997,82.0,"28,1%",9.0,"12,2%",
+"Suunnittelutoimisto Kartio Ky, O. Malminen",Aadolf Lindforsintie 9 B 83,00400,Helsinki,0.0,0.0,,,,,
+Suunnittelutoimisto Kouhia Pekka Oy,Kiuastie 28 B,02770,Espoo,65.0276181,25.577211899999998,,,,,
+Suunnittelutoimisto Livadia,Merimiehenkatu 35 LH 1,00150,Helsinki,0.0,0.0,,,,,
+Suunnittelutoimisto Matti Kärkkäinen,Antti Chydeniuksenkatu 25,67100,Kokkola,63.848315799999995,23.155619100000003,,,,,
+Suunnittelutoimisto N&O Oy,Siltakyläntie 191,49220,Siltakylä,60.27097,24.9914764,16.0,"-27,3%",1.0,"6,3%",1.0
+Suunnittelutoimisto Nina Lehos,Haahkatie 2 A 2,00200,Helsinki,60.156586399999995,24.8809999,,,,,
+Suunnittelutoimisto Part Oy,Pussilantie 20,07600,Myrskylä,60.941217099999996,21.3824245,6.0,"914,4%",3.0,55%,0.0
+Suunnittelutoimisto Pasi Vuorela Ky,Tallitie 13,13500,Hämeenlinna,60.97905575,24.417434,,,,,
+Suunnittelutoimisto Sarka,Suojasentie 48,37200,Siuro,61.520286,23.3385642,,,,,
+Suunnittelutoimisto Teo-Vision Oy,Lokinrinne 8 A 25,02320,Espoo,0.0,0.0,,,,,
+Suunnittelutoimisto Veikkola Ky,Kamulantie 48,90910,Kontio,-8.0755905,112.2882797,,,,,
+Sweco Architects Oy,Ilmalanportti 2,00240,Helsinki,60.2077499,24.9176367990072,5291.0,"45,7%",235.0,"5,7%",56.0
+Synopsis Arkkitehdit Oy,Itämerentori 2,00180,Helsinki,60.16408515,24.91424872900457,2828.0,37%,439.0,"19,6%",17.0
+T:mi Konsultointi Suihko Mika,Ritalankatu 30 G 30,33400,Tampere,0.0,0.0,,,,,
+T:mi Rakennuttajapalvelu J. Svenn,Kirvesmiehenkatu 10,59100,Parikkala,61.21208975,28.836145984621783,,,,,
+TN-Suunnittelu Oy,Säntietie 145,61360,Mieto,58.465709700000005,5.9387011,41.0,"-19,6%",5.0,"12,2%",
+"TS-ark, Arkkitehtitoimisto Suursalmi",Punavarpusentie 1 A,02660,Espoo,60.23399179999999,24.8008344,,,,,
+TUPA architecture Oy,Näsilinnankatu 22 A,33210,Tampere,61.496174800000006,23.7552119,86.0,"45,8%",19.0,"23,3%",2.0
+Taegen arkkitehdit Oy,Ristiniementie 40 C 20,02320,Espoo,0.0,0.0,,,,,
+Takt Oy/Taina Väisänen,Kuusistontie 6,33480,Ylöjärvi,60.34993475,24.89565908693843,,,,,
+Talo Design Hilja Moilanen RA,Jousitie 43,19650,Joutsa,63.1028917,21.6664540193363,,,,,
+Talosuunnittelu Ari Mäki,Simpantie 15,70910,Vuorela,65.2140407,25.315600600000003,,,,,
+Taloteema Imatra Oy,Sotkulammentie 37,55100,Imatra,61.19325129999999,28.80384196211832,33.0,,0.0,0%,
+Tapani Takkunen,Ollakantie 31,90440,Kempele,64.91190999999999,25.4980565,,,,,
+Team-Danielsson Oy,Takojankatu 1 c B 12,33540,Tampere,0.0,0.0,,,,,
+Technical Management Consultant in Helsinki Oy,Kanervatie 9 A,00730,Helsinki,65.0159692,25.5491204,3.0,,1.0,"33,3%",0.0
+Teekki Oy,Onkitie 3,21100,Naantali,60.47350115,22.041165022379566,93.0,"36,8%",123.0,"66,7%",1.0
+Teema-arkkitehdit Oy,Oravannahkatori 1,02120,Espoo,60.17564045,24.79240887677539,211.0,"-5,4%",-7.0,"-2,8%",3.0
+Terava Group Oy Ltd,Kornetinkuja 5 B,00380,Helsinki,60.21685179999999,24.8735368,21.0,50%,1.0,"4,8%",
+Terra Live Oy,Vanhantullinkatu 7 B 51,90100,Oulu,0.0,0.0,,,,,
+Tidyline Oy,Haapasalontie 73,08500,Lohja,60.24475940000001,24.1580339,30.0,-25%,-8.0,"-26,7%",
+Tieno Arkkitehdit Oy,Fredrikinkatu 29 A 1,00120,Helsinki,60.166950199999995,24.933343899999997,194.0,"1,5%",18.0,"11,9%",2.0
+Tiina Madison-Leino,Torpparinkulmantie 55,25500,Perniö,0.0,0.0,,,,,
+Tila Humalisto,Nilsiänkatu 11-13 F 6,00510,Helsinki,0.0,0.0,,,,,
+Tilanne Arkkitehdit Oy,Itäinen Pitkäkatu 36,06100,Porvoo,60.4445689,22.2786218,2.0,,5.0,0%,1.0
+Tilanne toimisto,Monninkatu 23,05900,Hyvinkää,60.63660015,24.84526004275031,,,,,
+Tilataitaja,Hallitie 4,91100,Ii,62.77803045,22.885693631794997,,,,,
+Tilatohtorit Oy,Heikinkatu 23,90100,Oulu,63.09581970000001,21.6759476,,,,,
+Timber Bros Oy,Alasintie 3,80130,Joensuu,60.3942304,25.14361032225229,181.0,"-4,7%",9.0,"6,6%",2.0
+Timo Jyrinki Design,Peltoniementie 6 A 11,40520,Jyväskylä,0.0,0.0,,,,,
+Timo Pirhonen Tmi,Ertonniementie 6,82360,Onkamo,62.2849032,30.0724615,,,,,
+Tmi Anssi Savisalo,Malminrinne 2 C 56,00100,Helsinki,0.0,0.0,,,,,
+Tmi Ark Päivikki Heikkilä,Tellervonkatu 15 A 1,40200,Jyväskylä,61.476996299999996,21.807266000000002,,,,,
+Tmi Arkkitehti Johannes Koskela,Nervanderinkatu 9 A 8,00100,Helsinki,0.0,0.0,,,,,
+Tmi Henna Latva-Mäenpää,Seunalanviita 6,60150,Seinäjoki,62.767714100000006,22.8971861,,,,,
+Tmi Iina Valkeisenmäki,Alatie 108 E,49200,Heinlahti,66.08220920000001,29.519704700000002,,,,,
+Tmi Inspit,Kaiskontie 94,33470,Ylöjärvi,61.5635955,23.6331448,,,,,
+Tmi JT Vesanen,Vierukkatie 2,19600,Hartola,61.577743299999995,26.025311399999996,,,,,
+Tmi Janne Vaara,Evakkotie 9-11 A 11,96100,Rovaniemi,0.0,0.0,,,,,
+Tmi Juuso Horelli,Mallasvedenkatu 17 B 10,37600,Valkeakoski,0.0,0.0,,,,,
+Tmi Laura Pasanen,Hämeenkatu 29 A 6 a,33200,Tampere,0.0,0.0,,,,,
+Tmi Mikko Lindqvist,Hämeentie 42 B,00500,Helsinki,60.5163944,22.4895608,,,,,
+Tmi Oskari Levänen,Vallirinne 6,00430,Helsinki,60.2465216,24.90254095,,,,,
+Tmi Sanna Jutila,Osmalahdenrinne 11,21570,Sauvo,60.3492261,22.5665567,,,,,
+Tmi Simmu,Onkitie 3,21100,Naantali,60.47350115,22.041165022379566,,,,,
+Tmi Tapio Blåfield,Myllytie 12,17200,Vääksy,60.793358700000006,25.014442199999998,,,,,
+Tmi Tero Harjunniemi,Einolankatu 1 A 1,33700,Tampere,61.4871431,23.8326995,,,,,
+Tmi Virve Rosberg,Kuninkaankatu 29,33200,Tampere,61.12866175,21.513586119968448,,,,,
+Toiminimi A.Kokko,Satakielenkatu 1 A,37630,Valkeakoski,61.6892262,27.315061699999998,,,,,
+Toiminimi Hanna Lemmenlehti,Itälahdenkatu 2 B 32,00210,Helsinki,0.0,0.0,,,,,
+Toiminimi Mikko Matias Nurminen,Yrjönkatu 10 C 47,28100,Pori,0.0,0.0,,,,,
+Tolvanen Veera Tmi,Panunkatu 64 B,57200,Savonlinna,61.8702864,28.927176399999997,,,,,
+Tomi Järvelin Design Oy,Ansaritie 19,36200,Kangasala,60.2091279,24.886267800000002,,,,,
+Tommi-Tapani Kivimäki Tmi,Suovuorentie 7 B 34,37800,Akaa,0.0,0.0,,,,,
+Traficon Oy,Länsiportti 4,02210,Espoo,60.17512315000001,24.72990693546797,,,,,
+Trea Team For Resilient Architecture Oy,Museokatu 5,00100,Helsinki,60.1748556,24.9290141,131.0,29%,6.0,"6,1%",
+Treedee Oy,Lohkaretie 5 F 43,70700,Kuopio,0.0,0.0,,,,,
+Triidii,Saimaankatu 3 A 22,00520,Helsinki,61.0703289,28.250214899999996,,,,,
+Tritektuuri Oy,Mansikkamäentie 13,01860,Perttula,63.1470307,27.9594598,,,-1.0,,
+Tuomas Siitonen Oy,Tyynenmerenkatu 6 C,00220,Helsinki,60.155376000000004,24.9205111,62.0,,2.0,"6,1%",
+Tuomo Tuukkanen Ky,Keskustie 66,19600,Hartola,62.02222045,27.2064293857428,,,,,
+Tuovinen Pekka Ky,Myllyharju 45,02400,Kirkkonummi,60.14348585,24.38777856064941,,,,,
+Turun Suunnittelupalvelu Oy,Kalevantie 49,21540,Preitilä,61.4951284,23.7825053,137.0,"13,2%",10.0,"8,8%",1.0
+Työhuone Huvila,Välimerenkatu 13 B 38,00180,Helsinki,0.0,0.0,,,,,
+Työhuone Piirto,Siilintie 10,37860,Kärjenniemi,64.4038414,27.805928700000003,,,,,
+UUSI ark,Aleksis Kiven katu 4-8 C 57,00500,Helsinki,0.0,0.0,,,,,
+Untoma-ark,Hongonkuja 8,28220,Pori,61.52093539999999,21.8502719,,,,,
+Urakointimestarit Oy,Eerikinkatu 22b A 6,20100,Turku,0.0,0.0,,,,,
+Urbanity D&M Oy,Meritähdenkuja 4,21200,Raisio,60.476159700000004,22.13227894937298,122.0,,32.0,"32,8%",
+Uusi Kaupunki Kollektiivi Oy,Punavuorenkatu 1 B,00120,Helsinki,60.160095299999995,24.933938100000002,158.0,"-25,5%",-8.0,"-4,6%",
+VMO-Palvelu,Puutteenkuja 1,42700,Keuruu,61.467423200000006,23.4926081,,,,,
+VNN Concept,Biskopsgatan 11,68600,Jakobstad,57.70659105,11.90761835,,,,,
+VP-Mittaus Oy,Vesanojantie 627,31470,Somerniemi,60.63483539999999,23.7929468,81.0,"-37,2%",14.0,21%,1.0
+VaBe Suunnittelu Oy,Lautatarhankatu 10,00580,Helsinki,60.1885036,24.9722689,,,,,
+Vaahteranlehti Tmi,Karhunsammaleenkatu 9 as. 1,20780,Kaarina,0.0,0.0,,,,,
+Vaaka-ARK Oy,Pilkontie 6,80130,Joensuu,62.619361600000005,29.7325525,209.0,5%,4.0,"2,9%",3.0
+Vaero Oy,Keilaniementie 1,02150,Espoo,60.17505309999999,24.831067945692617,733.0,"50,2%",229.0,"-19,7%",4.0
+Vahanen-Halme Acoustics Oy,Linnoitustie 5,02600,Espoo,60.2130314,24.8096492,402.0,"6,3%",-164.0,-41%,6.0
+Varis Tommi Arkkitehtitoimisto,Kotisaarenkatu 7 A 10,00560,Helsinki,0.0,0.0,,,,,
+VauPro,Arinatie 11 A 8,01520,Vantaa,0.0,0.0,,,,,
+Verstas Arkkitehdit Oy,Tammasaarenlaituri 3 A,00180,Helsinki,60.1613416,24.9028197,4020.0,40%,577.0,"17,9%",
+Viherpiirto Ky,Kuhantie 7,15540,Villähde,62.6138954,29.83806074724277,,,,,
+Vihersuunnittelu Tuija Pajunen,Karinraitti 7,40270,Palokka,39.906321500000004,41.2727638,,,,,
+Viiviauroora Design Oy,Voitbyntie 320 as.,66520,Veikkaala,0.0,0.0,,,,,
+Villa Sukut,Hästbackantie 108,01190,Box,60.2998221,25.41319,,,,,
+Villevh Arkkitehtuurisuunnittelija Tmi,Kauppiaskatu,20100,Turku,61.171892099999994,22.6796639,,,,,
+Virkkala Arkkitehdit Oy,Hyväntoivonkatu 8 A 42,00220,Helsinki,60.1563147,24.916342800000002,,,,,
+Visark,Rätvänätie 10,90580,Oulu,65.0727629,25.4247893,,,,,
+Visiomo Oy,Laivasillankatu 14 L 45,00140,Helsinki,0.0,0.0,,,,,
+Visorc Oy,Sammonkatu 12,50130,Mikkeli,60.87549405,26.71798713920941,6.0,"-98,2%",-111.0,"-445,8%",
+Viva Garden,Dragsfjärdsvägen 1720,25870,Dragsfjärd,60.0732611,22.48793,,,,,
+Voima Graphics Oy,Lapinrinne 3,00100,Helsinki,60.1673975,24.9276696,1250.0,"237,8%",210.0,"17,9%",3.0
+Voitto Suosaari Oy,Teollisuuskatu 1 D,42100,Jämsä,60.19636189999999,24.935891100000003,,,45.0,,1.0
+Väinölänpuisto om. Minna Kaila,Leppästentie 232,35100,Orivesi as,61.4427723,23.7645789,,,,,
+Vöksä Oy,Graniittitie 7 A 1001,01150,Söderkulla,0.0,0.0,,,,,
+Walt Design Oy,Leppäkankaantie 286,76850,Naarajärvi,62.2597485,27.0852534,1.0,0%,1.0,100%,
+Wanderlust,Tehtaankatu 7 A 3,00140,Helsinki,61.850341099999994,28.954505100000002,,,,,
+Weplan Oy Ab,Klarviksvägen 70,10300,Karis,60.102790899999995,23.794344100000004,73.0,"-1,4%",3.0,"6,8%",
+Whakarongo Oy,Satajanmäki 1,13500,Hämeenlinna,60.98276975,24.40077434232832,9.0,"-67,9%",1.0,10%,1.0
+Wide Visuals,Kurkelantie 1 C 16,90230,Oulu,0.0,0.0,,,,,
+Willem Barendregt Architecture and Design,Jääkärinkatu 11 A 7,00150,Helsinki,0.0,0.0,,,,,
+Wires Oy,Kuninkaankartanontie 54 B,02780,Espoo,63.0637811,21.7100995,116.0,"35,3%",-5.0,"-3,4%",
+Wojtek Skalski T:mi,Sattulantie 153,13720,Parola,61.02922565,24.30066420113608,,,,,
+Workspace Middle East,Kasarmikatu 36,00130,Helsinki,60.16521120000001,24.9469241,,,-1.0,,0.0
+Workspace Oy,Konepajankuja 1 A,00510,Helsinki,60.192075,24.949989499999997,2811.0,"-12,3%",90.0,"4,2%",27.0
+Wuorimaa Development Oy,Mannerheimintie 20 B,00100,Helsinki,60.191184400000004,24.9128306,24.0,"-29,4%",107.0,"54,2%",0.0
+Y-2 maisema-arkkitehtitoimisto,Tiilimäki 3,00330,Helsinki,60.196301,24.872536800000002,,,,,
+Yksiö Puutarhassa Oy,Ilmalankuja 2 L,00240,Helsinki,60.2069786,24.9162663,48.0,"33,3%",-1.0,"-2,1%",
+Yli-Sissala Matti Kristian,Niemitie 2,62720,Sissala,60.622129,23.52564104457961,,,,,
+Ylitys Oy,Teljäntie 5 C 37,00350,Helsinki,0.0,0.0,,,,,
+Ympäristösuunnittelu OK (YOK),Naavakalliontie 2 C,02120,Espoo,60.176384,24.7923965,40.0,"42,9%",3.0,"7,5%",
+Zealand Design,Linnankoskenkatu 10 A 11,00250,Helsinki,0.0,0.0,,,,,
+ad3,Retiisikuja 4,33300,Tampere,60.49290955,25.084617098786307,,,,,
+arkTaipale Oy,Pursulanrinne 17,17500,Padasjoki,61.3587291,25.2757428,71.0,,12.0,"19,7%",
+arkTimlin Oy,Asuntamaankuja 2 L 1,33870,Tampere,61.433763799999994,23.8074603,253.0,"20,7%",20.0,"9,9%",3.0
+arkkitehdit k+a avoin yhtiö,Vaasankatu 20b,00500,Helsinki,60.1882093,24.9535386,,,,,
+arkkitehtitoimisto Bas Gremmen,Korpikalliontie 22,33450,Siivikkala,61.54821629999999,23.6779991,,,,,
+arkkitehtitoimisto Kalle Nurminen,Korppilankuja 46,17800,Kuhmoinen,61.560897100000005,25.1930729,,,,,
+designTuki,Norrintie 10,31300,Tammela,61.2019542,22.6957861,,,,,
+friman.laaksonen arkkitehdit Oy,Pursimiehenkatu 26 C 6. krs,00150,Helsinki,0.0,0.0,,,,,
+inplan Ab,Handelsesplanaden 6,65100,Vasa,63.0906059,21.620596300000003,,,,,
+koto arkkitehdit,Kitimenpolku 22 A 15,90500,Oulu,0.0,0.0,,,,,
+l'espace Oy,Jokipuistonkaari 6,04130,Sipoo,60.3718652,25.281010300000002,99.0,"37,5%",-4.0,-4%,
+meark Oy,Savilahdenkatu 19 lh. 3,50100,Mikkeli,0.0,0.0,,,,,
+nollaE Oy,Lemminkäisenkatu 14-18 A,20520,Turku,60.4509519,22.2901444,505.0,"138,2%",108.0,"25,3%",6.0
+primirjos,Seuratie 3,46110,Tuohikotti,63.9297548,24.951932981461987,,,,,
+sandark Oy,Hallituskatu 7 D 14,28100,Pori,0.0,0.0,,,,,
+tafkaoo architects Oy,Konepajankuja 1,00510,Helsinki,60.1909887,24.949178699999997,115.0,,1.0,"0,9%",
+von Becker,Killisenkatu 23,70300,Kuopio,62.8995219,27.6914538,,,,,
+Ark Pictures,Sibeliuksenkatu 2,15110,Lahti,60.18297020000001,24.924624899999998,,,,,
+ArkVisio Oy,Nuottaniementie 2,80140,Joensuu,60.201899899999994,25.163714199999998,,,,,
+Arkkitehtipalvelu Oy Kuopio,Minna Canthin katu 4,70100,Kuopio,62.89107779999999,27.6939373,,,,,
+Arkkitehtipalvelu Oy Lahti,Askonkatu 2 ,"3.krs,",15100 Lahti,60.97706955,25.66101881477879,,,,,
+Arkkitehtiruutu Oy,Heilinpolku 4,05810,Hyvinkää,35.0065615,118.90255359999999,,,,,
+Arkkitehtitoimisto A1 Arkkitehdit Oy,Tapiontori 1 ,12.,"krs, 02100 Espoo",60.1767746,24.804489399999998,891.0,"-2,9%",18.0,"2,5%",8.0
+Arkkitehtitoimisto Ark'idea Oy,Leppäsuonkatu 9 C,00100,Helsinki,60.1692906,24.9245397,,,,,
+Arkkitehtitoimisto Haroma & Partners Oy,Kasarmikatu 26 E 61,00130,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Heikkinen Sakari,Kuninkaantie 18,02400,Kirkkonummi,60.293442399999996,24.864637100000003,,,,,
+Arkkitehtitoimisto Jorma Paloranta Oy,Läntinen kirkkokatu 5,67100,Kokkola,63.8366516,23.127628993368567,,,,,
+Arkkitehtitoimisto Jorma Paloranta Oy,Kiilakiventie 1,90250,Oulu,64.9849929,25.514497199999997,,,,,
+Arkkitehtitoimisto Laatio Oy,Yrjönkatu 11 D 21,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtitoimisto Linja Arkkitehdit Oy,Kaisaniemenkatu 13 a,00100,Helsinki,60.1707157,24.9454098,5115.0,"23,7%",934.0,"22,9%",55.0
+Arkkitehtitoimisto Lukkaroinen Oy,Bulevardi 5 A 10,00120,Helsinki,60.3775328,23.6153285,,,,,
+Arkkitehtitoimisto Stephan Horn Oy,Solgränd 7,10960,Hangö norra,60.2693551,25.04023074338059,,,,,
+Arkkitehtitoimisto Suunnittelu Teppo Oy,Tammelantie 48 B,97220,Sinettä,62.977477,22.0511462,,,,,
+Arkkitehtitoimisto UKI Arkkitehdit Oy,Yliopistonkatu 17 C,40100,Jyväskylä,60.448084200000004,22.254240600000003,6012.0,"22,3%",451.0,"9,2%",64.0
+Arkkitehtitoimisto UKI Arkkitehdit Oy,Urho Kekkosen katu 4-6 B 6.kerros,00100,Helsinki,0.0,0.0,6012.0,"22,3%",451.0,"9,2%",64.0
+Arkkitehtitoimisto Voitto Suosaari Oy,Teollisuuskatu 1 D,42100,Jämsä,60.19636189999999,24.935891100000003,,,,,
+Arkkitehtitoimisto Vuorelma Arkkitehdit Oy,Pieni Roobertinkatu 10 C 13,00120,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Harto Helpinen Ky,Hämeentie 155 C IV krs,00560,Helsinki,0.0,0.0,,,,,
+Arkkitehtuuritoimisto Husso J-P,Nahkurintie 1 A 3,77600,Suonenjoki,60.8952145,24.2883544,,,,,
+Avario Oy,Bertel Jungin aukio 3 Alberga Business Park  talo D,02600,Espoo,0.0,0.0,1771.0,32%,66.0,"4,7%",22.0
+Edifica Oy,Ilmarinkuja 3,45100,Kouvola,60.8709265,26.71269640591228,,,,,
+Helin & Co Architects,Läntinen Rantakatu 3,20100,Turku,60.449793500000006,22.2714833,4530.0,"-41,9%",2.0,"3,3%",34.0
+Innovarch Oy,Iso-Paavolankatu 2,15520,Lahti,60.9779693,25.6757776,4254.0,"-16,3%",-380.0,-9%,58.0
+Innovarch Oy,Eteläesplanadi 22 B,00700,"krs, 00130 Helsinki",60.1672495,24.9509223,4254.0,"-16,3%",-380.0,-9%,58.0
+Intarc Consulting,Kartanonkatu 14 LH1,30100,Forssa,0.0,0.0,,,,,
+Laitila Arkkitehdit Oy,Malminkaari 23 B,00700,Helsinki,60.2536093,25.0155508,34.0,"-59,6%",14.0,"41,2%",
+N.e.o Ark Oy,Antareksenkatu 22,00540,Helsinki,60.1846713,24.982338393843122,200.0,"9,9%",-42.0,"-20,5%",
+NAC Arkkitehdit Oy,Paciuksenkaari 13,00270,Helsinki,60.196436399999996,24.896525399999998,,,,,
+Optiplan Oy,Uusikatu 35,90100,Oulu,61.4997248,23.748376,13398.0,"-10,4%",49.0,"0,5%",168.0
+Optiplan Oy,Åkerlundinkatu 11 C,33100,Tampere,61.495996,23.776375899999998,13398.0,"-10,4%",49.0,"0,5%",168.0
+Optiplan Oy,Mannerheimintie 105,00280,Helsinki,60.191184400000004,24.9128306,13398.0,"-10,4%",49.0,"0,5%",168.0
+PES-Arkkitehdit Oy,Tynnyrintekijänkatu 1 c,00580,Helsinki,60.1888932,24.9709395,7248.0,"-12,7%",913.0,"15,9%",68.0
+Pen & Hammer Oy Ab,Köydenpunojankatu 14,20100,Turku,60.45683785,22.257519526378992,920.0,"-33,6%",-178.0,"-18,6%",
+Rakennussuunnittelu Alhainen Ky,Länsikatu 15,80100,Joensuu,62.598002,29.7440104,,,,,
+Rockplan,Läntinen Pitkäkatu 21-23,20100,Turku,60.45525840000001,22.260782916732783,,,,,
+Sillman Arkkitehtitoimisto,Käsityökatu 18,70100,Kuopio,62.317833799999995,27.853688800000004,,,,,
+Suunnittelutalo PPG Oy,Patamäenkatu 7,33900,Tampere,61.45585210000001,23.74123025843044,1530.0,"15,5%",327.0,"26,6%",12.0
+Suunnittelutalo PPG Oy,Kalevankatu 14,60100,Seinäjoki,62.5977503,29.751450899999995,1530.0,"15,5%",327.0,"26,6%",12.0
+Sweco Rakennetekniikka Oy,Hallituskatu 20 B,96100,Rovaniemi,60.8690168,26.7238358,,,,,
+Vahanen Rakennusfysiikka Oy,Luukkaantori 7,53300,Lappeenranta,61.0717247,28.260298,,,,,
+Viiri-Ylinenpää Oy,Maneesikatu 4 C,00170,Helsinki,60.1734119,24.9606135,,,,,
+Viiri-Ylinenpää Oy,Jaakonkatu 4-6,96200,Rovaniemi,66.5038631,25.7310141,,,,,
+Zaner Arkkitehdit Oy,Kuormaajantie 8,40320,Jyväskylä,62.2771745,25.787729000000002,,,,,
+Aamurusko Arto Tmi,Tapparakatu 1 C 12,20780,Kaarina,60.9679248,25.648034,,,,,
+Arkkitehti Virtanen Janne,Kynäksenkatu 2 D 14,38710,Kankaanpää,0.0,0.0,,,,,
+Arkkitehti- ja insinööritoimisto Särkijärvi Oy,Nallenpolku 5,02110,Espoo,60.177892099999994,24.8214473,17.0,,-2.0,"-11,8%",
+Arkkitehtisuunnittelu Arkitekturum Oy,Freesenkatu 3,00100,Helsinki,60.172040599999995,24.928742899999996,326.0,"3,5%",0.0,"-0,3%",
+Arkkitehtitoimisto Ari Mäki-Marttunen Oy,Sentnerikuja 3,00440,Helsinki,60.2277969,24.8789647,600.0,-29%,16.0,"3,5%",1.0
+Arkkitehtitoimisto Konkret Oy,Sörnäisten rantatie 27 C,00500,Helsinki,60.184937600000005,24.9662988,1335.0,"7,1%",52.0,"4,9%",
+Arkkitehtuuri- Ja Maisemasuunnittelu Nyman & Ristimäki Oy,Ruoholahdenkatu 8,00180,Helsinki,60.16588170000001,24.9286625,60.0,"-4,8%",1.0,"1,7%",1.0
+Arkkitehtuuritoimisto Valvomo Oy,Kalevankatu 3 B 9,00100,Helsinki,0.0,0.0,,,,,
+Artechnic,Heposuontie 166 A,32300,Mellilä,62.767569099999996,27.343896100000002,,,,,
+Desarc Oy,Koirasaarenrinne 3 C 15,00840,Helsinki,0.0,0.0,,,,,
+Finarch Oy,Pikkukorventie 9,37150,Nokia,61.4973206,23.535710199999997,,,,,
+Insinööritoimisto Lilja Mikko,Syreenintie 10,28660,Pori,61.49142760000001,21.699648159845925,5.0,"-16,7%",1.0,20%,1.0
+Instra Oy,Onervantie 23,01420,Vantaa,60.3304886,25.103590278088923,3.0,,-4.0,"-133,3%",
+J-Kos Oy,Seutulantie 2 A 33,04410,Järvenpää,60.3827475,24.8913872,427.0,"93,2%",208.0,"57,1%",
+JRA Finland Oy,Vanhankyläntie 20 B,04400,Järvenpää,63.00107979999999,22.117075600000003,31.0,"138,5%",9.0,29%,3.0
+Jouhiaho Oy,Välikatu 4,40700,Jyväskylä,61.0603491,28.223495758337197,,,-2.0,,1.0
+Järvi-Suomen Energiasuunnittelu Oy,Kaarnapolku 6,80400,Ylämylly,60.32112635,24.877575200000006,4.0,"-42,9%",-5.0,-150%,0.0
+KR-Konsultit Oy,Kontionkatu 2,80200,Joensuu,62.5963958,29.77978259556521,87.0,,27.0,"28,7%",2.0
+Laser Lundell,Västerlandsvägen 28,02540,Kylmälä,60.2516589,24.3950618,,,,,
+Leena Raiskio,Vasaratie 22 D 30,33710,Tampere,0.0,0.0,,,,,
+Liark Oy,Ulvilantie 2913,00350,Helsinki,61.4641379,21.828989899999996,117.0,"-4,9%",5.0,"5,1%",
+Lighting Desing Kaisa Salmi,Sepänkatu 19 A 16,00150,Helsinki,0.0,0.0,,,,,
+Maisema-Arkkitehtitoimisto Carl Voigt,Myllärinkatu 2,49400,Hamina,60.94183425,25.632050584564524,,,,,
+Maisema-Arkkitehtitoimisto Helena Saatsi,Vuotavantie 402,04600,Mäntsälä,60.899396700000004,22.6659431,,,,,
+Maisema-arkkitehdit Byman & Ruokonen Oy,Hämeentie 133 A,00560,Helsinki,60.45859720000001,22.3083146,464.0,"-3,9%",-13.0,"-2,5%",6.0
+Maisema-arkkitehtitoimisto Näkymä Oy,Mechelininkatu 34 B,00260,Helsinki,60.1680904,24.9209846,1571.0,"-1,7%",351.0,"27,9%",15.0
+Maisema-arkkitehtitoimisto Väyrynen,Tuulihaukantie 6 D 69,90250,Oulu,0.0,0.0,,,,,
+Maisemasuunnittelu Hemgård,Ratakatu 29 A 3,00120,Helsinki,65.00987959999999,25.485612300000003,,,,,
+Molmatsalo Oy,Velttikatu 8,38700,Kankaanpää,61.79862289999999,22.422344199999998,43.0,"7,5%",-23.0,"-53,5%",1.0
+Mäkitalo Oy Suunnittelutoimisto,Puskanperäntie 388,61980,Päntäne,62.328596700000006,21.9798318,276.0,3%,38.0,17%,4.0
+Osratec Tmi,Hehkontie 11,21250,Masku,60.5724259,22.137812300000004,,,,,
+PT-Suunnittelupalvelu Tmi,Sotilaskorventie 1 B,01730,Vantaa,60.3317035,24.866502,,,,,
+Poricon Oy,Neuvosmiehenkatu 23,28120,Pori,61.4838933,21.773023499999997,9.0,"-30,8%",-2.0,"-18,2%",
+Rakennus Tammi Oy,Karjalankatu 2 B,08150,Lohja,61.011513,24.4917152,,,-46.0,,
+Rakennus- ja Maaseutusuunnittelu Savon RMS Oy,Rutakontie 28,74300,Sonkajärvi,63.67010285,27.52327925697154,,,10.0,,
+Rakennusapu Jouko Tyrväinen Tmi,Kangasniementie 1275,77220,Neuvola,61.6567575,22.350038,,,,,
+Rakennusarkkitehti Aatos Paalanen,Leipurintie 14 as 6,62420,Kortesjärvi,0.0,0.0,,,,,
+Rakennusarkkitehti Marko Arvonen,Oinaankuja 4,23500,Uusikaupunki,60.27695775,24.99399865,,,31.0,"37,5%",1.0
+Rakennuskonsultointi Tervo RKT,Ketunkatu 2,65350,Vaasa,60.42834615,22.341979606249648,,,,,
+Rakennuspalvelut Jarmo Kallinen,Eemintie 2,83900,Juuka,64.2541869,23.924431600000002,,,,,
+Rakennussuunnittelu Aila Jokinen,Nokkahiidentie 217,25370,Pertteli,60.4879701,23.3082487,,,,,
+Rakennussuunnittelu Airi Penttilä Oy,Tuomelantie 15,45370,Valkeala,62.2921294,27.1441321,10.0,100%,6.0,50%,1.0
+Rakennussuunnittelu Hannu Kivinen Ky,Lampitie 7,19600,Hartola,61.877357700000005,28.990828399999998,,,,,
+Rakennussuunnittelu Koskinen Oy,Koskipolku 2,29600,Noormarkku,60.653050199999996,23.1406187,,,2.0,,1.0
+Rakennussuunnittelu Matti Salo Oy,Vallaantie 22,08700,Lohja,60.194547899999996,23.998986600000002,29.0,"-83,8%",-27.0,"-81,8%",1.0
+Rakennussuunnittelu Merja Vaitti,Suupankuja 12-14 D 33,33960,Pirkkala,0.0,0.0,,,,,
+Rakennussuunnittelu Pohto V. Ky,Keskuskatu 12 A 7,60100,Seinäjoki,0.0,0.0,,,,,
+Rakennussuunnittelutoimisto Antero Kuosmanen Oy,Jokitie 13,71800,Siilinjärvi,60.96049985000001,25.639915316999968,,,-7.0,,1.0
+Rakennussuunnittelutoimisto Turunen & Räisänen Ky,Yrittäjäntie 6,70150,Kuopio,62.58073195,29.80180965,,,,,
+Rakteekki Ky,Nopontie 42,05620,Hyvinkää,62.711579099999994,27.571965600000002,,,,,
+Rapp Jouko Antero,Asemanpellontie 22,08500,Lohja,60.261651,24.1194317,,,,,
+Rekkapalvelut Oy Kotka,Lekatie 5,48400,Kotka,62.6305934,29.745644300000002,,,22.0,"78,6%",0.0
+Render Vision Finland Oy,Rautiaisenkuja 2,21210,Raisio,60.2375844,24.80506678656347,,,-1.0,,
+Senior Experts,Lapinkävijäntie 1,96100,Rovaniemi,66.49896609999999,25.7129184,,,,,
+Sisustusarkkitehdit Sistem Oy,Helenankatu 4 B,00170,Helsinki,60.3893808,23.1236176,249.0,"-22,4%",50.0,"23,5%",
+Sisustusarkkitehti Pauli Laitinen,Kanneltie 13 A 4,00420,Helsinki,60.2432948,24.8784343,,,,,
+Sisustusarkkitehtitoimisto Antti Paatero Oy,Ratakatu 19,00120,Helsinki,42.0352799,21.037494600000002,3.0,"-76,4%",-8.0,"-60,8%",
+Sisustusarkkitehtitoimisto Räihä,Rajamännynahde 5 A 2,02710,Espoo,60.226401100000004,24.7426638,,,,,
+Sisustusarkkitehtuuritoimisto Oy Karja & Ko Ab,Eteläinen Hesperiankatu 26,00100,Helsinki,60.176222499999994,24.9215056,284.0,"23,5%",102.0,"45,1%",
+Smetek Oy,Pullintorpantie 63,08500,Lohja,60.3235733,24.104499899999997,21.0,"-71,2%",-1.0,"-4,8%",
+Solmu Design Avoin yhtiö,Itäinen Kirkkokatu 39,67100,Kokkola,63.8435154,23.1277103,,,,,
+Studio Bergroth Oy Päivi Bergroth,Eteläesplanadi 22,00130,Helsinki,60.16685,24.945481100000002,,,,,
+Studio Olin Ky,Kalliolanrinne 4 A,00510,Helsinki,60.1882277,24.947871,,,,,
+Sunhouse Talot Oy,Hauhontie 4 G 40,00550,Helsinki,0.0,0.0,,,,,
+Suppanen Ilkka Studio Oy,Sturenkatu 13,00510,Helsinki,60.193187300000005,24.9544127,108.0,"22,7%",6.0,12%,
+Suunnittelu-Markkinointitoimisto Mainetyö,Kalliomaankatu 7,15150,Lahti,60.98261255,25.688461919049,,,,,
+Suunnittelutoimisto Amerikka Oy,Vilhonvuorenkatu 11 D 8,00500,Helsinki,0.0,0.0,,,,,
+Suunnittelutoimisto Askel,Kaislatie 3 S 55,90150,Oulu,0.0,0.0,,,,,
+Suunnittelutoimisto Dimensio Oy,Sentnerikuja 3 A,00440,Helsinki,60.2282355,24.8792524,,,,,
+Suunnittelutoimisto Eero Bruun,Kuukusenkuja 10,70800,Kuopio,62.8304488,27.6209908,,,,,
+Suunnittelutoimisto PN-Line Oy Ltd,Lapinkaari 23 A 19,33180,Tampere,0.0,0.0,,,,,
+Suunnittelutoimisto Striimi,Ylä-Fallin tie 1 H 34,00690,Helsinki,0.0,0.0,,,,,
+Suunnittelutoimisto Toivepuutarha,Muddaistentie 297,21600,Parainen,60.304745600000004,22.3488824,,,,,
+Suunnittelutoimisto Yrjö Wegelius Oy,Merivirta 15 A 5,02320,Espoo,0.0,0.0,,,,,
+Suunnitteluvinkki Oy,Luhtapolku 8,33960,Pirkkala,60.19794255,24.68951203375152,,,,,
+TE Suunnittelu Oy,Pukkilahdentie 47,85800,Haapajärvi,63.742359400000005,25.2883278,7.0,,16.0,"14,3%",
+Taivasalla Oy Jukka Vesanen,Muurarintie 4,15550,Nastola,60.46971365,22.21458180136623,33.0,32%,4.0,"15,2%",
+Talotaitajat,Pihlajatie 24 A 3,00270,Helsinki,65.0012318,25.5327948,13.0,"-60,6%",-13.0,-100%,
+Talotyö Lohtander,Pajatie 2,36640,Iltasmäki,62.230363,25.6982389,,,,,
+Tilakonsultit TM2 Oy,Vanha Talvitie 19 A,00580,Helsinki,60.1906988,24.975959500000002,293.0,"-29,1%",15.0,"5,1%",3.0
+Valiorakenne Oy,Neitsytpolku 6,00140,Helsinki,60.15723829999999,24.9495131,243.0,"105,9%",86.0,44%,
+Varsinais-Suomen Rakennussuunnittelu Oy,Tasalanaukio 3,21200,Raisio,60.48511310000001,22.1632533,,,,,
+Viheroksa Oy,Puoshaanraitti 2,18100,Heinola,60.089784200000004,24.4118474,,,,,
+Virtual Design Rendering Oy,Kumpulantie 3,00520,Helsinki,60.1965534,24.941916199999998,998.0,"75,4%",33.0,"3,8%",6.0
+Ympäristönsuunnittelu Oy Pirkanmaa,Satakunnankatu 22 G 156,33210,Tampere,0.0,0.0,,,,,
+Ympäristönsuunnittelu Oy,Sibeliuksenkatu 11 B,13100,Hämeenlinna,60.1823754,24.9221213,,,,,
+Kuvapuisto,Kuivannontie 619,16280,Kuivanto,60.9205241,25.9995783,,,,,
