@@ -1,3 +1,4 @@
+name,address,profile
 Arkkitehtitoimisto Jari Hintsala,"Leirintäalueentie 3, 97700 Ranua",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jari+Hintsala/Ranua/yhteystiedot/394873
 Arkkitehtitoimisto Juhani Aalto Oy,"Iso Kylätie 43, 04130 Sipoo",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Juhani+Aalto+Oy/Sipoo/yhteystiedot/3046970
 Aihio Arkkitehdit Oy,"Satakunnankatu 18 A, 33210 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Aihio+Arkkitehdit+Oy/Tampere/yhteystiedot/116557
@@ -17,12 +18,12 @@ ArkVisio Oy,"Puustellinpolku 12, 00410 Helsinki",https://www.finder.fi/Arkkiteht
 Arkkitehtitoimisto Hyvärinen & Co Oy,"Vattuniemenkatu 15 A, 00210 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Hyv%C3%A4rinen+%26+Co+Oy/Helsinki/yhteystiedot/187172
 Arkkitehtuuritoimisto Arsatek Oy,"Possijärvenkatu 1, 33400 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtuuritoimisto+Arsatek+Oy/Tampere/yhteystiedot/116620
 Kakadu,"Kaikukatu 2 C, 00530 Helsinki",https://www.finder.fi/Sisustusarkkitehtitoimisto/Kakadu/Helsinki/yhteystiedot/1240703
+Arkkitehtitoimisto Jorma Paloranta Oy,"Kyöstintie 29, 84100 Ylivieska",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Ylivieska/yhteystiedot/125732
+Arkkitehtitoimisto Jorma Paloranta Oy,"Läntinen kirkkokatu 5, 67100 Kokkola",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Kokkola/yhteystiedot/1833155
 Arkkitehtuuritoimisto Jaakko Nieminen Oy,"Alinenkatu 43, 37100 Nokia",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtuuritoimisto+Jaakko+Nieminen+Oy/Nokia/yhteystiedot/116524
 Suunnittelu- ja Piirustuspalvelu A Heikkinen Oy,"Kintastie 4, 87700 Kajaani",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Suunnittelu-+ja+Piirustuspalvelu+A+Heikkinen+Oy/Kajaani/yhteystiedot/3149733
 Arkyhtymä Oy,"Viipurintie 45, 15150 Lahti",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkyhtym%C3%A4+Oy/Lahti/yhteystiedot/125983
 Ajan Arkkitehdit Oy,"Raatihuoneenkatu 19 B, 5. kerros, 13100 Hämeenlinna",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Ajan+Arkkitehdit+Oy/H%C3%A4meenlinna/yhteystiedot/351431
-Suunnittelutalo PPG Oy,"Virtaintie 17, 34800 Virrat",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Suunnittelutalo+PPG+Oy/Virrat/yhteystiedot/1665661
-Arkitektbyrå R. Wingren Ab,"Villavägen 8, 68580 Larsmo",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkitektbyr%C3%A5+R+Wingren+Ab/Larsmo/yhteystiedot/403874
 Arkkitehtitoimisto Jari Hintsala,"Leirintäalueentie 3, 97700 Ranua",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jari+Hintsala/Ranua/yhteystiedot/394873
 Arkkitehtitoimisto Juhani Aalto Oy,"Iso Kylätie 43, 04130 Sipoo",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Juhani+Aalto+Oy/Sipoo/yhteystiedot/3046970
 Aihio Arkkitehdit Oy,"Satakunnankatu 18 A, 33210 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Aihio+Arkkitehdit+Oy/Tampere/yhteystiedot/116557
@@ -42,6 +43,8 @@ ArkVisio Oy,"Puustellinpolku 12, 00410 Helsinki",https://www.finder.fi/Arkkiteht
 Arkkitehtitoimisto Hyvärinen & Co Oy,"Vattuniemenkatu 15 A, 00210 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Hyv%C3%A4rinen+%26+Co+Oy/Helsinki/yhteystiedot/187172
 Arkkitehtuuritoimisto Arsatek Oy,"Possijärvenkatu 1, 33400 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtuuritoimisto+Arsatek+Oy/Tampere/yhteystiedot/116620
 Kakadu,"Kaikukatu 2 C, 00530 Helsinki",https://www.finder.fi/Sisustusarkkitehtitoimisto/Kakadu/Helsinki/yhteystiedot/1240703
+Arkkitehtitoimisto Jorma Paloranta Oy,"Kyöstintie 29, 84100 Ylivieska",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Ylivieska/yhteystiedot/125732
+Arkkitehtitoimisto Jorma Paloranta Oy,"Läntinen kirkkokatu 5, 67100 Kokkola",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Kokkola/yhteystiedot/1833155
 Arkkitehtuuritoimisto Jaakko Nieminen Oy,"Alinenkatu 43, 37100 Nokia",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtuuritoimisto+Jaakko+Nieminen+Oy/Nokia/yhteystiedot/116524
 Suunnittelu- ja Piirustuspalvelu A Heikkinen Oy,"Kintastie 4, 87700 Kajaani",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Suunnittelu-+ja+Piirustuspalvelu+A+Heikkinen+Oy/Kajaani/yhteystiedot/3149733
 Arkyhtymä Oy,"Viipurintie 45, 15150 Lahti",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkyhtym%C3%A4+Oy/Lahti/yhteystiedot/125983
@@ -57,7 +60,6 @@ Arrak Arkkitehdit Kiiskilä Rautiola Rautiola Oy,"Pursimiehenkatu 6 C, 00150 Hel
 Arkkitehtuuri Oy Lehtinen Miettunen,"Viipurintie 4, 13200 Hämeenlinna",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtuuri+Oy+Lehtinen+Miettunen/H%C3%A4meenlinna/yhteystiedot/477374
 Arkkitehtitoimisto Kronlöf Pauliina ja Juha Oy,"Sepänkatu 17 F 2. krs, 00150 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Kronl%C3%B6f+Pauliina+ja+Juha+Oy/Helsinki/yhteystiedot/232219
 Arkkitehtitoimisto Haroma & Partners Oy,"Itäinen Rantakatu 74 D 169, 20810 Turku",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Haroma+%26+Partners+Oy/Turku/yhteystiedot/520147
-Arkkitehtitoimisto Jorma Paloranta Oy,"Kyöstintie 29, 84100 Ylivieska",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Ylivieska/yhteystiedot/125732
 Arkkitehtitoimisto Lindqvist Marjut,"Simpukkatie 28, 48310 Kotka",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Lindqvist+Marjut/Kotka/yhteystiedot/744645
 Plaana Oy,"Tyrnäväntie 12, 90400 Oulu",https://www.finder.fi/Insin%C3%B6%C3%B6ritoimisto+suunnittelutoimisto/Plaana+Oy/Oulu/yhteystiedot/232305
 Studio Puisto Arkkitehdit Oy,"Mariankatu 7 A 4, 00170 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Studio+Puisto+Arkkitehdit+Oy/Helsinki/yhteystiedot/2922925
@@ -96,6 +98,7 @@ V-S Tekniikkatalo Oy,"Maariankatu 4 A, 20100 Turku",https://www.finder.fi/Arkkit
 Arkkitehdit Davidsson Tarkela Oy,"Kasarmikatu 36, 00130 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehdit+Davidsson+Tarkela+Oy/Helsinki/yhteystiedot/125681
 Rockplan,"Kellosilta 5 B 3. krs, 00520 Helsinki",https://www.finder.fi/Insin%C3%B6%C3%B6ritoimisto+suunnittelutoimisto/Rockplan/Helsinki/yhteystiedot/199151
 Hila Arkkitehdit Oy,"Hämeenkatu 22, 20500 Turku",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Hila+Arkkitehdit+Oy/Turku/yhteystiedot/2817070
+Arkkitehtitoimisto Yrjö J. Warvas Oy,"Kalevankatu 4, 08100 Lohja",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Yrj%C3%B6+J+Warvas+Oy/Lohja/yhteystiedot/125961
 NAC Arkkitehdit Oy,"Vaasanpuistikko 18, 65100 Vaasa",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/NAC+Arkkitehdit+Oy/Vaasa/yhteystiedot/213250
 Arkkitehtitoimisto Ark'Aboa Oy,"Nahkurinkatu 8, 20100 Turku",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Ark+Aboa+Oy/Turku/yhteystiedot/203234
 Arkkitehtitoimisto HKP,"Bulevardi 44 , 4. krs, 00120 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+HKP/Helsinki/yhteystiedot/125718
@@ -260,7 +263,6 @@ Hannu Tenho,"Kauppiaskatu 5 A, 20100 Turku",https://www.finder.fi/yhteystieto/18
 Milja Nuorkivi,"Hämeentie 155 C, 00560 Helsinki",https://www.finder.fi/yhteystieto/1476265405_233620/Milja+Nuorkivi/Helsinki
 Leena Tuovinen,"Hämeentie 155 C, 00560 Helsinki",https://www.finder.fi/yhteystieto/1476265418_233620/Leena+Tuovinen/Helsinki
 Hanna Staaf,"Hämeentie 155 C, 00560 Helsinki",https://www.finder.fi/yhteystieto/1476265431_233620/Hanna+Staaf/Helsinki
-Arkkitehtitoimisto Yrjö J. Warvas Oy,"Kalevankatu 4, 08100 Lohja",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Yrj%C3%B6+J+Warvas+Oy/Lohja/yhteystiedot/125961
 A. K. E. Studio Oy Arkkitehtuuritoimisto,"Kilpijärventie 140, 04740 Sälinkää",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/A+K+E+Studio+Oy+Arkkitehtuuritoimisto/S%C3%A4link%C3%A4%C3%A4/yhteystiedot/2686746
 ARC-VIVA Arkkitehtitoimisto,"Sepänkuja 8, 86600 Haapavesi",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/ARC-VIVA+Arkkitehtitoimisto/Haapavesi/yhteystiedot/430562
 ARK Miettinen Oy,"Runeberginkatu 40 B 43, 00260 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/ARK+Miettinen+Oy/Helsinki/yhteystiedot/330161
@@ -620,7 +622,7 @@ Arkkitehtitoimisto Aki Korhonen Oy,"Teknologiantie 1 A 201, 90590 Oulu",https://
 Arkkitehtitoimisto Akkuna,"Alikyläntie 14, 36600 Pälkäne",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Akkuna/P%C3%A4lk%C3%A4ne/yhteystiedot/3102193
 Arkkitehtitoimisto Ala Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Ala+Oy/Helsinki/yhteystiedot/735524
 Arkkitehtitoimisto Alexina Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Alexina+Oy/Helsinki/yhteystiedot/3343910
-Arkkitehtitoimisto Amberla,"Isokaari 3, 00200 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Amberla/Helsinki/yhteystiedot/2821318
+Arkkitehtitoimisto Amberla,"Hakolahdentie 15 D, 00200 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Amberla/Helsinki/yhteystiedot/2821318
 Arkkitehtitoimisto Ami Oja Tmi,"Bulevardi 44, 00180 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Ami+Oja+Tmi/Helsinki/yhteystiedot/749035
 Arkkitehtitoimisto Anna-Liisa Nisu,"Väinö Auerin katu 7 D, 00560 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Anna-Liisa+Nisu/Helsinki/yhteystiedot/1238308
 Arkkitehtitoimisto Anna-Maija Kaihari Ky,"Teiskontie 15 B 22, 33500 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Anna-Maija+Kaihari+Ky/Tampere/yhteystiedot/116548
@@ -873,7 +875,6 @@ Arkkitehtitoimisto Oona Masso,"Ylistörmä 5 A 2, 02210 Espoo",https://www.finde
 Arkkitehtitoimisto Opus Oy,"Apollonkatu 6, 00100 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Opus+Oy/Helsinki/yhteystiedot/3169438
 Arkkitehtitoimisto PSM Oy,"Selkämerenkatu 6 C 48, 00180 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+PSM+Oy/Helsinki/yhteystiedot/125817
 Arkkitehtitoimisto Paalimäki & Pollock Oy,"Välimerenkatu 13 A 21, 00180 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paalim%C3%A4ki+%26+Pollock+Oy/Helsinki/yhteystiedot/125808
-Arkkitehtitoimisto Paatela & Co Oy,"Kirjokansi 1 D 69, 02100 Espoo",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paatela+%26+Co+Oy/Espoo/yhteystiedot/2641036
 Arkkitehtitoimisto Pasi Siistonen Oy,"Itäinen Kuninkaantie 193b, 02580 Siuntio",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Pasi+Siistonen+Oy/Siuntio/yhteystiedot/1218370
 Arkkitehtitoimisto Paukkunen,"Mestarinkatu 15 as. 27, 20810 Turku",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paukkunen/Turku/yhteystiedot/3118344
 Arkkitehtitoimisto Paula Leiwo Oy,"Kapteeninkatu 5 lh. 4, 00140 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paula+Leiwo+Oy/Helsinki/yhteystiedot/2856759
@@ -1379,7 +1380,6 @@ Kämäräinen Pentti Consulting Oy,"Tervaraitti 4 A 14, 90100 Oulu",https://www.
 Kärki arkkitehtuuri,"Kaatokiilantie 7, 60200 Seinäjoki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/K%C3%A4rki+arkkitehtuuri/Sein%C3%A4joki/yhteystiedot/3176374
 L'arc Oy,"Kisakuja 13, 55610 Imatra",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/L+arc+Oy/Imatra/yhteystiedot/527121
 L.a.B. Arkkitehdit Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/L+a+B+Arkkitehdit+Oy/Helsinki/yhteystiedot/429821
-LOAFALO Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/LOAFALO+Oy/Jyv%C3%A4skyl%C3%A4/yhteystiedot/3311172
 LOCI maisema-arkkitehdit Oy,"Ruoholahdenkatu 8 , 7. krs, 00180 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/LOCI+maisema-arkkitehdit+Oy/Helsinki/yhteystiedot/1829168
 LTR-suunnittelu Oy,"Välimerenkatu 13 A 15, 00180 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/LTR-suunnittelu+Oy/Helsinki/yhteystiedot/151018
 Lady Felsham Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Lady+Felsham+Oy/Turku/yhteystiedot/2517119
@@ -1404,6 +1404,7 @@ Linja Group Oy,"Kansankatu 49, 90100 Oulu",https://www.finder.fi/Arkkitehtitoimi
 LinneArk,"Isokaari 6 lh. 43, 00200 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/LinneArk/Helsinki/yhteystiedot/3232972
 Linto Oy,"Räisäläntie 32 A, 02140 Espoo",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Linto+Oy/Espoo/yhteystiedot/1951243
 Lion Architects,"Vanhapirjolantie 21, 04530 Ohkola",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Lion+Architects/Ohkola/yhteystiedot/3567954
+Loafalo Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Loafalo+Oy/Jyv%C3%A4skyl%C3%A4/yhteystiedot/3311172
 Loghousemaster Heikki Enäsuo,"Rekitie 16 b J, 00950 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Loghousemaster+Heikki+En%C3%A4suo/Helsinki/yhteystiedot/1226156
 Lohman Arkkitehdit Oy ja Arkkitehtitoimisto Lindroos Markus Ky,"Vanhaistentie 12 M 77, 00420 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Lohman+Arkkitehdit+Oy+ja+Arkkitehtitoimisto+Lindroos+Markus+Ky/Helsinki/yhteystiedot/835699
 Lukka Arkkitehdit,"Uikunkuja 13, 28100 Pori",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Lukka+Arkkitehdit/Pori/yhteystiedot/3314830
@@ -1817,6 +1818,7 @@ Uusi Kaupunki Kollektiivi Oy,"Punavuorenkatu 1 B, 00120 Helsinki",https://www.fi
 VMO-Palvelu,"Puutteenkuja 1, 42700 Keuruu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/VMO-Palvelu/Keuruu/yhteystiedot/3223792
 VNN Concept,"Biskopsgatan 11, 68600 Jakobstad",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/VNN+Concept/Jakobstad/yhteystiedot/2815076
 VP-Mittaus Oy,"Vesanojantie 627, 31470 Somerniemi",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/VP-Mittaus+Oy/Somerniemi/yhteystiedot/348039
+VRAD,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/VRAD/Raisio/yhteystiedot/3569343
 VaBe Suunnittelu Oy,"Lautatarhankatu 10, 00580 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/VaBe+Suunnittelu+Oy/Helsinki/yhteystiedot/3257064
 Vaahteranlehti Tmi,"Karhunsammaleenkatu 9 as. 1, 20780 Kaarina",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Vaahteranlehti+Tmi/Kaarina/yhteystiedot/2666612
 Vaaka-ARK Oy,"Pajakatu 1 A 2, 80260 Joensuu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Vaaka-ARK+Oy/Joensuu/yhteystiedot/3203143
@@ -1892,7 +1894,6 @@ Arkkitehtitoimisto A1 Arkkitehdit Oy,"Tapiontori 1 , 12. krs, 02100 Espoo",https
 Arkkitehtitoimisto Ark'idea Oy,"Leppäsuonkatu 9 C, 00100 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Ark+idea+Oy/Helsinki/yhteystiedot/330056
 Arkkitehtitoimisto Haroma & Partners Oy,"Kasarmikatu 26 E 61, 00130 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Haroma+%26+Partners+Oy/Helsinki/yhteystiedot/2863474
 Arkkitehtitoimisto Heikkinen Sakari,"Kuninkaantie 18, 02400 Kirkkonummi",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Heikkinen+Sakari/Kirkkonummi/yhteystiedot/816153
-Arkkitehtitoimisto Jorma Paloranta Oy,"Läntinen kirkkokatu 5, 67100 Kokkola",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Kokkola/yhteystiedot/1833155
 Arkkitehtitoimisto Jorma Paloranta Oy,"Kiilakiventie 1, 90250 Oulu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Jorma+Paloranta+Oy/Oulu/yhteystiedot/2683913
 Arkkitehtitoimisto Laatio Oy,"Yrjönkatu 11 D 21, 00120 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Laatio+Oy/Helsinki/yhteystiedot/850285
 Arkkitehtitoimisto Linja Arkkitehdit Oy,"Kaisaniemenkatu 13 a, 00100 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Linja+Arkkitehdit+Oy/Helsinki/yhteystiedot/3146949
@@ -1911,9 +1912,9 @@ Innovarch Oy,"Eteläesplanadi 22 B, 2. krs, 00130 Helsinki",https://www.finder.f
 Intarc Consulting,"Kartanonkatu 14 LH1, 30100 Forssa",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Intarc+Consulting/Forssa/yhteystiedot/2807227
 Laitila Arkkitehdit Oy,"Malminkaari 23 B, 00700 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Laitila+Arkkitehdit+Oy/Helsinki/yhteystiedot/1941116
 NAC Arkkitehdit Oy,"Paciuksenkaari 13, 00270 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/NAC+Arkkitehdit+Oy/Helsinki/yhteystiedot/213260
-Optiplan Oy,"Uusikatu 35, 90100 Oulu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Optiplan+Oy/Oulu/yhteystiedot/3067310
 Optiplan Oy,"Åkerlundinkatu 11 C, 33100 Tampere",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Optiplan+Oy/Tampere/yhteystiedot/116769
 Optiplan Oy,"Mannerheimintie 105, 00280 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Optiplan+Oy/Helsinki/yhteystiedot/131594
+Optiplan Oy,"Uusikatu 35, 90100 Oulu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Optiplan+Oy/Oulu/yhteystiedot/3067310
 PES-Arkkitehdit Oy,"Tynnyrintekijänkatu 1 c, 00580 Helsinki",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/PES-Arkkitehdit+Oy/Helsinki/yhteystiedot/3136016
 Rakennussuunnittelu Alhainen Ky,"Länsikatu 15, 80100 Joensuu",https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Rakennussuunnittelu+Alhainen+Ky/Joensuu/yhteystiedot/410839
 Rockplan,"Läntinen Pitkäkatu 21-23, 20100 Turku",https://www.finder.fi/Insin%C3%B6%C3%B6ritoimisto+suunnittelutoimisto/Rockplan/Turku/yhteystiedot/3269608
@@ -2166,6 +2167,7 @@ Arkkitehtitoimisto Ojonen Pekka Oy,,https://www.finder.fi/Arkkitehtitoimisto+suu
 Arkkitehtitoimisto Oulun CAD-Keskus Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Oulun+CAD-Keskus+Oy/Oulu/yhteystiedot/161292
 Arkkitehtitoimisto Paasi Sami,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paasi+Sami/Espoo/yhteystiedot/786161
 Arkkitehtitoimisto Paaso Esa - Finngroup Architects & Consultants,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paaso+Esa+-+Finngroup+Architects+%26+Consultants/Helsinki/yhteystiedot/125690
+Arkkitehtitoimisto Paatela & Co Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Paatela+%26+Co+Oy/Espoo/yhteystiedot/2641036
 Arkkitehtitoimisto Pekkarinen-Kanerva Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Pekkarinen-Kanerva+Oy/Espoo/yhteystiedot/125818
 Arkkitehtitoimisto Pentti Pouttu Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Pentti+Pouttu+Oy/Jyv%C3%A4skyl%C3%A4/yhteystiedot/927810
 Arkkitehtitoimisto Pertti Nousiainen Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Arkkitehtitoimisto+Pertti+Nousiainen+Oy/Jyv%C3%A4skyl%C3%A4/yhteystiedot/216066
@@ -2285,7 +2287,6 @@ Edifiles Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Edifil
 Eka Design Company Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Eka+Design+Company+Oy/Ala-pihlaja/yhteystiedot/2821543
 Eolo Trading Järvinen,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Eolo+Trading+J%C3%A4rvinen/Pori/yhteystiedot/374339
 Erno Honkonen,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Erno+Honkonen/Helsinki/yhteystiedot/3150459
-Eskolin Juha Pekka Tmi,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Eskolin+Juha+Pekka+Tmi/Tampere/yhteystiedot/1225079
 Fami-Ark Ab,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Fami-Ark+Ab/Karper%C3%B6/yhteystiedot/1598977
 Fin-Sino Development Cooperation Center Oy,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Fin-Sino+Development+Cooperation+Center+Oy/Helsinki/yhteystiedot/1827248
 Fribergs hus-talot,,https://www.finder.fi/Arkkitehtitoimisto+suunnittelutoimisto/Fribergs+hus-talot/Karis/yhteystiedot/1530922
