@@ -24,9 +24,10 @@ Käyttökate                              EBITDA
 
 def profile_links_iterator(link_list):
     """
-    This function iterates through the list of all links in input list adn extracts
+    This function iterates through the list of all links in
+    input list and extracts the financial information for a specified year
     """
-    for link in tqdm(link_list[:25]):
+    for link in tqdm(link_list):
         columns = []
         office_df = []
 
@@ -37,22 +38,18 @@ def profile_links_iterator(link_list):
 
         try:
             office_name_container = page_soup.findAll("div", {"class": "Profile__Name listing-name"})
-        except:
+            office_name = office_name_container[0].text
+        except IndexError:
             office_name_container = page_soup.findAll("div", {"class": "Profile__Name Profile__Name--short listing-name"})
-        finally:
-            print("This one is tricky bastard")
-            pass
-
-        office_name = office_name_container[0].text
+            office_name = office_name_container[0].text
 
         try: # Reading the links with Pandas
             office_profile_link_html = pd.read_html(link)
             for dataframe in office_profile_link_html:
+                dataframe.loc[:, dataframe.columns.str.startswith(YEAR)]
                 for title in dataframe.columns:
                     short_title = title[:-3]
                     columns.append(short_title)
-            
-            dataframe.columns = columns
 
             office_row = pd.DataFrame(data={"column": ["turnover", "change in turnover", "profit", "operative profit", "personnel"]})
 
@@ -73,7 +70,6 @@ def main():
     profile_links = df["profiles"]
 
     profile_links_iterator(profile_links)
-
 
 if __name__ == "__main__":
     main()
