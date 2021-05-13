@@ -1,4 +1,7 @@
 # Finnish Architectural Landscape: A Statistical Cross Section
+
+!["image"](images/boxplot.png)
+
 ## In this Noetbook you can find the initial exploratory data analysis behind [this article](https://towardsdatascience.com/finnish-architectural-landscape-a-statistical-cross-section-bf68637b3eaa?sk=59ee0de17746bff5510120d421d991f5) published in [Towards Data Science](https://towardsdatascience.com/). ##
 
 **Abstract**
